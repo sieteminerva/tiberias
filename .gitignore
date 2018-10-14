@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+package.json
+package-lock.json
+.editorconfig
+tsconfig.json
+
+# App
+serviceAccountKey.json
+.bak/
+dist/
+src/
+TODO
+api/preset-places.json
+.env
