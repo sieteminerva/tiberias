@@ -1,771 +1,768 @@
-{
-  "added": [],
-  "removed": [],
-  "all": [
-    {
-      "givenName": "Pdt. DR. YESAYA PARIADJI",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "jobtitle": "Gembala Sidang dan Ketua Sinode",
-      "name": "Yesaya Pariadji",
-      "key": "-LOkqFvRsiLl9U1-al2n"
-    },
-    {
-      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
-      "title": "Pdm.",
-      "suffix": "M.Si, M.Th.",
-      "name": "Aristo Pariadji",
-      "key": "-LOkqFvRWCRH266g6XN3"
-    },
-    {
-      "givenName": "ARGO PARIADJI",
-      "name": "Argo Pariadji",
-      "key": "-LOkqFvRrxu-wkMiVolb"
-    },
-    {
-      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
-      "title": "Pdt.",
-      "jobtitle": "Asisten Gembala Sidang",
-      "suffix": "S.H., M.Th.",
-      "name": "Gideon Simanjuntak",
-      "key": "-LOkqFvR0Hj5_Neqg3ts"
-    },
-    {
-      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
-      "title": "Pdt.",
-      "jobtitle": "Asisten Gembala Sidang",
-      "suffix": "S.Th.",
-      "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LOkqFvRl1NgU9DpKYrW"
-    },
-    {
-      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
-      "title": "Pdt.",
-      "jobtitle": "Asisten Gembala Sidang",
-      "suffix": "S.Th.",
-      "name": "Melvin B. Tuela",
-      "key": "-LOkqFvR3bQuucET7mWf"
-    },
-    {
-      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Markus Mercio Pattinama",
-      "key": "-LOkqFvRxxMMl3dD4ffy"
-    },
-    {
-      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
-      "title": "Pdt.",
-      "jobtitle": "Staff Gembala Sidang",
-      "suffix": "S.E., M.Th.",
-      "name": "Alexander Simanjuntak",
-      "key": "-LOkqFvRQQX6LySOIj27"
-    },
-    {
-      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
-      "title": "Pdt.",
-      "jobtitle": "Staff Gembala Sidang",
-      "suffix": "B.Bus., M.Th.",
-      "name": "Lukas Verdy",
-      "key": "-LOkqFvRTsQ1cL0ct-op"
-    },
-    {
-      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
-      "title": "Pdt.",
-      "jobtitle": "Staff Gembala Sidang",
-      "suffix": "S.E., M.Th.",
-      "name": "Marcel Saerang",
-      "key": "-LOkqFvRYQOWjlAWUX5e"
-    },
-    {
-      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
-      "title": "Pdt.",
-      "jobtitle": "Staff Gembala Sidang",
-      "suffix": "S.Th.",
-      "name": "Sandy Siskandar S.th",
-      "key": "-LOkqFvRf3j6hvdv17sp"
-    },
-    {
-      "givenName": "Pdt. THEDDI LUSLI, M.M., M.Th.",
-      "title": "Pdt.",
-      "suffix": "M.M., M.Th.",
-      "name": "Theddi Lusli",
-      "key": "-LOkqFvR2BO1FD9tOVek"
-    },
-    {
-      "givenName": "Pdt. DR. DAVID SUMUAL",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "name": "David Sumual",
-      "key": "-LOkqFvR-lfKyQPnKj6A"
-    },
-    {
-      "givenName": "Pdt. ANDREAS MELKISEDEK",
-      "title": "Pdt.",
-      "name": "Andreas Melkisedek",
-      "key": "-LOkqFvRCI8jEcSzPB6p"
-    },
-    {
-      "givenName": "Pdt. DR. Ir. MATIUS JUSUF, M.M., D.Min.",
-      "title": "Pdt.",
-      "prefix": "DR. Ir.",
-      "suffix": "M.M., D.Min.",
-      "name": "Matius Jusuf",
-      "key": "-LOkqFvRjpGuNT9BzPVT"
-    },
-    {
-      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "suffix": "M.A., D.Th.",
-      "name": "Denny Harseno",
-      "key": "-LOkqFvRlAoZYlBIPE47"
-    },
-    {
-      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
-      "title": "Pdt.",
-      "prefix": "Ir.",
-      "suffix": "M.Th.",
-      "name": "Mulyawan Wirianata",
-      "key": "-LOkqFvR_b4XUsYdDEZ6"
-    },
-    {
-      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
-      "title": "Pdt.",
-      "prefix": "Ir.",
-      "suffix": "M.Th.",
-      "name": "Bernard Wiradarma",
-      "key": "-LOkqFvRieLunmwFQFen"
-    },
-    {
-      "givenName": "Pdt. HERRYANTO HIDAYAT",
-      "title": "Pdt.",
-      "name": "Herryanto Hidayat",
-      "key": "-LOkqFvR3Yr7uiB1U5di"
-    },
-    {
-      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Elfris Sirait",
-      "key": "-LOkqFvRcHknOiukFGw1"
-    },
-    {
-      "givenName": "Ev. DR. CHANDRA WIJAYA",
-      "title": "Ev.",
-      "prefix": "DR.",
-      "name": "Chandra Wijaya",
-      "key": "-LOkqFvRuXssW854vAwY"
-    },
-    {
-      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
-      "title": "Pdt.",
-      "suffix": "S.H., M.Div.",
-      "name": "George Pranoto",
-      "key": "-LOkqFvREvS-6p2mYa37"
-    },
-    {
-      "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Riko Sastrawan",
-      "key": "-LOkqFvRwtW_eIxI7T3a"
-    },
-    {
-      "givenName": "Pdt. THEODORES TABARAKA",
-      "title": "Pdt.",
-      "name": "Theodores Tabaraka",
-      "key": "-LOkqFvRkjl1q_rlqXD5"
-    },
-    {
-      "givenName": "Pdt. SAHALA HUTABARAT",
-      "title": "Pdt.",
-      "name": "Sahala Hutabarat",
-      "key": "-LOkqFvR4mC58FRM9ZZ_"
-    },
-    {
-      "givenName": "Pdt. DR. VERNINETO SITANGGANG",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "name": "Vernineto Sitanggang",
-      "key": "-LOkqFvRzWUO4TG5qbat"
-    },
-    {
-      "givenName": "Pdt. JOHN ADHIGUNA, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "John Adhiguna",
-      "key": "-LOkqFvREz4pxz463LgV"
-    },
-    {
-      "givenName": "Pdt. DR. HUDUS PARDEDE",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "name": "Hudus Pardede",
-      "key": "-LOkqFvRLdHdYHGMSVf3"
-    },
-    {
-      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
-      "title": "Pdm.",
-      "suffix": "M.Th.",
-      "name": "Unggun Panjaitan",
-      "key": "-LOkqFvRllRcCNtG26J0"
-    },
-    {
-      "givenName": "Pdt. Dr. MERIL LUMENTUT, Sp.B.",
-      "title": "Pdt.",
-      "prefix": "Dr.",
-      "suffix": "Sp.B.",
-      "name": "Meril Lumentut",
-      "key": "-LOkqFvRHPAUyrPRVZVm"
-    },
-    {
-      "givenName": "Pdt. Drs. KRISTIANTO IBRAHIM, M.A.",
-      "title": "Pdt.",
-      "prefix": "Drs.",
-      "suffix": "M.A.",
-      "name": "Kristianto Ibrahim",
-      "key": "-LOkqFvRlFHbbxqffQ34"
-    },
-    {
-      "givenName": "Pdt. INDRA TAMPUBOLON, S.H., M.Th.",
-      "title": "Pdt.",
-      "suffix": "S.H., M.Th.",
-      "name": "Indra Tampubolon",
-      "key": "-LOkqFvREz1gfb51-0EB"
-    },
-    {
-      "givenName": "Pdm. RAMLI PANGGABEAN, M.A.",
-      "title": "Pdm.",
-      "suffix": "M.A.",
-      "name": "Ramli Panggabean",
-      "key": "-LOkqFvR2TrzE9mGGW3a"
-    },
-    {
-      "givenName": "Pdm. JANUAR SUKAMTO, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Januar Sukamto",
-      "key": "-LOkqFvRNiNFJUrqFT_-"
-    },
-    {
-      "givenName": "Pdt. ROMY MATULESSY, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Romy Matulessy",
-      "key": "-LOkqFvRF87pRX-BAeIU"
-    },
-    {
-      "givenName": "Pdt. PHILIPS MAILANGKAY, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Philips Mailangkay",
-      "key": "-LOkqFvRj6zgT06r2f4p"
-    },
-    {
-      "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
-      "title": "Pdm.",
-      "suffix": "S.E., M.Th.",
-      "name": "Adry Juvento",
-      "key": "-LOkqFvRRQARbMcrxIm3"
-    },
-    {
-      "givenName": "Pdt. MARLO MAMANGKEY",
-      "title": "Pdt.",
-      "name": "Marlo Mamangkey",
-      "key": "-LOkqFvRGWBKCmzKux-u"
-    },
-    {
-      "givenName": "Pdt. YOSSIE CHRISTIANTO",
-      "title": "Pdt.",
-      "name": "Yossie Christianto",
-      "key": "-LOkqFvRyyN6HoA2DGgK"
-    },
-    {
-      "givenName": "Ev. SAMUEL ROY NAPITUPULU, S.Th.",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Samuel Roy Napitupulu",
-      "key": "-LOkqFvRH0A8kUw7dO5t"
-    },
-    {
-      "givenName": "Pdt. JANDI SUTRISNO",
-      "title": "Pdt.",
-      "name": "Jandi Sutrisno",
-      "key": "-LOkqFvR4Js0LhvmOrgQ"
-    },
-    {
-      "givenName": "Pdt. DOLF MAILANGKAY, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Dolf Mailangkay",
-      "key": "-LOkqFvReXML4NFcMi5R"
-    },
-    {
-      "givenName": "Pdt. YEBBY TAMBAYONG, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Yebby Tambayong",
-      "key": "-LOkqFvRt-3CxDYmSXUd"
-    },
-    {
-      "givenName": "Pdm. ADITYA PUTRA PRADANA, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Aditya Putra Pradana",
-      "key": "-LOkqFvRFPEHm_iHGJav"
-    },
-    {
-      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
-      "title": "Ev.",
-      "suffix": "M.Th.",
-      "name": "Deavy Tumuju",
-      "key": "-LOkqFvR0wTra_ToiVz1"
-    },
-    {
-      "givenName": "Pdt. TIMOTIUS SARAGIH, S.H., M.Th.",
-      "title": "Pdt.",
-      "suffix": "S.H., M.Th.",
-      "name": "Timotius Saragih",
-      "key": "-LOkqFvRvt-3zpHgSwUv"
-    },
-    {
-      "givenName": "Pdt. ANTON LAMANDO, M.Th.",
-      "title": "Pdt.",
-      "suffix": "M.Th.",
-      "name": "Anton Lamando",
-      "key": "-LOkqFvREnY02zLr5wGn"
-    },
-    {
-      "givenName": "Pdt. JAMES BAWARE, M.Div.",
-      "title": "Pdt.",
-      "suffix": "M.Div.",
-      "name": "James Baware",
-      "key": "-LOkqFvRS_tTHqqG3cee"
-    },
-    {
-      "givenName": "Pdt. FRANS MANUSAMA, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Frans Manusama",
-      "key": "-LOkqFvRfjfj3UfvXdM_"
-    },
-    {
-      "givenName": "Pdt. DEDDY SANTOSO, M.Min",
-      "title": "Pdt.",
-      "suffix": "M.Min.",
-      "name": "Deddy Santoso M.min",
-      "key": "-LOkqFvRJ_f0pf9SPq36"
-    },
-    {
-      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Mozart Pardede",
-      "key": "-LOkqFvRYOZOLxQYAVhN"
-    },
-    {
-      "givenName": "Pdt. SURYA RAPALI, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Surya Rapali",
-      "key": "-LOkqFvRKu2gNKLXcWgD"
-    },
-    {
-      "givenName": "Pdt. REFORMANDA PASARIBU",
-      "title": "Pdt.",
-      "name": "Reformanda Pasaribu",
-      "key": "-LOkqFvRg2DH8QAGwTkX"
-    },
-    {
-      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "suffix": "M.Th.",
-      "name": "Johny Wardi",
-      "key": "-LOkqFvR9LW8pD0VvgAm"
-    },
-    {
-      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Eko Budi Utomo",
-      "key": "-LOkqFvRKikx5eYW_JBp"
-    },
-    {
-      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
-      "title": "Pdt.",
-      "suffix": "M.Th.",
-      "name": "Jhons Fernando",
-      "key": "-LOkqFvRm0vduUyk9W6e"
-    },
-    {
-      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Samuel Jack Barbier",
-      "key": "-LOkqFvREHn5CM5G-VoD"
-    },
-    {
-      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Mario Marcello",
-      "key": "-LOkqFvR7xL3JcDbbJlo"
-    },
-    {
-      "givenName": "Pdt. STEVEN TUMBEL",
-      "title": "Pdt.",
-      "name": "Steven Tumbel",
-      "key": "-LOkqFvRJGTwNCV3DW9n"
-    },
-    {
-      "givenName": "Ev. BILLY MASIHOR",
-      "title": "Ev.",
-      "name": "Billy Masihor",
-      "key": "-LOkqFvR7WzV3vUhbKSJ"
-    },
-    {
-      "givenName": "Pdm. HERRY LOINDONG",
-      "title": "Pdm.",
-      "name": "Herry Loindong",
-      "key": "-LOkqFvR96AtNThN23Gk"
-    },
-    {
-      "givenName": "Pdm. DENNY SUKARAME",
-      "title": "Pdm.",
-      "name": "Denny Sukarame",
-      "key": "-LOkqFvRW7UHfHZBjWD4"
-    },
-    {
-      "givenName": "Ev. RUDOLF WANGANIA",
-      "title": "Ev.",
-      "name": "Rudolf Wangania",
-      "key": "-LOkqFvRVbLBsqqM7CZh"
-    },
-    {
-      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
-      "title": "Pdt.",
-      "suffix": "S.Th., M.A.",
-      "name": "Yeremia",
-      "key": "-LOkqFvRz4kQ_po8A-aI"
-    },
-    {
-      "givenName": "Pdm. FERRY NGANTUNG, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Ferry Ngantung",
-      "key": "-LOkqFvRxAMVcdFC6_1e"
-    },
-    {
-      "givenName": "Ev. JORDAN TAIDI, S.Th.",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Jordan Taidi",
-      "key": "-LOkqFvRe5dLJ8jN6Efi"
-    },
-    {
-      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Kom., M.Th.",
-      "name": "Budiarto L",
-      "key": "-LOkqFvR9QV5WoraiGm8"
-    },
-    {
-      "givenName": "Pdm. STEVEN MALUW",
-      "title": "Pdm.",
-      "name": "Steven Maluw",
-      "key": "-LOkqFvRMqtqs4plxal7"
-    },
-    {
-      "givenName": "Pdt. Dr. LUKAS SILANGEN, Sp.B., KBD.",
-      "title": "Pdt.",
-      "prefix": "Dr.",
-      "suffix": "Sp.B., KBD.",
-      "name": "Lukas Silangen",
-      "key": "-LOkqFvRWJB_YiXPKBQ1"
-    },
-    {
-      "givenName": "Pdt. Drs. HARIYANTO, Dr.Th.",
-      "title": "Pdt.",
-      "prefix": "Drs.",
-      "suffix": "Dr.Th.",
-      "name": "Hariyanto",
-      "key": "-LOkqFvRcfqDfHF3eMHC"
-    },
-    {
-      "givenName": "Ev. ASTON SIMBOLON, S.Th.",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Aston Simbolon",
-      "key": "-LOkqFvRnDB201d3b5Hc"
-    },
-    {
-      "givenName": "Pdt. REVKIE H. ANDILOLO, S.T., M.M.",
-      "title": "Pdt.",
-      "suffix": "S.T., M.M.",
-      "name": "Revkie H. Andilolo",
-      "key": "-LOkqFvRLujqfIy4iZz6"
-    },
-    {
-      "givenName": "Pdt. LUCKY WALO, S.H., Mkn.",
-      "title": "Pdt.",
-      "suffix": "S.H., Mkn.",
-      "name": "Lucky Walo",
-      "key": "-LOkqFvRXaSalVsAnNju"
-    },
-    {
-      "givenName": "Pdt. ALBERT KEREH, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Albert Kereh",
-      "key": "-LOkqFvR2bEe1kZhCFra"
-    },
-    {
-      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
-      "title": "Pdt.",
-      "suffix": "S.Th., M.A.",
-      "name": "Yeremia",
-      "key": "-LOkqFvRz4kQ_po8A-aI"
-    },
-    {
-      "givenName": "Pdm. GERRY TENGKER, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Gerry Tengker",
-      "key": "-LOkqFvRfzBWIk5W47xD"
-    },
-    {
-      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
-      "title": "Pdm.",
-      "suffix": "S.E., M. Th.",
-      "name": "Jonathan Lansing",
-      "key": "-LOkqFvRnWr8hDnsHk3a"
-    },
-    {
-      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Rommy Satria Aryaguna",
-      "key": "-LOkqFvRNrhFybedVN5b"
-    },
-    {
-      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
-      "title": "Pdt.",
-      "suffix": "S.E., M.M.,  M.Th.",
-      "name": "Hendri Setiadi S.e., M.m., M.th.",
-      "key": "-LOkqFvRXlbpqB6BTFe0"
-    },
-    {
-      "givenName": "Pdm. PAUL DENNY KRISTIANTO, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Paul Denny Kristianto",
-      "key": "-LOkqFvgEukfU7FPQiyo"
-    },
-    {
-      "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
-      "title": "Pdm.",
-      "prefix": "DR.",
-      "name": "Elia Edison Simarmata",
-      "key": "-LOkqFvgtU9HrmLJHD4o"
-    },
-    {
-      "givenName": "Pdt. AGUS SETIONO, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Agus Setiono",
-      "key": "-LOkqFvgf_yon-nHuwAy"
-    },
-    {
-      "givenName": "Ev. MARKUS TAN, S.E., S.Th.",
-      "title": "Ev.",
-      "suffix": "S.E., S.Th.",
-      "name": "Markus Tan",
-      "key": "-LOkqFvgd9WGoH26TSzG"
-    },
-    {
-      "givenName": "Pdt. DR. EDDY SIMANJUNTAK",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "name": "Eddy Simanjuntak",
-      "key": "-LOkqFvgQx3J9tDCzMba"
-    },
-    {
-      "givenName": "Pdm. PAULUS PURTOMO",
-      "title": "Pdm.",
-      "name": "Paulus Purtomo",
-      "key": "-LOkqFvgDNW18YIzgbN6"
-    },
-    {
-      "givenName": "Pdm. RINDRA PK, M. Div.",
-      "title": "Pdm.",
-      "suffix": "M. Div.",
-      "name": "Rindra Pk",
-      "key": "-LOkqFvgttr8K6r7oi8C"
-    },
-    {
-      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Andi Wirawan S",
-      "key": "-LOkqFvgbiThGxlLYVDp"
-    },
-    {
-      "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
-      "title": "Pdm.",
-      "suffix": "M.Th.",
-      "name": "Samuel Panjaitan",
-      "key": "-LOkqFvgvWuY7VkTrQlL"
-    },
-    {
-      "givenName": "Pdt. HARTONO KURNIAWAN",
-      "title": "Pdt.",
-      "name": "Hartono Kurniawan",
-      "key": "-LOkqFvgcFiF8OfT0PrQ"
-    },
-    {
-      "givenName": "Pdm. DANIEL WENDY, S.S., M.Th.",
-      "title": "Pdm.",
-      "suffix": "S.S., M.Th.",
-      "name": "Daniel Wendy",
-      "key": "-LOkqFvgqy8F1Yln3bDT"
-    },
-    {
-      "givenName": "Pdt. DR. ARNOLD TINDAS",
-      "title": "Pdt.",
-      "prefix": "DR.",
-      "name": "Arnold Tindas",
-      "key": "-LOkqFvg9v8o72LPU3mG"
-    },
-    {
-      "givenName": "Pdm. Ir. OTTO TOBING, S.Th.",
-      "title": "Pdm.",
-      "prefix": "Ir.",
-      "suffix": "S.Th.",
-      "name": "Otto Tobing",
-      "key": "-LOkqFvgsh_F8znnIfpN"
-    },
-    {
-      "givenName": "Pdm. SANDY PUTRA NOVERDY, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Sandy Putra Noverdy",
-      "key": "-LOkqFvgHS0VUBt8mpbr"
-    },
-    {
-      "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
-      "title": "Pdt.",
-      "suffix": "S.Th.",
-      "name": "Reinold Wattimena",
-      "key": "-LOkqFvgZSF44-YATXol"
-    },
-    {
-      "givenName": "Ev. PAULUS FAHRUL ROJI, S.Th.",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Paulus Fahrul Roji",
-      "key": "-LOkqFvgYmGfZnhcvFdT"
-    },
-    {
-      "givenName": "Ev. SAMUEL HARDI, S.Th.",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Samuel Hardi",
-      "key": "-LOkqFvgwSB8jumm8jpw"
-    },
-    {
-      "givenName": "Ev. GUNAWAN CHANDRA, S.Th.",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Gunawan Chandra",
-      "key": "-LOkqFvgS9z6lVP03uTe"
-    },
-    {
-      "givenName": "Pdm. REZA ALEXIA FAAH",
-      "title": "Pdm.",
-      "name": "Reza Alexia Faah",
-      "key": "-LOkqFvgeLFvv1mWPW3r"
-    },
-    {
-      "givenName": "Pdm. PRADIPTA CHRISTIAN, B.Comm",
-      "title": "Pdm.",
-      "suffix": "B.Comm.",
-      "name": "Pradipta Christian B.comm",
-      "key": "-LOkqFvgJZMrGeP9FP6H"
-    },
-    {
-      "givenName": "Ev. PURWANTO",
-      "title": "Ev.",
-      "name": "Purwanto",
-      "key": "-LOkqFvgy0BefGQIlwR0"
-    },
-    {
-      "givenName": "Pdm. SAMUEL RICKY SITUMORANG, S.Th",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Samuel Ricky Situmorang S.th",
-      "key": "-LOkqFvgt3nnSjWXdK0h"
-    },
-    {
-      "givenName": "Ev. MELKI MATINDAS",
-      "title": "Ev.",
-      "name": "Melki Matindas",
-      "key": "-LOkqFvgQ0fVuOFwBC0P"
-    },
-    {
-      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
-      "title": "Pdt.",
-      "suffix": "S.Th., M.A.",
-      "name": "Yeremia",
-      "key": "-LOkqFvRz4kQ_po8A-aI"
-    },
-    {
-      "givenName": "Pdm. DANIEL DIU",
-      "title": "Pdm.",
-      "name": "Daniel Diu",
-      "key": "-LOkqFvgIxXpG43fGKUq"
-    },
-    {
-      "givenName": "Ev. FERRY ANTONY PAHAN, ST,MM.",
-      "title": "Ev.",
-      "suffix": "ST, MM.",
-      "name": "Ferry Antony Pahan St,mm.",
-      "key": "-LOkqFvgkwgZ3dNoR-zy"
-    },
-    {
-      "givenName": "Ev. STANLEY SCHRAMM, S.Th",
-      "title": "Ev.",
-      "suffix": "S.Th.",
-      "name": "Stanley Schramm S.th",
-      "key": "-LOkqFvgLb8G2YcNaF6R"
-    },
-    {
-      "givenName": "Pdm. STEVRY WUWUNG, S.Th",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Stevry Wuwung S.th",
-      "key": "-LOkqFvgEoztEDbyLjEg"
-    },
-    {
-      "givenName": "Ev. DANIEL DEAVY",
-      "title": "Ev.",
-      "name": "Daniel Deavy",
-      "key": "-LOkqFvgACbfBD-aNC6l"
-    },
-    {
-      "givenName": "Pdt. DARNIATY PARIADJI",
-      "title": "Pdt.",
-      "jobtitle": "Gembala Sidang dan Ketua Sinode",
-      "name": "Darniaty Pariadji",
-      "key": "-LOkqFvgYoekCbofFbGX"
-    },
-    {
-      "givenName": "Ev. DAUD SURJAWIDJAJA, S. Kom",
-      "title": "Ev.",
-      "suffix": "S. Kom.",
-      "name": "Daud Surjawidjaja S. Kom",
-      "key": "-LOkqFvgcdc4DetFJY3u"
-    }
-  ]
-}
+[
+  {
+    "givenName": "Pdt. DR. YESAYA PARIADJI",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "jobtitle": "Gembala Sidang dan Ketua Sinode",
+    "name": "Yesaya Pariadji",
+    "key": "-LOmncrIJDe07Y3l-iLP"
+  },
+  {
+    "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+    "title": "Pdm.",
+    "suffix": "M.Si, M.Th.",
+    "name": "Aristo Pariadji",
+    "key": "-LOmncrIXAq2tubOjpNh"
+  },
+  {
+    "givenName": "ARGO PARIADJI",
+    "name": "Argo Pariadji",
+    "key": "-LOmncrI-exP29GKaGsk"
+  },
+  {
+    "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+    "title": "Pdt.",
+    "jobtitle": "Asisten Gembala Sidang",
+    "suffix": "S.H., M.Th.",
+    "name": "Gideon Simanjuntak",
+    "key": "-LOmncrIh0k7vpiu6N6D"
+  },
+  {
+    "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+    "title": "Pdt.",
+    "jobtitle": "Asisten Gembala Sidang",
+    "suffix": "S.Th.",
+    "name": "Jeffrey Adolf Wannee S.th",
+    "key": "-LOmncrIt0wFwncncJme"
+  },
+  {
+    "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+    "title": "Pdt.",
+    "jobtitle": "Asisten Gembala Sidang",
+    "suffix": "S.Th.",
+    "name": "Melvin B. Tuela",
+    "key": "-LOmncrIlfr3QTqrquwn"
+  },
+  {
+    "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Markus Mercio Pattinama",
+    "key": "-LOmncrIXYd05kKAw8I7"
+  },
+  {
+    "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+    "title": "Pdt.",
+    "jobtitle": "Staff Gembala Sidang",
+    "suffix": "S.E., M.Th.",
+    "name": "Alexander Simanjuntak",
+    "key": "-LOmncrIoThEj7AQECnI"
+  },
+  {
+    "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+    "title": "Pdt.",
+    "jobtitle": "Staff Gembala Sidang",
+    "suffix": "B.Bus., M.Th.",
+    "name": "Lukas Verdy",
+    "key": "-LOmncrIB2Ov7-N4_W3I"
+  },
+  {
+    "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+    "title": "Pdt.",
+    "jobtitle": "Staff Gembala Sidang",
+    "suffix": "S.E., M.Th.",
+    "name": "Marcel Saerang",
+    "key": "-LOmncrITKgauDVBmxoq"
+  },
+  {
+    "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+    "title": "Pdt.",
+    "jobtitle": "Staff Gembala Sidang",
+    "suffix": "S.Th.",
+    "name": "Sandy Siskandar S.th",
+    "key": "-LOmncrIQA3DAkS5F9NC"
+  },
+  {
+    "givenName": "Pdt. THEDDI LUSLI, M.M., M.Th.",
+    "title": "Pdt.",
+    "suffix": "M.M., M.Th.",
+    "name": "Theddi Lusli",
+    "key": "-LOmncrIi-h8iSu68xod"
+  },
+  {
+    "givenName": "Pdt. DR. DAVID SUMUAL",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "name": "David Sumual",
+    "key": "-LOmncrIOS00FJPdibnP"
+  },
+  {
+    "givenName": "Pdt. ANDREAS MELKISEDEK",
+    "title": "Pdt.",
+    "name": "Andreas Melkisedek",
+    "key": "-LOmncrIIgAwzKIVxMsc"
+  },
+  {
+    "givenName": "Pdt. DR. Ir. MATIUS JUSUF, M.M., D.Min.",
+    "title": "Pdt.",
+    "prefix": "DR. Ir.",
+    "suffix": "M.M., D.Min.",
+    "name": "Matius Jusuf",
+    "key": "-LOmncrI1KY0UK8zrjLC"
+  },
+  {
+    "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "suffix": "M.A., D.Th.",
+    "name": "Denny Harseno",
+    "key": "-LOmncrIInhLleaabv4D"
+  },
+  {
+    "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+    "title": "Pdt.",
+    "prefix": "Ir.",
+    "suffix": "M.Th.",
+    "name": "Mulyawan Wirianata",
+    "key": "-LOmncrInfIC3JGEeDfm"
+  },
+  {
+    "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+    "title": "Pdt.",
+    "prefix": "Ir.",
+    "suffix": "M.Th.",
+    "name": "Bernard Wiradarma",
+    "key": "-LOmncrIE9sAfVNdN7Ud"
+  },
+  {
+    "givenName": "Pdt. HERRYANTO HIDAYAT",
+    "title": "Pdt.",
+    "name": "Herryanto Hidayat",
+    "key": "-LOmncrIYoAlfq90t3s9"
+  },
+  {
+    "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Elfris Sirait",
+    "key": "-LOmncrIjFdUSMBBOT1O"
+  },
+  {
+    "givenName": "Ev. DR. CHANDRA WIJAYA",
+    "title": "Ev.",
+    "prefix": "DR.",
+    "name": "Chandra Wijaya",
+    "key": "-LOmncrIyG4dx43DzhIx"
+  },
+  {
+    "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+    "title": "Pdt.",
+    "suffix": "S.H., M.Div.",
+    "name": "George Pranoto",
+    "key": "-LOmncrI60dCUDfAMuPz"
+  },
+  {
+    "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Riko Sastrawan",
+    "key": "-LOmncrIDWEr59rNb6ZH"
+  },
+  {
+    "givenName": "Pdt. THEODORES TABARAKA",
+    "title": "Pdt.",
+    "name": "Theodores Tabaraka",
+    "key": "-LOmncrIJSJo7NZ51nA4"
+  },
+  {
+    "givenName": "Pdt. SAHALA HUTABARAT",
+    "title": "Pdt.",
+    "name": "Sahala Hutabarat",
+    "key": "-LOmncrIAv2Kugk1RdNG"
+  },
+  {
+    "givenName": "Pdt. DR. VERNINETO SITANGGANG",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "name": "Vernineto Sitanggang",
+    "key": "-LOmncrIMv0-a_PtGrgm"
+  },
+  {
+    "givenName": "Pdt. JOHN ADHIGUNA, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "John Adhiguna",
+    "key": "-LOmncrIVrL-kfb3SV1u"
+  },
+  {
+    "givenName": "Pdt. DR. HUDUS PARDEDE",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "name": "Hudus Pardede",
+    "key": "-LOmncrIIIIRSN5H4qMA"
+  },
+  {
+    "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+    "title": "Pdm.",
+    "suffix": "M.Th.",
+    "name": "Unggun Panjaitan",
+    "key": "-LOmncrIoCIcAJYs7SLs"
+  },
+  {
+    "givenName": "Pdt. Dr. MERIL LUMENTUT, Sp.B.",
+    "title": "Pdt.",
+    "prefix": "Dr.",
+    "suffix": "Sp.B.",
+    "name": "Meril Lumentut",
+    "key": "-LOmncrIiblgRcMq4gAO"
+  },
+  {
+    "givenName": "Pdt. Drs. KRISTIANTO IBRAHIM, M.A.",
+    "title": "Pdt.",
+    "prefix": "Drs.",
+    "suffix": "M.A.",
+    "name": "Kristianto Ibrahim",
+    "key": "-LOmncrIAM9F-LCuFNMQ"
+  },
+  {
+    "givenName": "Pdt. INDRA TAMPUBOLON, S.H., M.Th.",
+    "title": "Pdt.",
+    "suffix": "S.H., M.Th.",
+    "name": "Indra Tampubolon",
+    "key": "-LOmncrIQq-m6ETiyOYf"
+  },
+  {
+    "givenName": "Pdm. RAMLI PANGGABEAN, M.A.",
+    "title": "Pdm.",
+    "suffix": "M.A.",
+    "name": "Ramli Panggabean",
+    "key": "-LOmncrIYExaPstA6VV9"
+  },
+  {
+    "givenName": "Pdm. JANUAR SUKAMTO, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Januar Sukamto",
+    "key": "-LOmncrIHKrIJ_SAV1U8"
+  },
+  {
+    "givenName": "Pdt. ROMY MATULESSY, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Romy Matulessy",
+    "key": "-LOmncrI1UjxN24dVJWo"
+  },
+  {
+    "givenName": "Pdt. PHILIPS MAILANGKAY, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Philips Mailangkay",
+    "key": "-LOmncrI9-rpmago5aLw"
+  },
+  {
+    "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
+    "title": "Pdm.",
+    "suffix": "S.E., M.Th.",
+    "name": "Adry Juvento",
+    "key": "-LOmncrIONjO0tVHQli3"
+  },
+  {
+    "givenName": "Pdt. MARLO MAMANGKEY",
+    "title": "Pdt.",
+    "name": "Marlo Mamangkey",
+    "key": "-LOmncrIMDognirA4cRu"
+  },
+  {
+    "givenName": "Pdt. YOSSIE CHRISTIANTO",
+    "title": "Pdt.",
+    "name": "Yossie Christianto",
+    "key": "-LOmncrI4IKXUsJ95zcN"
+  },
+  {
+    "givenName": "Ev. SAMUEL ROY NAPITUPULU, S.Th.",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Samuel Roy Napitupulu",
+    "key": "-LOmncrIIZ8f_vYkTjDF"
+  },
+  {
+    "givenName": "Pdt. JANDI SUTRISNO",
+    "title": "Pdt.",
+    "name": "Jandi Sutrisno",
+    "key": "-LOmncrIKmkWm9CIL-7N"
+  },
+  {
+    "givenName": "Pdt. DOLF MAILANGKAY, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Dolf Mailangkay",
+    "key": "-LOmncrIDhple_Art4MZ"
+  },
+  {
+    "givenName": "Pdt. YEBBY TAMBAYONG, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Yebby Tambayong",
+    "key": "-LOmncrIoHN1hGQGKiK7"
+  },
+  {
+    "givenName": "Pdm. ADITYA PUTRA PRADANA, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Aditya Putra Pradana",
+    "key": "-LOmncrIm9XLSn2tAKtL"
+  },
+  {
+    "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+    "title": "Ev.",
+    "suffix": "M.Th.",
+    "name": "Deavy Tumuju",
+    "key": "-LOmncrICAspL0dXaw7E"
+  },
+  {
+    "givenName": "Pdt. TIMOTIUS SARAGIH, S.H., M.Th.",
+    "title": "Pdt.",
+    "suffix": "S.H., M.Th.",
+    "name": "Timotius Saragih",
+    "key": "-LOmncrI14G66JeJzJTF"
+  },
+  {
+    "givenName": "Pdt. ANTON LAMANDO, M.Th.",
+    "title": "Pdt.",
+    "suffix": "M.Th.",
+    "name": "Anton Lamando",
+    "key": "-LOmncrIOXgvKM3Cn2DP"
+  },
+  {
+    "givenName": "Pdt. JAMES BAWARE, M.Div.",
+    "title": "Pdt.",
+    "suffix": "M.Div.",
+    "name": "James Baware",
+    "key": "-LOmncrIB6ZTia9BWEu5"
+  },
+  {
+    "givenName": "Pdt. FRANS MANUSAMA, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Frans Manusama",
+    "key": "-LOmncrIa39L4DB6SR-D"
+  },
+  {
+    "givenName": "Pdt. DEDDY SANTOSO, M.Min",
+    "title": "Pdt.",
+    "suffix": "M.Min.",
+    "name": "Deddy Santoso M.min",
+    "key": "-LOmncrIOdanO-yVTrI4"
+  },
+  {
+    "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Mozart Pardede",
+    "key": "-LOmncrIlrlNshZnp4mw"
+  },
+  {
+    "givenName": "Pdt. SURYA RAPALI, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Surya Rapali",
+    "key": "-LOmncrIT1bv26zumm-f"
+  },
+  {
+    "givenName": "Pdt. REFORMANDA PASARIBU",
+    "title": "Pdt.",
+    "name": "Reformanda Pasaribu",
+    "key": "-LOmncrIzuyN4GQ_OI85"
+  },
+  {
+    "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "suffix": "M.Th.",
+    "name": "Johny Wardi",
+    "key": "-LOmncrIsurGPMiOgzNy"
+  },
+  {
+    "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Eko Budi Utomo",
+    "key": "-LOmncrI--qYkwM5B-h4"
+  },
+  {
+    "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+    "title": "Pdt.",
+    "suffix": "M.Th.",
+    "name": "Jhons Fernando",
+    "key": "-LOmncrIgRY_I4MtrQ_C"
+  },
+  {
+    "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Samuel Jack Barbier",
+    "key": "-LOmncrI8oJxywALCOv-"
+  },
+  {
+    "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Mario Marcello",
+    "key": "-LOmncrIuq6H-OXJDlWl"
+  },
+  {
+    "givenName": "Pdt. STEVEN TUMBEL",
+    "title": "Pdt.",
+    "name": "Steven Tumbel",
+    "key": "-LOmncrIZPApWvVW4gUS"
+  },
+  {
+    "givenName": "Ev. BILLY MASIHOR",
+    "title": "Ev.",
+    "name": "Billy Masihor",
+    "key": "-LOmncrI4x56aEpGLvN8"
+  },
+  {
+    "givenName": "Pdm. HERRY LOINDONG",
+    "title": "Pdm.",
+    "name": "Herry Loindong",
+    "key": "-LOmncrIRNubNsZsPq91"
+  },
+  {
+    "givenName": "Pdm. DENNY SUKARAME",
+    "title": "Pdm.",
+    "name": "Denny Sukarame",
+    "key": "-LOmncrIt0PfZ-INdiM9"
+  },
+  {
+    "givenName": "Ev. RUDOLF WANGANIA",
+    "title": "Ev.",
+    "name": "Rudolf Wangania",
+    "key": "-LOmncrIVsuGt-hczkTI"
+  },
+  {
+    "givenName": "Pdm. YEREMIA G. LONGKUTOY, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Yeremia G. Longkutoy",
+    "key": "-LOmncrIPPrEufXW9FZf"
+  },
+  {
+    "givenName": "Pdm. FERRY NGANTUNG, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Ferry Ngantung",
+    "key": "-LOmncrIQnuS3MiMg1ll"
+  },
+  {
+    "givenName": "Ev. JORDAN TAIDI, S.Th.",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Jordan Taidi",
+    "key": "-LOmncrIk0551WXyzsDT"
+  },
+  {
+    "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Kom., M.Th.",
+    "name": "Budiarto L",
+    "key": "-LOmncrIblbxXsaYuNej"
+  },
+  {
+    "givenName": "Pdm. STEVEN MALUW",
+    "title": "Pdm.",
+    "name": "Steven Maluw",
+    "key": "-LOmncrIk6rUMKF8uQ6O"
+  },
+  {
+    "givenName": "Pdt. Dr. LUKAS SILANGEN, Sp.B., KBD.",
+    "title": "Pdt.",
+    "prefix": "Dr.",
+    "suffix": "Sp.B., KBD.",
+    "name": "Lukas Silangen",
+    "key": "-LOmncrI-4XeMQADbTk3"
+  },
+  {
+    "givenName": "Pdt. Drs. HARIYANTO, Dr.Th.",
+    "title": "Pdt.",
+    "prefix": "Drs.",
+    "suffix": "Dr.Th.",
+    "name": "Hariyanto",
+    "key": "-LOmncrIFmSoWI5hmCST"
+  },
+  {
+    "givenName": "Ev. ASTON SIMBOLON, S.Th.",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Aston Simbolon",
+    "key": "-LOmncrIE2ysrUXzNnMM"
+  },
+  {
+    "givenName": "Pdt. REVKIE H. ANDILOLO, S.T., M.M.",
+    "title": "Pdt.",
+    "suffix": "S.T., M.M.",
+    "name": "Revkie H. Andilolo",
+    "key": "-LOmncrIWzIuZ0gjFI9d"
+  },
+  {
+    "givenName": "Pdt. LUCKY WALO, S.H., Mkn.",
+    "title": "Pdt.",
+    "suffix": "S.H., Mkn.",
+    "name": "Lucky Walo",
+    "key": "-LOmncrIc7E0VbEqNM1h"
+  },
+  {
+    "givenName": "Pdt. ALBERT KEREH, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Albert Kereh",
+    "key": "-LOmncrIhsKQ5zNwyhvs"
+  },
+  {
+    "givenName": "Pdt. YEREMIA, S.Th., M.A.",
+    "title": "Pdt.",
+    "suffix": "S.Th., M.A.",
+    "name": "Yeremia",
+    "key": "-LOmncrIh5LtArVqxFqP"
+  },
+  {
+    "givenName": "Pdm. GERRY TENGKER, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Gerry Tengker",
+    "key": "-LOmncrIE5UAZcLeBfxm"
+  },
+  {
+    "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+    "title": "Pdm.",
+    "suffix": "S.E., M. Th.",
+    "name": "Jonathan Lansing",
+    "key": "-LOmncrJd2_tGrFr5HMl"
+  },
+  {
+    "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Rommy Satria Aryaguna",
+    "key": "-LOmncrJq6YL5Y1ZQKgp"
+  },
+  {
+    "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+    "title": "Pdt.",
+    "suffix": "S.E., M.M.,  M.Th.",
+    "name": "Hendri Setiadi S.e., M.m., M.th.",
+    "key": "-LOmncrJaoI4y0S2oDuT"
+  },
+  {
+    "givenName": "Pdm. PAUL DENNY KRISTIANTO, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Paul Denny Kristianto",
+    "key": "-LOmncrJmxEQFcSjkmoE"
+  },
+  {
+    "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
+    "title": "Pdm.",
+    "prefix": "DR.",
+    "name": "Elia Edison Simarmata",
+    "key": "-LOmncrJKY-KOUbuHF1V"
+  },
+  {
+    "givenName": "Pdt. AGUS SETIONO, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Agus Setiono",
+    "key": "-LOmncrJ5jJ8JKPgOkYG"
+  },
+  {
+    "givenName": "Ev. MARKUS TAN, S.E., S.Th.",
+    "title": "Ev.",
+    "suffix": "S.E., S.Th.",
+    "name": "Markus Tan",
+    "key": "-LOmncrJgQ7IY7x2GAUK"
+  },
+  {
+    "givenName": "Pdt. DR. EDDY SIMANJUNTAK",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "name": "Eddy Simanjuntak",
+    "key": "-LOmncrJs3oL9CMFEgLo"
+  },
+  {
+    "givenName": "Pdm. PAULUS PURTOMO",
+    "title": "Pdm.",
+    "name": "Paulus Purtomo",
+    "key": "-LOmncrJvP9WnrK1ZH9Y"
+  },
+  {
+    "givenName": "Pdm. RINDRA PK, M. Div.",
+    "title": "Pdm.",
+    "suffix": "M. Div.",
+    "name": "Rindra Pk",
+    "key": "-LOmncrJWfMXt-55lFxE"
+  },
+  {
+    "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Andi Wirawan S",
+    "key": "-LOmncrJqa1yI2B33nJf"
+  },
+  {
+    "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
+    "title": "Pdm.",
+    "suffix": "M.Th.",
+    "name": "Samuel Panjaitan",
+    "key": "-LOmncrJycknfb0JPgP7"
+  },
+  {
+    "givenName": "Pdt. HARTONO KURNIAWAN",
+    "title": "Pdt.",
+    "name": "Hartono Kurniawan",
+    "key": "-LOmncrJIiQKd30xYlys"
+  },
+  {
+    "givenName": "Pdm. DANIEL WENDY, S.S., M.Th.",
+    "title": "Pdm.",
+    "suffix": "S.S., M.Th.",
+    "name": "Daniel Wendy",
+    "key": "-LOmncrJjT74agZc4fSs"
+  },
+  {
+    "givenName": "Pdt. DR. ARNOLD TINDAS",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "name": "Arnold Tindas",
+    "key": "-LOmncrJHKjMAB2nuKZS"
+  },
+  {
+    "givenName": "Pdm. Ir. OTTO TOBING, S.Th.",
+    "title": "Pdm.",
+    "prefix": "Ir.",
+    "suffix": "S.Th.",
+    "name": "Otto Tobing",
+    "key": "-LOmncrJ0M-699GjEafc"
+  },
+  {
+    "givenName": "Pdm. SANDY PUTRA NOVERDY, S.Th.",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Sandy Putra Noverdy",
+    "key": "-LOmncrJhdANDYXSUqHD"
+  },
+  {
+    "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
+    "title": "Pdt.",
+    "suffix": "S.Th.",
+    "name": "Reinold Wattimena",
+    "key": "-LOmncrJC1gyreghg1il"
+  },
+  {
+    "givenName": "Ev. PAULUS FAHRUL ROJI, S.Th.",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Paulus Fahrul Roji",
+    "key": "-LOmncrJFGQQvnVyi5dt"
+  },
+  {
+    "givenName": "Ev. SAMUEL HARDI, S.Th.",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Samuel Hardi",
+    "key": "-LOmncrJel7lblwP7cLE"
+  },
+  {
+    "givenName": "Ev. GUNAWAN CHANDRA, S.Th.",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Gunawan Chandra",
+    "key": "-LOmncrJvpHnPyMHASdU"
+  },
+  {
+    "givenName": "Pdm. REZA ALEXIA FAAH",
+    "title": "Pdm.",
+    "name": "Reza Alexia Faah",
+    "key": "-LOmncrJqgi3dBLBPAlJ"
+  },
+  {
+    "givenName": "Pdm. PRADIPTA CHRISTIAN, B.Comm",
+    "title": "Pdm.",
+    "suffix": "B.Comm.",
+    "name": "Pradipta Christian B.comm",
+    "key": "-LOmncrJrO9N3BHCQt99"
+  },
+  {
+    "givenName": "Ev. PURWANTO",
+    "title": "Ev.",
+    "name": "Purwanto",
+    "key": "-LOmncrJii9S-rsd7C05"
+  },
+  {
+    "givenName": "Pdm. SAMUEL RICKY SITUMORANG, S.Th",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Samuel Ricky Situmorang S.th",
+    "key": "-LOmncrJKt94wKT6chlL"
+  },
+  {
+    "givenName": "Ev. MELKI MATINDAS",
+    "title": "Ev.",
+    "name": "Melki Matindas",
+    "key": "-LOmncrJZTSiVD32Na_f"
+  },
+  {
+    "givenName": "Pdt. DR. YEREMIA WIDODO, M.Th.",
+    "title": "Pdt.",
+    "prefix": "DR.",
+    "suffix": "M.Th.",
+    "name": "Yeremia Widodo",
+    "key": "-LOmncrJK9TnigSowRVy"
+  },
+  {
+    "givenName": "Pdm. DANIEL DIU",
+    "title": "Pdm.",
+    "name": "Daniel Diu",
+    "key": "-LOmncrJGQlPEwn_lPpi"
+  },
+  {
+    "givenName": "Ev. FERRY ANTONY PAHAN, ST,MM.",
+    "title": "Ev.",
+    "suffix": "ST, MM.",
+    "name": "Ferry Antony Pahan St,mm.",
+    "key": "-LOmncrJGtMaoQwwArQ4"
+  },
+  {
+    "givenName": "Ev. STANLEY SCHRAMM, S.Th",
+    "title": "Ev.",
+    "suffix": "S.Th.",
+    "name": "Stanley Schramm S.th",
+    "key": "-LOmncrJUxQPq0K-Zdtp"
+  },
+  {
+    "givenName": "Pdm. STEVRY WUWUNG, S.Th",
+    "title": "Pdm.",
+    "suffix": "S.Th.",
+    "name": "Stevry Wuwung S.th",
+    "key": "-LOmncrJ2EBjn1iVa-ET"
+  },
+  {
+    "givenName": "Ev. DANIEL DEAVY",
+    "title": "Ev.",
+    "name": "Daniel Deavy",
+    "key": "-LOmncrJB97LTdG5pRJA"
+  },
+  {
+    "givenName": "Pdt. DARNIATY PARIADJI",
+    "title": "Pdt.",
+    "jobtitle": "Gembala Sidang dan Ketua Sinode",
+    "name": "Darniaty Pariadji",
+    "key": "-LOmncrJDqVrlT9IY8ZH"
+  },
+  {
+    "givenName": "Ev. DAUD SURJAWIDJAJA, S. Kom",
+    "title": "Ev.",
+    "suffix": "S. Kom.",
+    "name": "Daud Surjawidjaja S. Kom",
+    "key": "-LOmncrJm42AliCS2HWa"
+  }
+]
