@@ -223,6 +223,31 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540105200000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "key": "-LOmqOfnykqm_-0nXMjr",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LOmqI_IwD86cI1PZoip"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540116000000,
     "place": {
       "name": "Balai Sarbini-Dome Plaza Semanggi",
@@ -244,6 +269,31 @@
       "name": "Gideon Simanjuntak",
       "key": "-LOmqI_IwD86cI1PZoip"
     }
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540125000000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOffleETAPH4sWTB",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LOmqI_IwD86cI1PZoip"
+    },
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1539709200000,
@@ -571,6 +621,30 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "key": "-LOmqOflobANbZ7Z09tH",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LOmqI_Iy1DdDtopVQNL"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540108800000,
     "place": {
       "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
@@ -727,6 +801,31 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LOmqI_I60d8Oa3WLfRD"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540117800000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "key": "-LOmqOfoGRII7JPppyTj",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
       }
     },
     "withPerjamuanKudus": true,
@@ -1460,6 +1559,29 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540081800000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOfmNinnjeSURIlx",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ANDREAS MELKISEDEK",
+      "title": "Pdt.",
+      "name": "Andreas Melkisedek",
+      "key": "-LOmqI_IVfS3cnCZWvji"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540087200000,
     "place": {
       "name": "Puri Indah Financial Tower Lantai 2",
@@ -1850,6 +1972,31 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "key": "-LOmqOfoGRII7JPppyTj",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata",
+      "key": "-LOmqI_IvRrpDTVqqKw3"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540101600000,
     "place": {
       "name": "Ged. Graha Kencana Lt. 5",
@@ -2074,6 +2221,31 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "key": "-LOmqOfoGRII7JPppyTj",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LOmqI_IW6JHmW_z1R5M"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540119600000,
     "place": {
       "name": "Ged. Hero Citra Garden Lt. 2",
@@ -2124,6 +2296,29 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "key": "-LOmqOfq8ZySFMpsHhT2",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HERRYANTO HIDAYAT",
+      "title": "Pdt.",
+      "name": "Herryanto Hidayat",
+      "key": "-LOmqI_INqdFQ-iwUx3t"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540092600000,
     "place": {
       "name": "Ged. Graha Kencana Lt. 5",
@@ -2133,6 +2328,29 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HERRYANTO HIDAYAT",
+      "title": "Pdt.",
+      "name": "Herryanto Hidayat",
+      "key": "-LOmqI_INqdFQ-iwUx3t"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "key": "-LOmqOfoGRII7JPppyTj",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
       }
     },
     "withPerjamuanKudus": true,
@@ -2203,6 +2421,126 @@
       },
       "city": "Jakarta",
       "key": "-LOmqOfnuf06pSRHolbq"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LOmqI_I76vXvLO6V9Xy"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540089000000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOfmNinnjeSURIlx",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LOmqI_I76vXvLO6V9Xy"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540096200000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOfiZ6O4LylVnk7o",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LOmqI_I76vXvLO6V9Xy"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOffqT9185qvN7_f",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LOmqI_I76vXvLO6V9Xy"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540114200000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "key": "-LOmqOfhjelHjk8xYzC1",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LOmqI_I76vXvLO6V9Xy"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540123200000,
+    "place": {
+      "name": "Raden Saleh 14D",
+      "address": "(Ged. Yayasan Kasih Bersaudara) Jl. Raden Saleh Raya No. 14 D, Jakarta Pusat",
+      "city": "Jakarta",
+      "key": "-LOmqOfwCQ_FE_BwBqce",
+      "location": {
+        "lat": -6.192016,
+        "lng": 106.8413911
+      }
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2312,6 +2650,54 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOfqeLCLmikf5fD3",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LOmqI_IV8akAyBcfp7e"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540094400000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOffqT9185qvN7_f",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LOmqI_IV8akAyBcfp7e"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540107000000,
     "place": {
       "name": "Mangga Dua Square Lt. Basement 2",
@@ -2332,6 +2718,30 @@
       "name": "George Pranoto",
       "key": "-LOmqI_IV8akAyBcfp7e"
     }
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540116000000,
+    "place": {
+      "name": "Jayakarta Hotel Aula Fatahillah Lt. 2",
+      "address": "Jln. Hayam Wuruk No. 126, Mangga Besar, Tamansari 11180",
+      "location": {
+        "lat": -6.147296,
+        "lng": 106.817014
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfw_rtJ1N_VoTRy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LOmqI_IV8akAyBcfp7e"
+    },
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1539795600000,
@@ -3281,6 +3691,152 @@
     "event": "Ibadah Hari Minggu",
     "time": 1540083600000,
     "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "key": "-LOmqOfv2E9NEFmWs-3T",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Unggun Panjaitan",
+      "key": "-LOmqI_I7x-8DGdZqhNq"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "key": "-LOmqOfq8ZySFMpsHhT2",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Unggun Panjaitan",
+      "key": "-LOmqI_I7x-8DGdZqhNq"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfpzGYvQUqShaxh",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Unggun Panjaitan",
+      "key": "-LOmqI_I7x-8DGdZqhNq"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540116000000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfuBsipRidy05SF",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Unggun Panjaitan",
+      "key": "-LOmqI_I7x-8DGdZqhNq"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540087200000,
+    "place": {
+      "name": "Jayakarta Hotel Aula Fatahillah Lt. 2",
+      "address": "Jln. Hayam Wuruk No. 126, Mangga Besar, Tamansari 11180",
+      "location": {
+        "lat": -6.147296,
+        "lng": 106.817014
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfw_rtJ1N_VoTRy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Dr. MERIL LUMENTUT, Sp.B.",
+      "title": "Pdt.",
+      "prefix": "Dr.",
+      "suffix": "Sp.B.",
+      "name": "Meril Lumentut",
+      "key": "-LOmqI_ImLcbEHScsLXm"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540094400000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "key": "-LOmqOflobANbZ7Z09tH",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Dr. MERIL LUMENTUT, Sp.B.",
+      "title": "Pdt.",
+      "prefix": "Dr.",
+      "suffix": "Sp.B.",
+      "name": "Meril Lumentut",
+      "key": "-LOmqI_ImLcbEHScsLXm"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
       "name": "Java Palace Hotel - Cikarang",
       "address": "Jl. Niaga Utara Kav 1-2, Jababeka II, Cikarang, Mekarmukti, Cikarang Utara, Bekasi, Jawa Barat 17530",
       "location": {
@@ -3379,6 +3935,102 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfzoDBUwdwVPY7Y"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. INDRA TAMPUBOLON, S.H., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Th.",
+      "name": "Indra Tampubolon",
+      "key": "-LOmqI_It0ynxtg9JHBt"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540094400000,
+    "place": {
+      "name": "Ruko Little China Blok JD/17-18 Komp. Legenda Wisata - Cibubur",
+      "address": "Kota Legenda Wisata Cibubur",
+      "location": {
+        "lat": -6.396133,
+        "lng": 106.94305
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfzhmiQ-oOrJ4_6"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. INDRA TAMPUBOLON, S.H., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Th.",
+      "name": "Indra Tampubolon",
+      "key": "-LOmqI_It0ynxtg9JHBt"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540112400000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOg-gfkzY0NuzcY1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. INDRA TAMPUBOLON, S.H., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Th.",
+      "name": "Indra Tampubolon",
+      "key": "-LOmqI_It0ynxtg9JHBt"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540105200000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOg-gfkzY0NuzcY1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RAMLI PANGGABEAN, M.A.",
+      "title": "Pdm.",
+      "suffix": "M.A.",
+      "name": "Ramli Panggabean",
+      "key": "-LOmqI_I9id4gRg3VEUh"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540116000000,
     "place": {
       "name": "Tiberias Cempaka Mas",
@@ -3393,6 +4045,30 @@
       "suffix": "M.A.",
       "name": "Ramli Panggabean",
       "key": "-LOmqI_I9id4gRg3VEUh"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfpzGYvQUqShaxh",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JANUAR SUKAMTO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Januar Sukamto",
+      "key": "-LOmqI_In33E3ihQvmaI"
     },
     "category": "Ibadah Hari Minggu"
   },
@@ -3465,6 +4141,94 @@
       "suffix": "S.Th.",
       "name": "Januar Sukamto",
       "key": "-LOmqI_In33E3ihQvmaI"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540087200000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LOmqOfk5FoVomMFrdpp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMY MATULESSY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Romy Matulessy",
+      "key": "-LOmqI_InKpCYIs34VaH"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOg-gfkzY0NuzcY1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMY MATULESSY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Romy Matulessy",
+      "key": "-LOmqI_InKpCYIs34VaH"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540103400000,
+    "place": {
+      "name": "Jayakarta Hotel Aula Fatahillah Lt. 2",
+      "address": "Jln. Hayam Wuruk No. 126, Mangga Besar, Tamansari 11180",
+      "location": {
+        "lat": -6.147296,
+        "lng": 106.817014
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfw_rtJ1N_VoTRy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMY MATULESSY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Romy Matulessy",
+      "key": "-LOmqI_InKpCYIs34VaH"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LOmqOfk5FoVomMFrdpp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMY MATULESSY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Romy Matulessy",
+      "key": "-LOmqI_InKpCYIs34VaH"
     },
     "category": "Ibadah Hari Minggu"
   },
@@ -3615,6 +4379,263 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540087200000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfuBsipRidy05SF",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M.Th.",
+      "name": "Adry Juvento",
+      "key": "-LOmqI_I1rFI4M0Tx2Co"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "key": "-LOmqOfv2E9NEFmWs-3T",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M.Th.",
+      "name": "Adry Juvento",
+      "key": "-LOmqI_I1rFI4M0Tx2Co"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "key": "-LOmqOfq8ZySFMpsHhT2",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M.Th.",
+      "name": "Adry Juvento",
+      "key": "-LOmqI_I1rFI4M0Tx2Co"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540116000000,
+    "place": {
+      "name": "Tiberias Bintaro",
+      "address": "Bintaro Jaya Sektor VII Jl. Wahid Hasyim Blok FG 12/35, Depan Bank Niaga, Tangerang",
+      "location": {
+        "lat": -6.272971,
+        "lng": 106.723636
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfyVeoRteL9-2TK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M.Th.",
+      "name": "Adry Juvento",
+      "key": "-LOmqI_I1rFI4M0Tx2Co"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Podium Function Spaces Lippo Plaza Ekalokasari Lantai 5",
+      "address": "Jl. Siliwangi No. 123 Bogor 16142",
+      "city": "Jakarta",
+      "key": "-LOmqOg0URap4Py2P4nQ",
+      "location": {
+        "lat": -6.621841,
+        "lng": 106.818097
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARLO MAMANGKEY",
+      "title": "Pdt.",
+      "name": "Marlo Mamangkey",
+      "key": "-LOmqI_I8seGn08VoBFL"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 5, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "city": "Jakarta",
+      "key": "-LOmqOg0rQVAop2D_8Pw",
+      "location": {
+        "lat": -6.569312,
+        "lng": 106.807924
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARLO MAMANGKEY",
+      "title": "Pdt.",
+      "name": "Marlo Mamangkey",
+      "key": "-LOmqI_I8seGn08VoBFL"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Podium Function Spaces Lippo Plaza Ekalokasari Lantai 5",
+      "address": "Jl. Siliwangi No. 123 Bogor 16142",
+      "city": "Jakarta",
+      "key": "-LOmqOg0URap4Py2P4nQ",
+      "location": {
+        "lat": -6.621841,
+        "lng": 106.818097
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARLO MAMANGKEY",
+      "title": "Pdt.",
+      "name": "Marlo Mamangkey",
+      "key": "-LOmqI_I8seGn08VoBFL"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxwi0ayUOffMD1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. YOSSIE CHRISTIANTO",
+      "title": "Pdt.",
+      "name": "Yossie Christianto",
+      "key": "-LOmqI_IqPDxDNxehj4n"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Depok Town Center Lt. 2 Ruang Toba",
+      "address": "Jl. Sawangan Raya No. 1",
+      "location": {
+        "lat": -6.395399,
+        "lng": 106.792674
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxx6w060_5OuXg"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. YOSSIE CHRISTIANTO",
+      "title": "Pdt.",
+      "name": "Yossie Christianto",
+      "key": "-LOmqI_IqPDxDNxehj4n"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540107000000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfyQ3lPiFe3PE8f"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. YOSSIE CHRISTIANTO",
+      "title": "Pdt.",
+      "name": "Yossie Christianto",
+      "key": "-LOmqI_IqPDxDNxehj4n"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540112400000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfzoDBUwdwVPY7Y"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. YOSSIE CHRISTIANTO",
+      "title": "Pdt.",
+      "name": "Yossie Christianto",
+      "key": "-LOmqI_IqPDxDNxehj4n"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540083600000,
     "place": {
       "name": "Grand Wahid Hotel Salatiga 1 Lt. 1"
@@ -3673,6 +4694,29 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540085400000,
+    "place": {
+      "name": "Bioskop 21 Lt.2 \"Theatre 4\" Supermal Karawaci",
+      "address": "Supermal Karawaci",
+      "city": "Jakarta",
+      "key": "-LOmqOg0r6IGzMpTbpmE",
+      "location": {
+        "lat": -6.226962100000001,
+        "lng": 106.6070653
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JANDI SUTRISNO",
+      "title": "Pdt.",
+      "name": "Jandi Sutrisno",
+      "key": "-LOmqI_I47DNT5BG0rf-"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540096200000,
     "place": {
       "name": "Tiberias Cempaka Mas",
@@ -3701,6 +4745,29 @@
       "location": {
         "lat": -6.161571,
         "lng": 106.904402
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JANDI SUTRISNO",
+      "title": "Pdt.",
+      "name": "Jandi Sutrisno",
+      "key": "-LOmqI_I47DNT5BG0rf-"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540116000000,
+    "place": {
+      "name": "Raden Saleh 14D",
+      "address": "(Ged. Yayasan Kasih Bersaudara) Jl. Raden Saleh Raya No. 14 D, Jakarta Pusat",
+      "city": "Jakarta",
+      "key": "-LOmqOfwCQ_FE_BwBqce",
+      "location": {
+        "lat": -6.192016,
+        "lng": 106.8413911
       }
     },
     "withPerjamuanKudus": true,
@@ -3773,6 +4840,30 @@
         "lat": 6.1167476,
         "lng": 106.7889175
       }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DOLF MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Dolf Mailangkay",
+      "key": "-LOmqI_I8CZqeQbS3z7M"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540123200000,
+    "place": {
+      "name": "Jayakarta Hotel Aula Fatahillah Lt. 2",
+      "address": "Jln. Hayam Wuruk No. 126, Mangga Besar, Tamansari 11180",
+      "location": {
+        "lat": -6.147296,
+        "lng": 106.817014
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfw_rtJ1N_VoTRy"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3899,6 +4990,30 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540090800000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOfqeLCLmikf5fD3",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ADITYA PUTRA PRADANA, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Aditya Putra Pradana",
+      "key": "-LOmqI_IKBcraqLQ-33O"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540094400000,
     "place": {
       "name": "Hotel Borneo",
@@ -3953,6 +5068,54 @@
       "suffix": "S.Th.",
       "name": "Aditya Putra Pradana",
       "key": "-LOmqI_IKBcraqLQ-33O"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540087200000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "key": "-LOmqOflobANbZ7Z09tH",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju",
+      "key": "-LOmqI_IM7uvrsxAPmSS"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540096200000,
+    "place": {
+      "name": "Jayakarta Hotel Aula Fatahillah Lt. 2",
+      "address": "Jln. Hayam Wuruk No. 126, Mangga Besar, Tamansari 11180",
+      "location": {
+        "lat": -6.147296,
+        "lng": 106.817014
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfw_rtJ1N_VoTRy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju",
+      "key": "-LOmqI_IM7uvrsxAPmSS"
     },
     "category": "Ibadah Hari Minggu"
   },
@@ -4889,6 +6052,102 @@
     "category": "Ibadah Tengah Minggu"
   },
   {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540094400000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfuBsipRidy05SF",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SURYA RAPALI, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Surya Rapali",
+      "key": "-LOmqI_INwQrYSpWTdQd"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfpzGYvQUqShaxh",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SURYA RAPALI, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Surya Rapali",
+      "key": "-LOmqI_INwQrYSpWTdQd"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540112400000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "key": "-LOmqOfv2E9NEFmWs-3T",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SURYA RAPALI, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Surya Rapali",
+      "key": "-LOmqI_INwQrYSpWTdQd"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540121400000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "key": "-LOmqOfq8ZySFMpsHhT2",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SURYA RAPALI, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Surya Rapali",
+      "key": "-LOmqI_INwQrYSpWTdQd"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
     "date": 1539622800000,
     "event": "Ibadah Tengah Minggu",
     "time": 1539691200000,
@@ -5043,6 +6302,29 @@
       },
       "city": "Jakarta",
       "key": "-LOmqOfp25n6dceH_NbJ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LOmqI_IUCEwL-PYsHEs"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "key": "-LOmqOflobANbZ7Z09tH",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      }
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -5363,6 +6645,126 @@
     }
   },
   {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540087200000,
+    "place": {
+      "name": "Bioskop 21 Lt.2 \"Theatre 2\" Supermal Karawaci",
+      "address": "Supermal Karawaci",
+      "city": "Jakarta",
+      "key": "-LOmqOg-iy9qF-zf_oLr",
+      "location": {
+        "lat": -6.226962100000001,
+        "lng": 106.6070653
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LOmqI_I60GbEp3mimtP"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfpzGYvQUqShaxh",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LOmqI_I60GbEp3mimtP"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfuBsipRidy05SF",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LOmqI_I60GbEp3mimtP"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540112400000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxwi0ayUOffMD1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LOmqI_I60GbEp3mimtP"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540121400000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "key": "-LOmqOfv2E9NEFmWs-3T",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LOmqI_I60GbEp3mimtP"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
     "date": 1539968400000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540008000000,
@@ -5545,6 +6947,102 @@
       "key": "-LOmqI_IlhMw1DUAmai6"
     },
     "category": "Ibadah Tengah Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 5, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "city": "Jakarta",
+      "key": "-LOmqOg0rQVAop2D_8Pw",
+      "location": {
+        "lat": -6.569312,
+        "lng": 106.807924
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LOmqI_I90NFP-hrdAjq"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Podium Function Spaces Lippo Plaza Ekalokasari Lantai 5",
+      "address": "Jl. Siliwangi No. 123 Bogor 16142",
+      "city": "Jakarta",
+      "key": "-LOmqOg0URap4Py2P4nQ",
+      "location": {
+        "lat": -6.621841,
+        "lng": 106.818097
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LOmqI_I90NFP-hrdAjq"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 5, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "city": "Jakarta",
+      "key": "-LOmqOg0rQVAop2D_8Pw",
+      "location": {
+        "lat": -6.569312,
+        "lng": 106.807924
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LOmqI_I90NFP-hrdAjq"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Podium Function Spaces Lippo Plaza Ekalokasari Lantai 5",
+      "address": "Jl. Siliwangi No. 123 Bogor 16142",
+      "city": "Jakarta",
+      "key": "-LOmqOg0URap4Py2P4nQ",
+      "location": {
+        "lat": -6.621841,
+        "lng": 106.818097
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LOmqI_I90NFP-hrdAjq"
+    },
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1539709200000,
@@ -6197,6 +7695,30 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "key": "-LOmqOfoGRII7JPppyTj",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LOmqI_IATG6VRRPOvxH"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540094400000,
     "place": {
       "name": "Mangga Dua Square Lt. Basement 2",
@@ -6279,6 +7801,30 @@
       },
       "city": "Jakarta",
       "key": "-LOmqOfp25n6dceH_NbJ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LOmqI_IATG6VRRPOvxH"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540126800000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "key": "-LOmqOfmA22K5Wk9WGFR",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      }
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -6925,6 +8471,78 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Tiberias Bintaro",
+      "address": "Bintaro Jaya Sektor VII Jl. Wahid Hasyim Blok FG 12/35, Depan Bank Niaga, Tangerang",
+      "location": {
+        "lat": -6.272971,
+        "lng": 106.723636
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfyVeoRteL9-2TK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GERRY TENGKER, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Gerry Tengker",
+      "key": "-LOmqI_I5I1Hzm3TmQdg"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxwi0ayUOffMD1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GERRY TENGKER, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Gerry Tengker",
+      "key": "-LOmqI_I5I1Hzm3TmQdg"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Depok Town Center Lt. 2 Ruang Toba",
+      "address": "Jl. Sawangan Raya No. 1",
+      "location": {
+        "lat": -6.395399,
+        "lng": 106.792674
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxx6w060_5OuXg"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GERRY TENGKER, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Gerry Tengker",
+      "key": "-LOmqI_I5I1Hzm3TmQdg"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540117800000,
     "place": {
       "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
@@ -6995,6 +8613,78 @@
     "category": "Ibadah Hari Minggu"
   },
   {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540096200000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "key": "-LOmqOfmNinnjeSURIlx",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LOmqI_IJV6pkYMZQfzA"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "key": "-LOmqOfhjelHjk8xYzC1",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LOmqI_IJV6pkYMZQfzA"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540110600000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "key": "-LOmqOfprrGi2HS2V_b3",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LOmqI_IJV6pkYMZQfzA"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
     "date": 1539968400000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540029600000,
@@ -7017,6 +8707,102 @@
       "name": "Jonathan Lansing",
       "key": "-LOmqI_IJV6pkYMZQfzA"
     }
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Depok Town Center Lt. 2 Ruang Toba",
+      "address": "Jl. Sawangan Raya No. 1",
+      "location": {
+        "lat": -6.395399,
+        "lng": 106.792674
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxx6w060_5OuXg"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna",
+      "key": "-LOmqI_Il1TXymga2aby"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540092600000,
+    "place": {
+      "name": "Tiberias Bintaro",
+      "address": "Bintaro Jaya Sektor VII Jl. Wahid Hasyim Blok FG 12/35, Depan Bank Niaga, Tangerang",
+      "location": {
+        "lat": -6.272971,
+        "lng": 106.723636
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfyVeoRteL9-2TK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna",
+      "key": "-LOmqI_Il1TXymga2aby"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxwi0ayUOffMD1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna",
+      "key": "-LOmqI_Il1TXymga2aby"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540116000000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfpzGYvQUqShaxh",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna",
+      "key": "-LOmqI_Il1TXymga2aby"
+    },
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1539709200000,
@@ -7279,6 +9065,78 @@
       "suffix": "S.Th.",
       "name": "Paul Denny Kristianto",
       "key": "-LOmqI_IYdcBFDjLsR1z"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540081800000,
+    "place": {
+      "name": "Bioskop 21 Lt.2 \"Theatre 1\" Supermall Karawaci",
+      "address": "Supermal Karawaci",
+      "city": "Jakarta",
+      "key": "-LOmqOg-hWO5tCDXgUug",
+      "location": {
+        "lat": -6.226962100000001,
+        "lng": 106.6070653
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
+      "title": "Pdm.",
+      "prefix": "DR.",
+      "name": "Elia Edison Simarmata",
+      "key": "-LOmqI_Iq_I7-2f2jhOX"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540094400000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfywkz0c_y3Wy9f"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
+      "title": "Pdm.",
+      "prefix": "DR.",
+      "name": "Elia Edison Simarmata",
+      "key": "-LOmqI_Iq_I7-2f2jhOX"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540105200000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfzoDBUwdwVPY7Y"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
+      "title": "Pdm.",
+      "prefix": "DR.",
+      "name": "Elia Edison Simarmata",
+      "key": "-LOmqI_Iq_I7-2f2jhOX"
     },
     "category": "Ibadah Hari Minggu"
   },
@@ -7659,6 +9517,54 @@
     "category": "Ibadah Hari Minggu"
   },
   {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540116000000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "key": "-LOmqOflobANbZ7Z09tH",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. EDDY SIMANJUNTAK",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Eddy Simanjuntak",
+      "key": "-LOmqI_IKnU-I4Dc4SYj"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540121400000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOg-gfkzY0NuzcY1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. EDDY SIMANJUNTAK",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Eddy Simanjuntak",
+      "key": "-LOmqI_IKnU-I4Dc4SYj"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
     "date": 1539968400000,
     "event": "Ibadah Tengah Minggu",
     "time": 1539990000000,
@@ -7795,6 +9701,78 @@
     }
   },
   {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540090800000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfzoDBUwdwVPY7Y"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S",
+      "key": "-LOmqI_I7-gv3q5upQUK"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfywkz0c_y3Wy9f"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S",
+      "key": "-LOmqI_I7-gv3q5upQUK"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Depok Town Center Lt. 2 Ruang Toba",
+      "address": "Jl. Sawangan Raya No. 1",
+      "location": {
+        "lat": -6.395399,
+        "lng": 106.792674
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfxx6w060_5OuXg"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S",
+      "key": "-LOmqI_I7-gv3q5upQUK"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
     "date": 1539968400000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540029600000,
@@ -7831,6 +9809,78 @@
         "lat": -6.254688,
         "lng": 106.8706622
       }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Samuel Panjaitan",
+      "key": "-LOmqI_ICQWuHn4J8Eyv"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540087200000,
+    "place": {
+      "name": "Ruko Little China Blok JD/17-18 Komp. Legenda Wisata - Cibubur",
+      "address": "Kota Legenda Wisata Cibubur",
+      "location": {
+        "lat": -6.396133,
+        "lng": 106.94305
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfzhmiQ-oOrJ4_6"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Samuel Panjaitan",
+      "key": "-LOmqI_ICQWuHn4J8Eyv"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540099800000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfyQ3lPiFe3PE8f"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Samuel Panjaitan",
+      "key": "-LOmqI_ICQWuHn4J8Eyv"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOfywkz0c_y3Wy9f"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -7937,6 +9987,29 @@
     "category": "Ibadah Hari Minggu"
   },
   {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540112400000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "key": "-LOmqOfq8ZySFMpsHhT2",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HARTONO KURNIAWAN",
+      "title": "Pdt.",
+      "name": "Hartono Kurniawan",
+      "key": "-LOmqI_IW5jWh8qDHqnr"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
     "date": 1539968400000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540029600000,
@@ -7963,6 +10036,30 @@
   {
     "date": 1540054800000,
     "event": "Ibadah Hari Minggu",
+    "time": 1540083600000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LOmqOg-gfkzY0NuzcY1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. ARNOLD TINDAS",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Arnold Tindas",
+      "key": "-LOmqI_ITjVE7cEiBvD7"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
     "time": 1540092600000,
     "place": {
       "name": "Ged. Menteng Prada Lt. 4",
@@ -7972,6 +10069,54 @@
       "location": {
         "lat": -6.198441600000001,
         "lng": 106.8421178
+      }
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. ARNOLD TINDAS",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Arnold Tindas",
+      "key": "-LOmqI_ITjVE7cEiBvD7"
+    },
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540101600000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "key": "-LOmqOfv2E9NEFmWs-3T",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      }
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. DR. ARNOLD TINDAS",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Arnold Tindas",
+      "key": "-LOmqI_ITjVE7cEiBvD7"
+    }
+  },
+  {
+    "date": 1540054800000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540108800000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "key": "-LOmqOfuBsipRidy05SF",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
       }
     },
     "withPerjamuanKudus": true,
