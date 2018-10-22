@@ -2,15 +2,16 @@
   {
     "date": 1540659600000,
     "event": "Ibadah Hari Minggu",
-    "time": 1540710000000,
+    "time": 1540697400000,
     "place": {
-      "name": "Balai Sarbini-Dome Plaza Semanggi",
-      "address": "Jl. Jend. Sudirman Kav. 50, Jakarta Selatan",
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
       "location": {
-        "lat": -6.219678,
-        "lng": 106.814514
+        "lat": -6.1777448,
+        "lng": 106.7910148
       },
-      "city": "Jakarta"
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
@@ -20,9 +21,161 @@
       "prefix": "DR.",
       "jobtitle": "Gembala Sidang dan Ketua Sinode",
       "name": "Yesaya Pariadji",
-      "key": "-LPQE1mHyA03SXexgtMX"
+      "key": "-LPQq_2Klrd6-5XOPvKR"
     },
-    "key": "-LPQE1mGo4edEAEjfsCJ"
+    "key": "-LPQsicVPACSkVCWiHlp"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540710000000,
+    "place": {
+      "name": "Balai Sarbini-Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav. 50, Jakarta Selatan",
+      "location": {
+        "lat": -6.219678,
+        "lng": 106.814514
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUmeQb9MqsagsrE"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-LPQsicWz9_ffKYb5kMV"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540719000000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-LPQsicX4I8k3hJTKKbf"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540692000000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-LPQsicYxLukORalS9oS",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540699200000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-LPQsicZ67kQjJ0HCdN7",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540708200000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-LPQsic_S51tmviiD26d",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540722600000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-LPQsica56m9NGIag_UF",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540659600000,
@@ -35,7 +188,8 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -44,9 +198,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.H., M.Th.",
       "name": "Gideon Simanjuntak",
-      "key": "-LPQE1mJth9-jjHbCvvW"
+      "key": "-LPQq_2KTZhHllt1h8Yc"
     },
-    "key": "-LPQE1mIKuBU8fOoCfVL",
+    "key": "-LPQsicbYHdrxDmFoO0O",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -60,7 +214,8 @@
         "lat": -6.2411,
         "lng": 106.969505
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -69,9 +224,35 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.H., M.Th.",
       "name": "Gideon Simanjuntak",
-      "key": "-LPQE1mKpAoL-aVaR-L3"
+      "key": "-LPQq_2KTZhHllt1h8Yc"
     },
-    "key": "-LPQE1mJqCTmUAYONOke",
+    "key": "-LPQsiccM8E2_jsgFKZp",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540710000000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-LPQsicdZgJgINb08Gau",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -85,7 +266,8 @@
         "lat": -6.219678,
         "lng": 106.814514
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUmeQb9MqsagsrE"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Pujian Penyembahan Boanerges Worship",
@@ -95,9 +277,35 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.H., M.Th.",
       "name": "Gideon Simanjuntak",
-      "key": "-LPQE1mMcjLtrpp8JH5s"
+      "key": "-LPQq_2KTZhHllt1h8Yc"
     },
-    "key": "-LPQE1mKPIdC0WyPjsnu"
+    "key": "-LPQsiceabxPMOIlX3PP"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540729800000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-LPQsicfHwpGEYZIVbbW",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540314000000,
@@ -110,7 +318,8 @@
       "location": {
         "lat": -6.1507954,
         "lng": 106.903805
-      }
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Pujian & Mujizat, Kesembuhan Ilahi & Pelepasan Resesi Ekonomi",
@@ -120,9 +329,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.H., M.Th.",
       "name": "Gideon Simanjuntak",
-      "key": "-LPQE1mO-YwLYuVe6enT"
+      "key": "-LPQq_2KTZhHllt1h8Yc"
     },
-    "key": "-LPQE1mMuJC5sppiZLhf"
+    "key": "-LPQsicg2rGpRGR-Va0u"
   },
   {
     "date": 1540659600000,
@@ -135,7 +344,8 @@
         "lat": -6.155269,
         "lng": 106.895349
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUx7Tqw3RgEVZbr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -144,9 +354,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LPQE1mQWg-hm6LUF1Ii"
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
     },
-    "key": "-LPQE1mOXg7UMSblMp61",
+    "key": "-LPQsichs-C3L3oJ8Aks",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -160,7 +370,8 @@
       "location": {
         "lat": -6.1507954,
         "lng": 106.903805
-      }
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -169,9 +380,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LPQE1mStb8wbvLO4mEU"
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
     },
-    "key": "-LPQE1mQILGVXA_-ewdI",
+    "key": "-LPQsiciuxDBSTf-Yaai",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -185,7 +396,8 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
-      }
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -194,9 +406,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LPQE1mUFZElbaF07QZE"
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
     },
-    "key": "-LPQE1mSMEmOPhTnZIhK",
+    "key": "-LPQsicjyBrHnwJOXF66",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -210,7 +422,8 @@
       "location": {
         "lat": -6.151278999999999,
         "lng": 106.8923703
-      }
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
     },
     "withPerjamuanKudus": true,
     "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
@@ -220,9 +433,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LPQE1mWB01SwNAwPqrW"
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
     },
-    "key": "-LPQE1mU8Z435nzFh8Ao"
+    "key": "-LPQsicmgRInqUSi16CX"
   },
   {
     "date": 1540659600000,
@@ -235,7 +448,8 @@
         "lat": -6.219678,
         "lng": 106.814514
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUmeQb9MqsagsrE"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -244,9 +458,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LPQE1mZgqY96ZeJ5Rsp"
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
     },
-    "key": "-LPQE1mW-jNwpQETT-xP",
+    "key": "-LPQsicmaFMxOjzWo9Ni",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -260,7 +474,8 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
-      }
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Pujian & Mujizat, Kesembuhan Ilahi & Pelepasan Resesi Ekonomi (Tema:",
@@ -270,9 +485,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LPQE1m_xsaeYWEFjrmT"
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
     },
-    "key": "-LPQE1mZTvkf5D-mkBdO"
+    "key": "-LPQsicmwEtnGDra6GIW"
   },
   {
     "date": 1540573200000,
@@ -285,7 +500,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Doa Semalaman (Disediakan Snack)",
@@ -295,9 +511,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Jeffrey Adolf Wannee S.th",
-      "key": "-LPQE1macJh2HThDkI48"
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
     },
-    "key": "-LPQE1m_F36VXsVRo_L5"
+    "key": "-LPQsicm0TW05ejq8RR0"
   },
   {
     "date": 1540573200000,
@@ -310,7 +526,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Doa Semalaman (Disediakan Snack)",
@@ -320,9 +537,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Melvin B. Tuela",
-      "key": "-LPQE1mc4xNVSTOHIrwK"
+      "key": "-LPQq_2KMthqX3zsUbAj"
     },
-    "key": "-LPQE1mbcYhpIQUtnmwV"
+    "key": "-LPQsicmGyJzXSZGLf89"
   },
   {
     "date": 1540573200000,
@@ -335,7 +552,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "category": "Ibadah Pra Nikah",
@@ -345,9 +563,9 @@
       "jobtitle": "Asisten Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Melvin B. Tuela",
-      "key": "-LPQE1md2lJ9ZofMl5TK"
+      "key": "-LPQq_2KMthqX3zsUbAj"
     },
-    "key": "-LPQE1mccPYNYkwOLTL1"
+    "key": "-LPQsicmEImWV_qhCbPe"
   },
   {
     "date": 1540659600000,
@@ -360,7 +578,8 @@
         "lat": -6.227849,
         "lng": 106.983644
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -368,9 +587,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Markus Mercio Pattinama",
-      "key": "-LPQE1mf3mJ1vVO0DTG2"
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
     },
-    "key": "-LPQE1mdfSWnMpjn8mDl",
+    "key": "-LPQsicmXStUvR708dfQ",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -384,7 +603,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -392,9 +612,34 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Markus Mercio Pattinama",
-      "key": "-LPQE1mgzvZhgeaCXTEu"
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
     },
-    "key": "-LPQE1mfSHQM9Y14XFt6",
+    "key": "-LPQsicm36ASOjK4aw-Z",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      },
+      "key": "-LPQobV6rzjSwVcDijgo"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-LPQsicmUY98kqdoZiev",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -408,7 +653,8 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -416,9 +662,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Markus Mercio Pattinama",
-      "key": "-LPQE1mhgkWD6AfqCkjV"
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
     },
-    "key": "-LPQE1mgbVDIl0Fl4tYD",
+    "key": "-LPQsicm7D3hK6bhNw6u",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -432,7 +678,8 @@
         "lat": -6.227849,
         "lng": 106.983644
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -440,9 +687,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Markus Mercio Pattinama",
-      "key": "-LPQE1mhzgiIAzb_JICz"
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
     },
-    "key": "-LPQE1mhyIjqI8lJT9cL",
+    "key": "-LPQsid1QxUI91i2taJU",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -456,7 +703,8 @@
         "lat": -6.2411,
         "lng": 106.969505
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -464,9 +712,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Markus Mercio Pattinama",
-      "key": "-LPQE1mhX8PTYug4oaPJ"
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
     },
-    "key": "-LPQE1mhRriN6e0F2PMM",
+    "key": "-LPQsid1n71wElwgJqXI",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -480,7 +728,8 @@
       "location": {
         "lat": -6.226962100000001,
         "lng": 106.6070653
-      }
+      },
+      "key": "-LPQobVRKnAMXiJmMNen"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
@@ -489,9 +738,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Markus Mercio Pattinama",
-      "key": "-LPQE1mipjxQ6QEmFHfz"
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
     },
-    "key": "-LPQE1miXwSQ5Iuzu9XR"
+    "key": "-LPQsid1d3mIxwi132id"
   },
   {
     "date": 1540573200000,
@@ -504,7 +753,8 @@
       "location": {
         "lat": -6.137031899999999,
         "lng": 106.8731003
-      }
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
     },
     "withPerjamuanKudus": true,
     "category": "Perencanaan Keuangan Pribadi & Keluarga",
@@ -513,9 +763,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Markus Mercio Pattinama",
-      "key": "-LPQE1mjSJZbxee3d1Hf"
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
     },
-    "key": "-LPQE1miiiRYT2g-z7VQ"
+    "key": "-LPQsid1sB9E6Bvt-u0Y"
   },
   {
     "date": 1540659600000,
@@ -528,7 +778,8 @@
         "lat": -6.227198,
         "lng": 106.797181
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUsA9Wmiap1RJ3k"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -537,9 +788,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Alexander Simanjuntak",
-      "key": "-LPQE1mkc1vYNn0wErTn"
+      "key": "-LPQq_2KSZTNWTavZFSz"
     },
-    "key": "-LPQE1mj_gMQz4nlng8d",
+    "key": "-LPQsid1KejQT9Xyx8Hs",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -553,7 +804,8 @@
         "lat": -6.155269,
         "lng": 106.895349
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUx7Tqw3RgEVZbr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -562,9 +814,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Alexander Simanjuntak",
-      "key": "-LPQE1mkpby11kEbUORk"
+      "key": "-LPQq_2KSZTNWTavZFSz"
     },
-    "key": "-LPQE1mkUwhC0WxRSmpZ",
+    "key": "-LPQsid1LU3UCF4TZ7pz",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -578,7 +830,8 @@
       "location": {
         "lat": -6.161424999999999,
         "lng": 106.9044917
-      }
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -587,9 +840,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Alexander Simanjuntak",
-      "key": "-LPQE1mlWzy5pPqXgnA8"
+      "key": "-LPQq_2KSZTNWTavZFSz"
     },
-    "key": "-LPQE1mk62VKB2K6fSmx",
+    "key": "-LPQsid18bz5RiEKd6M0",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -603,7 +856,8 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
-      }
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -612,9 +866,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Alexander Simanjuntak",
-      "key": "-LPQE1ml3JOMR5POWSDm"
+      "key": "-LPQq_2KSZTNWTavZFSz"
     },
-    "key": "-LPQE1mlg3lavUBX9NNi",
+    "key": "-LPQsid1edmGs6wvBrjM",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -628,7 +882,8 @@
       "location": {
         "lat": -6.1507954,
         "lng": 106.903805
-      }
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -637,9 +892,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Alexander Simanjuntak",
-      "key": "-LPQE1mm0iGa6OIHSv1B"
+      "key": "-LPQq_2KSZTNWTavZFSz"
     },
-    "key": "-LPQE1mlrauA_LNYQMdx",
+    "key": "-LPQsid18kG6sgY_NpTc",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -653,7 +908,8 @@
       "location": {
         "lat": -6.151278999999999,
         "lng": 106.8923703
-      }
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -662,9 +918,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Alexander Simanjuntak",
-      "key": "-LPQE1moS4eNOTG-Ko-z"
+      "key": "-LPQq_2KSZTNWTavZFSz"
     },
-    "key": "-LPQE1mmeGgUeqjNXTiP",
+    "key": "-LPQsid1rMu27oG72Aou",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -678,7 +934,8 @@
       "location": {
         "lat": -6.151278999999999,
         "lng": 106.8923703
-      }
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan Ilahi & Pelepasan Resesi Ekonomi (Pujian Penyembahan Bersama Boanerges Worship Team)",
@@ -688,9 +945,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Alexander Simanjuntak",
-      "key": "-LPQE1moIthiWBRNboca"
+      "key": "-LPQq_2KSZTNWTavZFSz"
     },
-    "key": "-LPQE1moGpJxTjQqH2Hn"
+    "key": "-LPQsid1WPzzMvoeKTkO"
   },
   {
     "date": 1540659600000,
@@ -703,7 +960,8 @@
       "location": {
         "lat": -6.151278999999999,
         "lng": 106.8923703
-      }
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -712,9 +970,35 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "B.Bus., M.Th.",
       "name": "Lukas Verdy",
-      "key": "-LPQE1mpT0QT7Pn7_ksi"
+      "key": "-LPQq_2KLxD0dIeElpVY"
     },
-    "key": "-LPQE1mok_bVJOarf8Pt",
+    "key": "-LPQsid10sIA1QL3fWeg",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      },
+      "key": "-LPQobUq-2IfvhRnbiIy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-LPQsid1fbJfVl76-lmE",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -728,7 +1012,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -737,9 +1022,35 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "B.Bus., M.Th.",
       "name": "Lukas Verdy",
-      "key": "-LPQE1mpQ8Rs16lLNlp8"
+      "key": "-LPQq_2KLxD0dIeElpVY"
     },
-    "key": "-LPQE1mp2yXVYiPH8Ubj",
+    "key": "-LPQsid18T6V3NNhlAgm",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540726200000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-LPQsid1A00Q5ayEXlZr",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -753,7 +1064,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "category": "Doa Malam",
@@ -763,9 +1075,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "B.Bus., M.Th.",
       "name": "Lukas Verdy",
-      "key": "-LPQE1mqaVdNtcV996sn"
+      "key": "-LPQq_2KLxD0dIeElpVY"
     },
-    "key": "-LPQE1mpw-xvpgp5w-3A"
+    "key": "-LPQsidG1Yojz_FbYWbl"
   },
   {
     "date": 1540141200000,
@@ -778,7 +1090,8 @@
       "location": {
         "lat": 1.49029,
         "lng": 124.839724
-      }
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
@@ -788,9 +1101,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Marcel Saerang",
-      "key": "-LPQE1mqurDCmlAeTjep"
+      "key": "-LPQq_2L5LhHE43ohnvA"
     },
-    "key": "-LPQE1mqlk2o3mh8gwZJ"
+    "key": "-LPQsidGSDvPUpQ3nFf_"
   },
   {
     "date": 1540400400000,
@@ -803,7 +1116,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "category": "Konseling & Doa Pelepasan",
@@ -813,9 +1127,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Marcel Saerang",
-      "key": "-LPQE1mrLtdsVHXdXHN7"
+      "key": "-LPQq_2L5LhHE43ohnvA"
     },
-    "key": "-LPQE1mqKBmdqngu1tD3"
+    "key": "-LPQsidGmnPPwGc7NcHw"
   },
   {
     "date": 1540486800000,
@@ -828,7 +1142,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -837,9 +1152,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.E., M.Th.",
       "name": "Marcel Saerang",
-      "key": "-LPQE1mrraxaru725ygi"
+      "key": "-LPQq_2L5LhHE43ohnvA"
     },
-    "key": "-LPQE1mrInEG4oM62AdO",
+    "key": "-LPQsidGi0fTIdJ2CayO",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -853,7 +1168,8 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
-      }
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -862,9 +1178,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Sandy Siskandar S.th",
-      "key": "-LPQE1msHSIdHX6rpoir"
+      "key": "-LPQq_2LzfGpjptQerBe"
     },
-    "key": "-LPQE1mrDwf2cbhi4-qv",
+    "key": "-LPQsidGwe8Si2Rym0Tx",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -878,7 +1194,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
@@ -888,9 +1205,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Sandy Siskandar S.th",
-      "key": "-LPQE1mtAzWpt9V9YEIY"
+      "key": "-LPQq_2LzfGpjptQerBe"
     },
-    "key": "-LPQE1msM9Tp-0BJlcTT"
+    "key": "-LPQsidGFDP5N1ytCsu1"
   },
   {
     "date": 1540573200000,
@@ -903,7 +1220,8 @@
       "location": {
         "lat": -6.2194208,
         "lng": 106.6145253
-      }
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -913,9 +1231,9 @@
       "jobtitle": "Staff Gembala Sidang",
       "suffix": "S.Th.",
       "name": "Sandy Siskandar S.th",
-      "key": "-LPQE1mw_oNbhLuS1_GU"
+      "key": "-LPQq_2LzfGpjptQerBe"
     },
-    "key": "-LPQE1mw8Yvtrn4-T4Vu"
+    "key": "-LPQsidGsW55Ubta9BN3"
   },
   {
     "date": 1540659600000,
@@ -928,7 +1246,8 @@
       "location": {
         "lat": -6.1507954,
         "lng": 106.903805
-      }
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -936,9 +1255,9 @@
       "title": "Pdt.",
       "suffix": "M.M., M.Th.",
       "name": "Theddi Lusli",
-      "key": "-LPQE1mxgqQ0bAhg5R67"
+      "key": "-LPQq_2Lfef9gb_ej01d"
     },
-    "key": "-LPQE1mwBekJ0jGqOZwM",
+    "key": "-LPQsidGi638UJP-eewr",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -952,7 +1271,8 @@
       "location": {
         "lat": -6.151278999999999,
         "lng": 106.8923703
-      }
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -960,9 +1280,9 @@
       "title": "Pdt.",
       "suffix": "M.M., M.Th.",
       "name": "Theddi Lusli",
-      "key": "-LPQE1mxy4PHw9Zm9XV9"
+      "key": "-LPQq_2Lfef9gb_ej01d"
     },
-    "key": "-LPQE1mxa2FbkFHwPehi",
+    "key": "-LPQsidGbYWwIEZecU5c",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -976,7 +1296,8 @@
         "lat": -6.227198,
         "lng": 106.797181
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUsA9Wmiap1RJ3k"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -984,9 +1305,9 @@
       "title": "Pdt.",
       "suffix": "M.M., M.Th.",
       "name": "Theddi Lusli",
-      "key": "-LPQE1myqWrGNJOnuXkj"
+      "key": "-LPQq_2Lfef9gb_ej01d"
     },
-    "key": "-LPQE1mxV8ZzAmSylRt4",
+    "key": "-LPQsidGGNxmBdzJ0csj",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1000,7 +1321,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1008,9 +1330,9 @@
       "title": "Pdt.",
       "suffix": "M.M., M.Th.",
       "name": "Theddi Lusli",
-      "key": "-LPQE1myW9BXlem-E68O"
+      "key": "-LPQq_2Lfef9gb_ej01d"
     },
-    "key": "-LPQE1myyrG6uUXrToG-",
+    "key": "-LPQsidGP_EylwRb0p7R",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1024,7 +1346,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1032,9 +1355,9 @@
       "title": "Pdt.",
       "suffix": "M.M., M.Th.",
       "name": "Theddi Lusli",
-      "key": "-LPQE1mz3CoD85wtFmvm"
+      "key": "-LPQq_2Lfef9gb_ej01d"
     },
-    "key": "-LPQE1myaETLgF5CqRPF",
+    "key": "-LPQsidGXOEo0UqNC20l",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1048,7 +1371,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Doa Semalaman (Disediakan Snack)",
@@ -1057,9 +1381,9 @@
       "title": "Pdt.",
       "suffix": "M.M., M.Th.",
       "name": "Theddi Lusli",
-      "key": "-LPQE1mz8GBkbHz1f2TZ"
+      "key": "-LPQq_2Lfef9gb_ej01d"
     },
-    "key": "-LPQE1mz1tnEflGl8X0L"
+    "key": "-LPQsidGvWyp9YOR1N8z"
   },
   {
     "date": 1540659600000,
@@ -1072,7 +1396,8 @@
       "location": {
         "lat": -6.168163,
         "lng": 106.7864179
-      }
+      },
+      "key": "-LPQobUz6SDqyt7A-XU0"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1080,9 +1405,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "David Sumual",
-      "key": "-LPQE1n-9KCcCM7L9mYC"
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
     },
-    "key": "-LPQE1n-UTuX9rKIEnCb",
+    "key": "-LPQsidGVnHv-4cEEt6w",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1096,7 +1421,8 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
-      }
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
@@ -1105,9 +1431,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "David Sumual",
-      "key": "-LPQE1n-M6xF89yn-_99"
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
     },
-    "key": "-LPQE1n-G-wdxeaTu8ej"
+    "key": "-LPQsidGfrrp1TcBtsCl"
   },
   {
     "date": 1540659600000,
@@ -1120,7 +1446,8 @@
         "lat": -6.219678,
         "lng": 106.814514
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUmeQb9MqsagsrE"
     },
     "withPerjamuanKudus": true,
     "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
@@ -1129,9 +1456,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "David Sumual",
-      "key": "-LPQE1n0TKSZQmsSQLnD"
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
     },
-    "key": "-LPQE1n-a7ilW94WU1_F"
+    "key": "-LPQsidGYDpTyWCmgsTF"
   },
   {
     "date": 1540659600000,
@@ -1144,7 +1471,8 @@
         "lat": -6.227198,
         "lng": 106.797181
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUsA9Wmiap1RJ3k"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1152,9 +1480,58 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "David Sumual",
-      "key": "-LPQE1n0gJROkh1Me_jd"
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
     },
-    "key": "-LPQE1n0YJDGXmzHbpzf",
+    "key": "-LPQsidWsKuTbQ_cO7ZL",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540722600000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-LPQsidW6J6MkvTmYSr5",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540686600000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      },
+      "key": "-LPQobV8wCMLTIqL0Co_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ANDREAS MELKISEDEK",
+      "title": "Pdt.",
+      "name": "Andreas Melkisedek",
+      "key": "-LPQq_2LnyWduleTcxeL"
+    },
+    "key": "-LPQsidW7lhfRvp0XSqq",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1168,16 +1545,17 @@
         "lat": -6.188535,
         "lng": 106.736554
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. ANDREAS MELKISEDEK",
       "title": "Pdt.",
       "name": "Andreas Melkisedek",
-      "key": "-LPQE1n1lUcGhIZKO5Rg"
+      "key": "-LPQq_2LnyWduleTcxeL"
     },
-    "key": "-LPQE1n03C_obtP4Zmx6",
+    "key": "-LPQsidW2RW6NXsZPxCc",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1191,16 +1569,17 @@
         "lat": -6.227198,
         "lng": 106.797181
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUsA9Wmiap1RJ3k"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. ANDREAS MELKISEDEK",
       "title": "Pdt.",
       "name": "Andreas Melkisedek",
-      "key": "-LPQE1n1lZYVDuBcBqZF"
+      "key": "-LPQq_2LnyWduleTcxeL"
     },
-    "key": "-LPQE1n10rtF1aufi7lf",
+    "key": "-LPQsidW_0rVQ_h4I3XL",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1214,16 +1593,17 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. ANDREAS MELKISEDEK",
       "title": "Pdt.",
       "name": "Andreas Melkisedek",
-      "key": "-LPQE1n2IYpSrBRJrwFW"
+      "key": "-LPQq_2LnyWduleTcxeL"
     },
-    "key": "-LPQE1n1azplXxb84h6e",
+    "key": "-LPQsidWuuQSDgzWbfyQ",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1237,7 +1617,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1246,9 +1627,9 @@
       "prefix": "DR. Ir.",
       "suffix": "M.M., D.Min.",
       "name": "Matius Jusuf",
-      "key": "-LPQE1n3SytqRsVCVtHp"
+      "key": "-LPQq_2LV5FgvCVMK-wJ"
     },
-    "key": "-LPQE1n2ouNMwQHY4HJH",
+    "key": "-LPQsidWl2mj9KurEyBL",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1262,7 +1643,8 @@
       "location": {
         "lat": -6.168163,
         "lng": 106.7864179
-      }
+      },
+      "key": "-LPQobUz6SDqyt7A-XU0"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1271,9 +1653,9 @@
       "prefix": "DR. Ir.",
       "suffix": "M.M., D.Min.",
       "name": "Matius Jusuf",
-      "key": "-LPQE1n31GDidTkAPX-7"
+      "key": "-LPQq_2LV5FgvCVMK-wJ"
     },
-    "key": "-LPQE1n3A0E93zLFzvXP",
+    "key": "-LPQsidWmXTz5g2TIOR3",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1287,7 +1669,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "category": "Bahasa Indonesia Diterjemahkan Mandarin",
@@ -1297,9 +1680,9 @@
       "prefix": "DR. Ir.",
       "suffix": "M.M., D.Min.",
       "name": "Matius Jusuf",
-      "key": "-LPQE1n3BG-0HrKXoaLj"
+      "key": "-LPQq_2LV5FgvCVMK-wJ"
     },
-    "key": "-LPQE1n3csaivnk6Cogm"
+    "key": "-LPQsidWfJ7gifJTaiNb"
   },
   {
     "date": 1540659600000,
@@ -1312,7 +1695,8 @@
       "location": {
         "lat": -6.161424999999999,
         "lng": 106.9044917
-      }
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1321,9 +1705,9 @@
       "prefix": "DR. Ir.",
       "suffix": "M.M., D.Min.",
       "name": "Matius Jusuf",
-      "key": "-LPQE1n4J_D6nQx7yht3"
+      "key": "-LPQq_2LV5FgvCVMK-wJ"
     },
-    "key": "-LPQE1n3W75H9TvbyPIV",
+    "key": "-LPQsidWvIcuTLsPzbXk",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1337,7 +1721,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1346,9 +1731,35 @@
       "prefix": "DR. Ir.",
       "suffix": "M.M., D.Min.",
       "name": "Matius Jusuf",
-      "key": "-LPQE1n4iWs43aZFPsgT"
+      "key": "-LPQq_2LV5FgvCVMK-wJ"
     },
-    "key": "-LPQE1n4aScID5maCpV3",
+    "key": "-LPQsidWoDRvBlOfvl-9",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540684800000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-LPQsidW2k2LYJWGPbKb",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1362,7 +1773,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1371,9 +1783,61 @@
       "prefix": "DR.",
       "suffix": "M.A., D.Th.",
       "name": "Denny Harseno",
-      "key": "-LPQE1n5_j4Wd3pyWwwl"
+      "key": "-LPQq_2L3s1RXMVjCDWY"
     },
-    "key": "-LPQE1n4_2UKs5FKa0-p",
+    "key": "-LPQsidWKpZuUUxFTdPe",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540697400000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-LPQsidWnigOdjq5RT8e",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-LPQsidWB1h0ETmhO866",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1387,7 +1851,8 @@
         "lat": -6.142105,
         "lng": 106.707676
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1396,9 +1861,35 @@
       "prefix": "DR.",
       "suffix": "M.A., D.Th.",
       "name": "Denny Harseno",
-      "key": "-LPQE1n54CRH_w0GD7vY"
+      "key": "-LPQq_2L3s1RXMVjCDWY"
     },
-    "key": "-LPQE1n58l4OOf6gwnh5",
+    "key": "-LPQsidWEdrGHAa7sdJR",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540728000000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-LPQsidWQTQrOz5QUlvP",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1412,7 +1903,8 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
-      }
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1421,9 +1913,9 @@
       "prefix": "DR.",
       "suffix": "M.A., D.Th.",
       "name": "Denny Harseno",
-      "key": "-LPQE1n60SDf_rdnwVNM"
+      "key": "-LPQq_2L3s1RXMVjCDWY"
     },
-    "key": "-LPQE1n56_S5UFFUDKT9",
+    "key": "-LPQsidWcd09L7DspHb1",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -1437,7 +1929,8 @@
       "location": {
         "lat": -6.161571,
         "lng": 106.904402
-      }
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
     },
     "withPerjamuanKudus": true,
     "category": "Pujian Penyembahan",
@@ -1447,9 +1940,9 @@
       "prefix": "DR.",
       "suffix": "M.A., D.Th.",
       "name": "Denny Harseno",
-      "key": "-LPQE1n6ksN09Sy0G4as"
+      "key": "-LPQq_2L3s1RXMVjCDWY"
     },
-    "key": "-LPQE1n6t2C_JuY6H1AP"
+    "key": "-LPQsidWKuE1arPqxsvL"
   },
   {
     "date": 1540659600000,
@@ -1462,7 +1955,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1471,9 +1965,35 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Mulyawan Wirianata",
-      "key": "-LPQE1n7kHs2Ivud4qfR"
+      "key": "-LPQq_2LXodexGPo1gTo"
     },
-    "key": "-LPQE1n6BqohJ-Wf0p5M",
+    "key": "-LPQsidWSyhXXd5Nt8eY",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540697400000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata",
+      "key": "-LPQq_2LXodexGPo1gTo"
+    },
+    "key": "-LPQsidk0IV4OUucZiMn",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1487,7 +2007,8 @@
         "lat": -6.188535,
         "lng": 106.736554
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1496,9 +2017,61 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Mulyawan Wirianata",
-      "key": "-LPQE1n7CrLNfaYvY4AA"
+      "key": "-LPQq_2LXodexGPo1gTo"
     },
-    "key": "-LPQE1n7QOO80jFQAhc8",
+    "key": "-LPQsidkljI28lXVJwzY",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540713600000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata",
+      "key": "-LPQq_2LXodexGPo1gTo"
+    },
+    "key": "-LPQsidkJc8I0J67bT1g",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540722600000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata",
+      "key": "-LPQq_2LXodexGPo1gTo"
+    },
+    "key": "-LPQsidkoUhamfMzddLh",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1512,7 +2085,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1521,9 +2095,9 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Mulyawan Wirianata",
-      "key": "-LPQE1n8G2tLFajMXUJp"
+      "key": "-LPQq_2LXodexGPo1gTo"
     },
-    "key": "-LPQE1n7Thk2RVwJaKui",
+    "key": "-LPQsidkIAMOKIHi0z8U",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1537,7 +2111,8 @@
       "location": {
         "lat": -6.222168099999999,
         "lng": 106.6536279
-      }
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
     },
     "withPerjamuanKudus": true,
     "category": "Tema: Mengalami Mujizat Tuhan",
@@ -1547,9 +2122,9 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Mulyawan Wirianata",
-      "key": "-LPQE1n8ySnhxM5lqvQq"
+      "key": "-LPQq_2LXodexGPo1gTo"
     },
-    "key": "-LPQE1n8LWnLalzYYNOn"
+    "key": "-LPQsidkeqU_6eQkPdv7"
   },
   {
     "date": 1540573200000,
@@ -1562,7 +2137,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "category": "Ibadah Menara Doa (Tema: Doa Puasa Menghasilkan Kuasa)",
@@ -1572,9 +2148,9 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Mulyawan Wirianata",
-      "key": "-LPQE1n9aDq6ETCIjKrU"
+      "key": "-LPQq_2LXodexGPo1gTo"
     },
-    "key": "-LPQE1n8WleaoQs3mbns"
+    "key": "-LPQsidkkYuy-341nuR2"
   },
   {
     "date": 1540573200000,
@@ -1587,7 +2163,8 @@
       "location": {
         "lat": 6.1167476,
         "lng": 106.7889175
-      }
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
     },
     "withPerjamuanKudus": true,
     "category": "Konseling & Doa Pelepasan",
@@ -1597,9 +2174,61 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Mulyawan Wirianata",
-      "key": "-LPQE1n9EXzt74IFtgO0"
+      "key": "-LPQq_2LXodexGPo1gTo"
     },
-    "key": "-LPQE1n9HOa2TrKYFBx9"
+    "key": "-LPQsidk_qsjWifxy5J5"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-LPQsidk7oF5xPG7m5R_",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540695600000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-LPQsidkbwxUgW5JLptG",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540659600000,
@@ -1612,7 +2241,8 @@
         "lat": -6.188535,
         "lng": 106.736554
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1621,9 +2251,9 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Bernard Wiradarma",
-      "key": "-LPQE1nB75iAys1n8tF7"
+      "key": "-LPQq_2LLpQQMV1DiQsL"
     },
-    "key": "-LPQE1n9Nl11stHYhu8t",
+    "key": "-LPQsidk1xNQevSiPHzP",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1637,7 +2267,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1646,9 +2277,35 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Bernard Wiradarma",
-      "key": "-LPQE1nBzwSx0-DrpYLI"
+      "key": "-LPQq_2LLpQQMV1DiQsL"
     },
-    "key": "-LPQE1nBqumt51g5B3SW",
+    "key": "-LPQsidkM0g_3fAx2xH6",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540713600000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-LPQsidkcpf_R95RgS-6",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1662,7 +2319,8 @@
         "lat": -6.142105,
         "lng": 106.707676
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1671,9 +2329,9 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Bernard Wiradarma",
-      "key": "-LPQE1nCpzs7kcQ1doQ7"
+      "key": "-LPQq_2LLpQQMV1DiQsL"
     },
-    "key": "-LPQE1nCc5JOuRQPFa-D",
+    "key": "-LPQsidk5JQFsW7B-jUI",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1687,7 +2345,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "category": "Pembinaan Iman",
@@ -1697,9 +2356,9 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Bernard Wiradarma",
-      "key": "-LPQE1nDlXajYmjravjA"
+      "key": "-LPQq_2LLpQQMV1DiQsL"
     },
-    "key": "-LPQE1nDoT9gdLyngj5g"
+    "key": "-LPQsidkJA-hlIiCGxIV"
   },
   {
     "date": 1540314000000,
@@ -1712,7 +2371,8 @@
       "location": {
         "lat": -6.295682099999999,
         "lng": 106.6674544
-      }
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1721,9 +2381,9 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Bernard Wiradarma",
-      "key": "-LPQE1nDOSyLoBONIee4"
+      "key": "-LPQq_2LLpQQMV1DiQsL"
     },
-    "key": "-LPQE1nDI0rfLTvYMYQt",
+    "key": "-LPQsidkR8eka0Sf_Kgd",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -1737,7 +2397,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "category": "Pembinaan Iman",
@@ -1747,9 +2408,33 @@
       "prefix": "Ir.",
       "suffix": "M.Th.",
       "name": "Bernard Wiradarma",
-      "key": "-LPQE1nEJFLyoTPR1sfJ"
+      "key": "-LPQq_2LLpQQMV1DiQsL"
     },
-    "key": "-LPQE1nD1xXHz1yALdsM"
+    "key": "-LPQsidkYFWNpad73qRy"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540692000000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HERRYANTO HIDAYAT",
+      "title": "Pdt.",
+      "name": "Herryanto Hidayat",
+      "key": "-LPQq_2LMKBVJTfSnhjT"
+    },
+    "key": "-LPQsidkOoEb0fZkmRrb",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540659600000,
@@ -1762,16 +2447,41 @@
         "lat": -6.142105,
         "lng": 106.707676
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. HERRYANTO HIDAYAT",
       "title": "Pdt.",
       "name": "Herryanto Hidayat",
-      "key": "-LPQE1nE8n7K1slcQ1iM"
+      "key": "-LPQq_2LMKBVJTfSnhjT"
     },
-    "key": "-LPQE1nERRTOyTqTGS5T",
+    "key": "-LPQsidkCkXa01wNcrE2",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HERRYANTO HIDAYAT",
+      "title": "Pdt.",
+      "name": "Herryanto Hidayat",
+      "key": "-LPQq_2LMKBVJTfSnhjT"
+    },
+    "key": "-LPQsie-jtZvVlw_Awt0",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1785,16 +2495,17 @@
         "lat": -6.188535,
         "lng": 106.736554
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. HERRYANTO HIDAYAT",
       "title": "Pdt.",
       "name": "Herryanto Hidayat",
-      "key": "-LPQE1nFSLtOTHV2mkmV"
+      "key": "-LPQq_2LMKBVJTfSnhjT"
     },
-    "key": "-LPQE1nEjIi4ZmQre3VT",
+    "key": "-LPQsie-M2MGFqBqA3Yi",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1808,16 +2519,67 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. HERRYANTO HIDAYAT",
       "title": "Pdt.",
       "name": "Herryanto Hidayat",
-      "key": "-LPQE1nFNoddwgLW_0s-"
+      "key": "-LPQq_2LMKBVJTfSnhjT"
     },
-    "key": "-LPQE1nFlg0En9-vmcCx",
+    "key": "-LPQsie-v1epWfXxcQIm",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540693800000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      },
+      "key": "-LPQobV8wCMLTIqL0Co_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LPQq_2Lyx8N7J4ytVS9"
+    },
+    "key": "-LPQsie-5nHulJoF9E0_",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540701000000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LPQq_2Lyx8N7J4ytVS9"
+    },
+    "key": "-LPQsie-OVN6iRahtcot",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1831,7 +2593,8 @@
         "lat": -6.142105,
         "lng": 106.707676
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1839,9 +2602,34 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Elfris Sirait",
-      "key": "-LPQE1nGuzooyeqO6Fw1"
+      "key": "-LPQq_2Lyx8N7J4ytVS9"
     },
-    "key": "-LPQE1nFZ5M_WpTBPWSG",
+    "key": "-LPQsie-hlSlc73bDxhq",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540719000000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      },
+      "key": "-LPQobUq-2IfvhRnbiIy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait",
+      "key": "-LPQq_2Lyx8N7J4ytVS9"
+    },
+    "key": "-LPQsie-CTPSjaCYGU0s",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1855,7 +2643,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1863,9 +2652,9 @@
       "title": "Ev.",
       "prefix": "DR.",
       "name": "Chandra Wijaya",
-      "key": "-LPQE1nHxYOZESerOPGS"
+      "key": "-LPQq_2Lh-Aduj1DKwGB"
     },
-    "key": "-LPQE1nGpfG33PkJHKmj",
+    "key": "-LPQsie-NjHR_QND8r4m",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1879,7 +2668,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1887,9 +2677,9 @@
       "title": "Ev.",
       "prefix": "DR.",
       "name": "Chandra Wijaya",
-      "key": "-LPQE1nH8UhL-2no4h3w"
+      "key": "-LPQq_2Lh-Aduj1DKwGB"
     },
-    "key": "-LPQE1nHZUo_wh70nTBA",
+    "key": "-LPQsie-C9TRqWyDUmbW",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1903,7 +2693,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1911,9 +2702,9 @@
       "title": "Ev.",
       "prefix": "DR.",
       "name": "Chandra Wijaya",
-      "key": "-LPQE1nI76hB95S54mHQ"
+      "key": "-LPQq_2Lh-Aduj1DKwGB"
     },
-    "key": "-LPQE1nH9TU4yy2OTzHM",
+    "key": "-LPQsie--JwUP5Bzwl2Z",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1927,7 +2718,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1935,9 +2727,9 @@
       "title": "Ev.",
       "prefix": "DR.",
       "name": "Chandra Wijaya",
-      "key": "-LPQE1nIFlulxY46sVbd"
+      "key": "-LPQq_2Lh-Aduj1DKwGB"
     },
-    "key": "-LPQE1nIJEomXW94-d6P",
+    "key": "-LPQsie-EOlockTFvjC_",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -1951,7 +2743,8 @@
       "location": {
         "lat": -6.137031899999999,
         "lng": 106.8731003
-      }
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
     },
     "withPerjamuanKudus": true,
     "category": "Perencanaan Keuangan Pribadi & Keluarga",
@@ -1960,9 +2753,109 @@
       "title": "Ev.",
       "prefix": "DR.",
       "name": "Chandra Wijaya",
-      "key": "-LPQE1nIAmqU42f39TUE"
+      "key": "-LPQq_2Lh-Aduj1DKwGB"
     },
-    "key": "-LPQE1nIyn4pXF7BJpEO"
+    "key": "-LPQsie-0nY4K2FQk2hJ"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540697400000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-LPQsie-O9N6_Pg69SxZ",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-LPQsie-mtl9XIiZ0bQh",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540713600000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-LPQsie-cQ0AfWtq1vN8",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540720800000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-LPQsie-A-eCxqV-utp6",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540314000000,
@@ -1975,7 +2868,8 @@
         "lat": -6.323448,
         "lng": 106.784287
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -1983,9 +2877,9 @@
       "title": "Pdt.",
       "suffix": "S.H., M.Div.",
       "name": "George Pranoto",
-      "key": "-LPQE1nJhn8AzmzhKD1n"
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
     },
-    "key": "-LPQE1nJAyQN9YTfqhp0",
+    "key": "-LPQsie-EXtoyf1T9-dI",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -1999,7 +2893,8 @@
         "lat": -6.142105,
         "lng": 106.707676
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
     },
     "withPerjamuanKudus": true,
     "category": "Pujian Penyembahan",
@@ -2008,9 +2903,9 @@
       "title": "Pdt.",
       "suffix": "S.H., M.Div.",
       "name": "George Pranoto",
-      "key": "-LPQE1nJLPmRy_7cOO3w"
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
     },
-    "key": "-LPQE1nJJfnAYL1PONoa"
+    "key": "-LPQsie-G-UuRvTT8r1q"
   },
   {
     "date": 1540659600000,
@@ -2023,16 +2918,137 @@
         "lat": -6.2411,
         "lng": 106.969505
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. THEODORES TABARAKA",
       "title": "Pdt.",
       "name": "Theodores Tabaraka",
-      "key": "-LPQE1nK6ulMuLtb-ilS"
+      "key": "-LPQq_2L21gG48IzEuh7"
     },
-    "key": "-LPQE1nJ-fGOYw2mNBB3",
+    "key": "-LPQsieFiM5i7A7D9wVZ",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540699200000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-LPQsieFJzXeBNxQbm1U",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-LPQsieFyTgShug_lvP-",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540715400000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-LPQsieFweV1dZgXSOov",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540720800000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-LPQsieFU3wFeupSLQ_H",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540729800000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-LPQsieFj3cDW4Xa6AMv",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2046,16 +3062,17 @@
       "location": {
         "lat": -6.137031899999999,
         "lng": 106.8731003
-      }
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. THEODORES TABARAKA",
       "title": "Pdt.",
       "name": "Theodores Tabaraka",
-      "key": "-LPQE1nKdOturXVE3oWe"
+      "key": "-LPQq_2L21gG48IzEuh7"
     },
-    "key": "-LPQE1nKCMBCtaGqsW1n",
+    "key": "-LPQsieFWM99gm4V42we",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2069,7 +3086,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "category": "Konseling & Doa Pelepasan",
@@ -2077,9 +3095,9 @@
       "givenName": "Pdt. THEODORES TABARAKA",
       "title": "Pdt.",
       "name": "Theodores Tabaraka",
-      "key": "-LPQE1nLP9HJoEGSiFmR"
+      "key": "-LPQq_2L21gG48IzEuh7"
     },
-    "key": "-LPQE1nK-9nx7XzaYYas"
+    "key": "-LPQsieFODnZiyUS7Ddc"
   },
   {
     "date": 1540573200000,
@@ -2092,7 +3110,8 @@
       "location": {
         "lat": -6.2794515,
         "lng": 106.6627203
-      }
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
     },
     "withPerjamuanKudus": true,
     "category": "Konseling & Doa Pelepasan",
@@ -2100,9 +3119,9 @@
       "givenName": "Pdt. THEODORES TABARAKA",
       "title": "Pdt.",
       "name": "Theodores Tabaraka",
-      "key": "-LPQE1nLhCHk9prXadUK"
+      "key": "-LPQq_2L21gG48IzEuh7"
     },
-    "key": "-LPQE1nLvk5X0vBWT-OA"
+    "key": "-LPQsieFzMoeZUHZsPPn"
   },
   {
     "date": 1540659600000,
@@ -2114,16 +3133,17 @@
         "lat": -6.227375,
         "lng": 106.80707
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. SAHALA HUTABARAT",
       "title": "Pdt.",
       "name": "Sahala Hutabarat",
-      "key": "-LPQE1nMXuYauaAb89YA"
+      "key": "-LPQq_2M5g-BqSmwL9m7"
     },
-    "key": "-LPQE1nLijTmFcAIqIgW",
+    "key": "-LPQsieFFWpNr2evm3gx",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2137,16 +3157,17 @@
         "lat": -6.227849,
         "lng": 106.983644
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. SAHALA HUTABARAT",
       "title": "Pdt.",
       "name": "Sahala Hutabarat",
-      "key": "-LPQE1nM5BBGwumxbf8m"
+      "key": "-LPQq_2M5g-BqSmwL9m7"
     },
-    "key": "-LPQE1nMTfm-b-RqEEl0",
+    "key": "-LPQsieFLgdFIWA5roGw",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2160,16 +3181,17 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. SAHALA HUTABARAT",
       "title": "Pdt.",
       "name": "Sahala Hutabarat",
-      "key": "-LPQE1nQth8I9blUbt_N"
+      "key": "-LPQq_2M5g-BqSmwL9m7"
     },
-    "key": "-LPQE1nMPprVN-hFZyTY",
+    "key": "-LPQsieFPmthlOUXLdmw",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2183,16 +3205,41 @@
         "lat": -6.2411,
         "lng": 106.969505
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. SAHALA HUTABARAT",
       "title": "Pdt.",
       "name": "Sahala Hutabarat",
-      "key": "-LPQE1nQRGTZ-nTTsyX_"
+      "key": "-LPQq_2M5g-BqSmwL9m7"
     },
-    "key": "-LPQE1nQQiJ1HdCmfl1i",
+    "key": "-LPQsieFpCcbRpfrW_q4",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540720800000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      },
+      "key": "-LPQobV6rzjSwVcDijgo"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-LPQsieF2sQHjtvL11yF",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2206,7 +3253,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "category": "Konseling & Doa Pelepasan",
@@ -2214,9 +3262,9 @@
       "givenName": "Pdt. SAHALA HUTABARAT",
       "title": "Pdt.",
       "name": "Sahala Hutabarat",
-      "key": "-LPQE1nRN4vB_aWzZ_2Y"
+      "key": "-LPQq_2M5g-BqSmwL9m7"
     },
-    "key": "-LPQE1nRBmyYf6hsJlFe"
+    "key": "-LPQsieFvsi4tBHfPLp8"
   },
   {
     "date": 1540659600000,
@@ -2229,7 +3277,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2237,9 +3286,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Vernineto Sitanggang",
-      "key": "-LPQE1nRYfhNqhAwqE3k"
+      "key": "-LPQq_2MSO8KjO3aSA5F"
     },
-    "key": "-LPQE1nRKxhiTJsfQNnD",
+    "key": "-LPQsieFqefgneXTzuS2",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2253,7 +3302,8 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2261,9 +3311,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Vernineto Sitanggang",
-      "key": "-LPQE1nSoQIHr9_OzBxo"
+      "key": "-LPQq_2MSO8KjO3aSA5F"
     },
-    "key": "-LPQE1nRoWAnS9ugjlhN",
+    "key": "-LPQsieFmpHoOAPAbw4G",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2277,7 +3327,8 @@
         "lat": -6.227849,
         "lng": 106.983644
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2285,9 +3336,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Vernineto Sitanggang",
-      "key": "-LPQE1nSBH_8moHqw_d8"
+      "key": "-LPQq_2MSO8KjO3aSA5F"
     },
-    "key": "-LPQE1nSQtso93StF0k-",
+    "key": "-LPQsieFaGDf8wqalbfG",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2301,7 +3352,8 @@
         "lat": -6.241079,
         "lng": 107.003032
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVJ03x_enLGjdQs"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2309,9 +3361,34 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Vernineto Sitanggang",
-      "key": "-LPQE1nTvAVyMEw7gE8Z"
+      "key": "-LPQq_2MSO8KjO3aSA5F"
     },
-    "key": "-LPQE1nScfQhbSj0wsM5",
+    "key": "-LPQsieF0IxLNUo4FWvM",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540726200000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      },
+      "key": "-LPQobUq-2IfvhRnbiIy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. VERNINETO SITANGGANG",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Vernineto Sitanggang",
+      "key": "-LPQq_2MSO8KjO3aSA5F"
+    },
+    "key": "-LPQsieFSRUkA8G_lEop",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2325,7 +3402,8 @@
       "location": {
         "lat": -6.168977299999999,
         "lng": 106.916071
-      }
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
@@ -2334,9 +3412,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "John Adhiguna",
-      "key": "-LPQE1nT3UJI9JTqGqsq"
+      "key": "-LPQq_2MqYxseJ67Jd7v"
     },
-    "key": "-LPQE1nTKX_dB69nuyAS"
+    "key": "-LPQsieUxgqBXrJW50ob"
   },
   {
     "date": 1540314000000,
@@ -2349,7 +3427,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2357,9 +3436,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "John Adhiguna",
-      "key": "-LPQE1nTsSLJc1YwJK0G"
+      "key": "-LPQq_2MqYxseJ67Jd7v"
     },
-    "key": "-LPQE1nT8qExcuFNhoyN",
+    "key": "-LPQsieUtVq4Xa1pBLmF",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2373,7 +3452,8 @@
         "lat": -6.241079,
         "lng": 107.003032
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVJ03x_enLGjdQs"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2382,9 +3462,61 @@
       "prefix": "Dr.",
       "suffix": "Sp.B.",
       "name": "Meril Lumentut",
-      "key": "-LPQE1nUYRn4D2GNdTXM"
+      "key": "-LPQq_2MwW2oHDjvlom7"
     },
-    "key": "-LPQE1nTHrjxveQCPpUG",
+    "key": "-LPQsieU9i1Ntf09QYfx",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540699200000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      },
+      "key": "-LPQobV6rzjSwVcDijgo"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Dr. MERIL LUMENTUT, Sp.B.",
+      "title": "Pdt.",
+      "prefix": "Dr.",
+      "suffix": "Sp.B.",
+      "name": "Meril Lumentut",
+      "key": "-LPQq_2MwW2oHDjvlom7"
+    },
+    "key": "-LPQsieULjo519RrkPe6",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540697400000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      },
+      "key": "-LPQobUq-2IfvhRnbiIy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Drs. KRISTIANTO IBRAHIM, M.A.",
+      "title": "Pdt.",
+      "prefix": "Drs.",
+      "suffix": "M.A.",
+      "name": "Kristianto Ibrahim",
+      "key": "-LPQq_2MQUdvWOBKhr-M"
+    },
+    "key": "-LPQsieUaGwvlRmuWHCD",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2398,7 +3530,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2407,9 +3540,9 @@
       "prefix": "Drs.",
       "suffix": "M.A.",
       "name": "Kristianto Ibrahim",
-      "key": "-LPQE1nUalObtWvGJKLp"
+      "key": "-LPQq_2MQUdvWOBKhr-M"
     },
-    "key": "-LPQE1nUUaHLKyqNt5H3",
+    "key": "-LPQsieUJoRu0UxonNAb",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2423,7 +3556,8 @@
         "lat": -6.241079,
         "lng": 107.003032
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVJ03x_enLGjdQs"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2432,9 +3566,9 @@
       "prefix": "Drs.",
       "suffix": "M.A.",
       "name": "Kristianto Ibrahim",
-      "key": "-LPQE1nVf3cYjhWBALuc"
+      "key": "-LPQq_2MQUdvWOBKhr-M"
     },
-    "key": "-LPQE1nURbuktDdNG3rh",
+    "key": "-LPQsieUi_q5wd5M-9Bm",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2448,7 +3582,8 @@
       "location": {
         "lat": -6.161424999999999,
         "lng": 106.9044917
-      }
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2457,9 +3592,9 @@
       "prefix": "Drs.",
       "suffix": "M.A.",
       "name": "Kristianto Ibrahim",
-      "key": "-LPQE1nVfyIF6V5p6WN1"
+      "key": "-LPQq_2MQUdvWOBKhr-M"
     },
-    "key": "-LPQE1nVa_8213RZ46Xq",
+    "key": "-LPQsieUmuRry7WkBrcp",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2467,7 +3602,9 @@
     "event": "Ibadah Tengah Minggu",
     "time": 1540378800000,
     "place": {
-      "name": "Plaza Jambu Dua Lt. 4, Bogor"
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2476,9 +3613,9 @@
       "prefix": "Drs.",
       "suffix": "M.A.",
       "name": "Kristianto Ibrahim",
-      "key": "-LPQE1nVWhwYNWJMurjZ"
+      "key": "-LPQq_2MQUdvWOBKhr-M"
     },
-    "key": "-LPQE1nVdvLByOn9TWHm",
+    "key": "-LPQsieUSt2vMmAVZoN_",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2488,7 +3625,8 @@
     "place": {
       "name": "Pajus Padang Bulan Medan",
       "address": "Jl. Jamin Ginting No.378 Padang Bulan, Medan Baru, Kota Medan",
-      "city": "Medan"
+      "city": "Medan",
+      "key": "-LPQobV_RMLQmf8PRNer"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -2497,9 +3635,51 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Januar Sukamto",
-      "key": "-LPQE1nWIqiHC9Cw1Vaz"
+      "key": "-LPQq_2Meomp4ERaiMD0"
     },
-    "key": "-LPQE1nVqRx59mSoDaPe"
+    "key": "-LPQsieUjm0RTBhBZN2A"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540692000000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMY MATULESSY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Romy Matulessy",
+      "key": "-LPQq_2M1nSYKrQemdlN"
+    },
+    "key": "-LPQsieUR3w9PYaQXzJC",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540713600000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMY MATULESSY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Romy Matulessy",
+      "key": "-LPQq_2M1nSYKrQemdlN"
+    },
+    "key": "-LPQsieU8EN-rnyUNQH-",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540400400000,
@@ -2512,7 +3692,8 @@
       "location": {
         "lat": -7.270285,
         "lng": 112.751222
-      }
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
     },
     "withPerjamuanKudus": true,
     "category": "Konseling & Pelepasan",
@@ -2521,9 +3702,9 @@
       "title": "Pdm.",
       "suffix": "S.E., M.Th.",
       "name": "Adry Juvento",
-      "key": "-LPQE1nWKW7fbq_6fB3o"
+      "key": "-LPQq_2MChm3UnzEmAhW"
     },
-    "key": "-LPQE1nW1jysk_gw4YDL"
+    "key": "-LPQsieUTjhQqChVzI8K"
   },
   {
     "date": 1540573200000,
@@ -2536,7 +3717,8 @@
       "location": {
         "lat": -6.981384,
         "lng": 110.431398
-      }
+      },
+      "key": "-LPQobV_WknXOctev1CP"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -2545,9 +3727,33 @@
       "title": "Pdm.",
       "suffix": "S.E., M.Th.",
       "name": "Adry Juvento",
-      "key": "-LPQE1nWhWXThdj0-pGf"
+      "key": "-LPQq_2MChm3UnzEmAhW"
     },
-    "key": "-LPQE1nWudR4ElFtl5qF"
+    "key": "-LPQsieUD3WZZa4NK5eP"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "Citra Inn Hotel International",
+      "address": "Jl. Raya Cikarang Cibarusah (Perempatan Lampu Merah Lippo Cikarang), Bekasi, 17550",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.3264309,
+        "lng": 107.125082
+      },
+      "key": "-LPQobVI4Eg6wXmp_gZL"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. YOSSIE CHRISTIANTO",
+      "title": "Pdt.",
+      "name": "Yossie Christianto",
+      "key": "-LPQq_2MzWt6C31z_cYJ"
+    },
+    "key": "-LPQsieUvdRu1aREHcK0",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540659600000,
@@ -2560,16 +3766,41 @@
         "lat": -6.297204,
         "lng": 107.149126
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVN3Gt100X4cLH9"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. YOSSIE CHRISTIANTO",
       "title": "Pdt.",
       "name": "Yossie Christianto",
-      "key": "-LPQE1nXF6jigCvrIDmY"
+      "key": "-LPQq_2MzWt6C31z_cYJ"
     },
-    "key": "-LPQE1nWbOTxbOLrZsLV",
+    "key": "-LPQsiejc8xerQ0rNi5L",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Citra Inn Hotel International",
+      "address": "Jl. Raya Cikarang Cibarusah (Perempatan Lampu Merah Lippo Cikarang), Bekasi, 17550",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.3264309,
+        "lng": 107.125082
+      },
+      "key": "-LPQobVI4Eg6wXmp_gZL"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. YOSSIE CHRISTIANTO",
+      "title": "Pdt.",
+      "name": "Yossie Christianto",
+      "key": "-LPQq_2MzWt6C31z_cYJ"
+    },
+    "key": "-LPQsiejGkIhfBgyTrKd",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2583,16 +3814,17 @@
         "lat": -6.297204,
         "lng": 107.149126
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVN3Gt100X4cLH9"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. YOSSIE CHRISTIANTO",
       "title": "Pdt.",
       "name": "Yossie Christianto",
-      "key": "-LPQE1nXa6pErtFojUF6"
+      "key": "-LPQq_2MzWt6C31z_cYJ"
     },
-    "key": "-LPQE1nXabIpdkVqEndY",
+    "key": "-LPQsiejJ-aCvs-Eat0X",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2606,7 +3838,8 @@
         "lat": -6.227849,
         "lng": 106.983644
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -2615,9 +3848,152 @@
       "title": "Ev.",
       "suffix": "S.Th.",
       "name": "Samuel Roy Napitupulu",
-      "key": "-LPQE1n_Vh6SqzzMSG9g"
+      "key": "-LPQq_2MsPdIw-Oo-MIS"
     },
-    "key": "-LPQE1n_xNCSt3aPee4d"
+    "key": "-LPQsiejAcW0WWhiXRO2"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540701000000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JANDI SUTRISNO",
+      "title": "Pdt.",
+      "name": "Jandi Sutrisno",
+      "key": "-LPQq_2M6WBlc-kKRgtx"
+    },
+    "key": "-LPQsiejpt6BDeSZCxhC",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. JANDI SUTRISNO",
+      "title": "Pdt.",
+      "name": "Jandi Sutrisno",
+      "key": "-LPQq_2M6WBlc-kKRgtx"
+    },
+    "key": "-LPQsiejZ7-iUHV8RhZU"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540713600000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JANDI SUTRISNO",
+      "title": "Pdt.",
+      "name": "Jandi Sutrisno",
+      "key": "-LPQq_2M6WBlc-kKRgtx"
+    },
+    "key": "-LPQsiejNbyLnSipDASo",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DOLF MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Dolf Mailangkay",
+      "key": "-LPQq_2NUBJiANfYMqLD"
+    },
+    "key": "-LPQsiejET36TVJBVwRU",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540713600000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      },
+      "key": "-LPQobV6rzjSwVcDijgo"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DOLF MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Dolf Mailangkay",
+      "key": "-LPQq_2NUBJiANfYMqLD"
+    },
+    "key": "-LPQsiej9K65WmVyklX6",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540720800000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DOLF MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Dolf Mailangkay",
+      "key": "-LPQq_2NUBJiANfYMqLD"
+    },
+    "key": "-LPQsiejNrGoNQn70gdM",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540314000000,
@@ -2630,7 +4006,8 @@
       "location": {
         "lat": -6.198441600000001,
         "lng": 106.8421178
-      }
+      },
+      "key": "-LPQobUq-2IfvhRnbiIy"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2638,9 +4015,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Dolf Mailangkay",
-      "key": "-LPQE1n_lJAhvdyK72FY"
+      "key": "-LPQq_2NUBJiANfYMqLD"
     },
-    "key": "-LPQE1n_KkC2so-4cR8L",
+    "key": "-LPQsiejuQDQHqv2N6qR",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2654,7 +4031,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2662,9 +4040,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Dolf Mailangkay",
-      "key": "-LPQE1narPvZGEY5M50x"
+      "key": "-LPQq_2NUBJiANfYMqLD"
     },
-    "key": "-LPQE1n_JzQ5TQqnLexM",
+    "key": "-LPQsiejG6mEh8YFDbQD",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2678,7 +4056,8 @@
         "lat": -6.379523,
         "lng": 106.91967
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2686,9 +4065,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Dolf Mailangkay",
-      "key": "-LPQE1naEsWELfxFhT3q"
+      "key": "-LPQq_2NUBJiANfYMqLD"
     },
-    "key": "-LPQE1na7vGFJrSaRvrz",
+    "key": "-LPQsiejTNUjrMpkhnQa",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2702,7 +4081,8 @@
       "location": {
         "lat": -6.2794515,
         "lng": 106.6627203
-      }
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -2711,9 +4091,84 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Aditya Putra Pradana",
-      "key": "-LPQE1naAI9D7dsvX-ny"
+      "key": "-LPQq_2NKYbo3mMl0kFe"
     },
-    "key": "-LPQE1naGMQW5B0QChGh"
+    "key": "-LPQsiejVdjPPoz6GPk5"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju",
+      "key": "-LPQq_2NTcRQA-JPREjQ"
+    },
+    "key": "-LPQsiejRht0Q2eJ4zPb",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540697400000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju",
+      "key": "-LPQq_2NTcRQA-JPREjQ"
+    },
+    "key": "-LPQsiej6UsGtjiwB_cE",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540720800000,
+    "place": {
+      "name": "Citra Inn Hotel International",
+      "address": "Jl. Raya Cikarang Cibarusah (Perempatan Lampu Merah Lippo Cikarang), Bekasi, 17550",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.3264309,
+        "lng": 107.125082
+      },
+      "key": "-LPQobVI4Eg6wXmp_gZL"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju",
+      "key": "-LPQq_2NTcRQA-JPREjQ"
+    },
+    "key": "-LPQsiejpdV7rSDtIVfz",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540573200000,
@@ -2726,7 +4181,8 @@
       "location": {
         "lat": -6.165431,
         "lng": 106.819668
-      }
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -2735,9 +4191,30 @@
       "title": "Ev.",
       "suffix": "M.Th.",
       "name": "Deavy Tumuju",
-      "key": "-LPQE1nbRO0S0gS1taXk"
+      "key": "-LPQq_2NTcRQA-JPREjQ"
     },
-    "key": "-LPQE1nbnxK5SQUNCDKz"
+    "key": "-LPQsiezODsfq6sjarEF"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540720800000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ANTON LAMANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Anton Lamando",
+      "key": "-LPQq_2NjN5CU_QCIder"
+    },
+    "key": "-LPQsiezQ1yc4sd3t8tP",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540227600000,
@@ -2750,7 +4227,8 @@
       "location": {
         "lat": 1.49029,
         "lng": 124.839724
-      }
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -2759,9 +4237,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Frans Manusama",
-      "key": "-LPQE1nbuhDAoSSbMIrV"
+      "key": "-LPQq_2NLgQitMlfooo3"
     },
-    "key": "-LPQE1nbkP32V4-rOs9b"
+    "key": "-LPQsiezG9mymta4NK8K"
   },
   {
     "date": 1540314000000,
@@ -2774,7 +4252,8 @@
       "location": {
         "lat": 1.49029,
         "lng": 124.839724
-      }
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -2783,9 +4262,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Frans Manusama",
-      "key": "-LPQE1ncZLk8Qo01cPnw"
+      "key": "-LPQq_2NLgQitMlfooo3"
     },
-    "key": "-LPQE1nbL_95VmXt9g9c"
+    "key": "-LPQsieze2WscSOfSHPR"
   },
   {
     "date": 1540400400000,
@@ -2798,7 +4277,8 @@
       "location": {
         "lat": 1.49029,
         "lng": 124.839724
-      }
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -2807,9 +4287,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Frans Manusama",
-      "key": "-LPQE1ncrlwJM3yqrszQ"
+      "key": "-LPQq_2NLgQitMlfooo3"
     },
-    "key": "-LPQE1ncWw--k0XJtO3g"
+    "key": "-LPQsiez6PtsMtO4e0cu"
   },
   {
     "date": 1540227600000,
@@ -2822,7 +4302,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
@@ -2831,9 +4312,9 @@
       "title": "Pdt.",
       "suffix": "M.Min.",
       "name": "Deddy Santoso M.min",
-      "key": "-LPQE1ndau8kuuspot27"
+      "key": "-LPQq_2NrgKtHhhKmXT3"
     },
-    "key": "-LPQE1nciJlSCNAT2UUA"
+    "key": "-LPQsiezzuqIBVVXIuf6"
   },
   {
     "date": 1540314000000,
@@ -2846,18 +4327,19 @@
       "location": {
         "lat": -6.161571,
         "lng": 106.904402
-      }
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
     },
     "withPerjamuanKudus": true,
+    "category": "Doa Syafaat, Konseling & Pelepasan",
     "speaker": {
       "givenName": "Pdt. DEDDY SANTOSO, M.Min",
       "title": "Pdt.",
       "suffix": "M.Min.",
       "name": "Deddy Santoso M.min",
-      "key": "-LPQE1ndoTQRY1IzEGbq"
+      "key": "-LPQq_2NrgKtHhhKmXT3"
     },
-    "key": "-LPQE1ndjcJ9lOALAKok",
-    "category": "Ibadah Tengah Minggu"
+    "key": "-LPQsiezWcaZwP1-5vxz"
   },
   {
     "date": 1540486800000,
@@ -2870,7 +4352,8 @@
       "location": {
         "lat": -6.161424999999999,
         "lng": 106.9044917
-      }
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2878,9 +4361,9 @@
       "title": "Pdt.",
       "suffix": "M.Min.",
       "name": "Deddy Santoso M.min",
-      "key": "-LPQE1ndtoAESn28nCWe"
+      "key": "-LPQq_2NrgKtHhhKmXT3"
     },
-    "key": "-LPQE1ndL9wCGa2vSImy",
+    "key": "-LPQsiezAT97li1o4H-s",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2894,7 +4377,8 @@
       "location": {
         "lat": -7.270285,
         "lng": 112.751222
-      }
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2902,9 +4386,9 @@
       "title": "Pdt.",
       "suffix": "M.Min.",
       "name": "Deddy Santoso M.min",
-      "key": "-LPQE1nd2LMLoXv3h2pw"
+      "key": "-LPQq_2NrgKtHhhKmXT3"
     },
-    "key": "-LPQE1ndbTfene4nas1a",
+    "key": "-LPQsiezMsomdEY9VgRS",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2918,7 +4402,8 @@
         "lat": -6.142105,
         "lng": 106.707676
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2926,9 +4411,34 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Mozart Pardede",
-      "key": "-LPQE1neDvyscmB4dXfO"
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
     },
-    "key": "-LPQE1ner-LIOy6DWtLl",
+    "key": "-LPQsiezE3QPj7c67CDk",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540701000000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      },
+      "key": "-LPQobV8wCMLTIqL0Co_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-LPQsiez0oxg4dNxlJF2",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2942,7 +4452,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2950,9 +4461,34 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Mozart Pardede",
-      "key": "-LPQE1netIAoBY5n1xx9"
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
     },
-    "key": "-LPQE1ne7Wvv6YawNX8X",
+    "key": "-LPQsiezds2zt-XNUQ7i",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540729800000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-LPQsiezVLN1pgulJZ_8",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -2966,7 +4502,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2974,9 +4511,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Mozart Pardede",
-      "key": "-LPQE1nfeV8BjsU09n0P"
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
     },
-    "key": "-LPQE1nekjjk5xgzk2Fb",
+    "key": "-LPQsiez-MnYnBZeJdLH",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -2990,7 +4527,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -2998,9 +4536,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Surya Rapali",
-      "key": "-LPQE1nffMs4g3zbtgFu"
+      "key": "-LPQq_2N3zHehXTcTSvL"
     },
-    "key": "-LPQE1nf0LXvli5xYERs",
+    "key": "-LPQsiezY9EhUSyh2JdH",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3014,7 +4552,8 @@
       "location": {
         "lat": -6.981384,
         "lng": 110.431398
-      }
+      },
+      "key": "-LPQobV_WknXOctev1CP"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3023,9 +4562,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Surya Rapali",
-      "key": "-LPQE1nfF-ssz-DdByLl"
+      "key": "-LPQq_2N3zHehXTcTSvL"
     },
-    "key": "-LPQE1nfnrgU85nU1HiM"
+    "key": "-LPQsiez-y-jJUhqENJ0"
   },
   {
     "date": 1540400400000,
@@ -3038,7 +4577,8 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Pujian dan Penyembahan",
@@ -3046,9 +4586,9 @@
       "givenName": "Pdt. REFORMANDA PASARIBU",
       "title": "Pdt.",
       "name": "Reformanda Pasaribu",
-      "key": "-LPQE1ngE2LBcTFqsm0S"
+      "key": "-LPQq_2NV0Avz__0au0r"
     },
-    "key": "-LPQE1ngu_f5gfqJ7z6f"
+    "key": "-LPQsiez2RY_fqW0eOJk"
   },
   {
     "date": 1540486800000,
@@ -3061,7 +4601,8 @@
         "lat": -6.227849,
         "lng": 106.983644
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
     },
     "withPerjamuanKudus": true,
     "category": "Konseling & Doa Pelepasan",
@@ -3069,9 +4610,9 @@
       "givenName": "Pdt. REFORMANDA PASARIBU",
       "title": "Pdt.",
       "name": "Reformanda Pasaribu",
-      "key": "-LPQE1ng1qYVLkRaZZOG"
+      "key": "-LPQq_2NV0Avz__0au0r"
     },
-    "key": "-LPQE1ngzisVfqegAYx8"
+    "key": "-LPQsiezsKZlJ5PFDHmc"
   },
   {
     "date": 1540141200000,
@@ -3084,7 +4625,8 @@
       "location": {
         "lat": -6.2141399,
         "lng": 106.8175789
-      }
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3094,9 +4636,9 @@
       "prefix": "DR.",
       "suffix": "M.Th.",
       "name": "Johny Wardi",
-      "key": "-LPQE1nhjzp1ddYSUgeX"
+      "key": "-LPQq_2N9RiAsuFKtccC"
     },
-    "key": "-LPQE1ngYS-L_-VUsl6v"
+    "key": "-LPQsiezNWx1-sA4Td5y"
   },
   {
     "date": 1540486800000,
@@ -3109,7 +4651,8 @@
       "location": {
         "lat": 1.49029,
         "lng": 124.839724
-      }
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3119,9 +4662,109 @@
       "prefix": "DR.",
       "suffix": "M.Th.",
       "name": "Johny Wardi",
-      "key": "-LPQE1nhz0dfEKGHgkFT"
+      "key": "-LPQq_2N9RiAsuFKtccC"
     },
-    "key": "-LPQE1nhuySE8BoJV-vh"
+    "key": "-LPQsiez21yazvB2G1AE"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LPQq_2N_5ux-F_UfHoT"
+    },
+    "key": "-LPQsiez7l516GkpzOIF",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LPQq_2N_5ux-F_UfHoT"
+    },
+    "key": "-LPQsifDAdkJWPTAbSQ0",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540717200000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LPQq_2N_5ux-F_UfHoT"
+    },
+    "key": "-LPQsifD0eoQ2yEoBdyN",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540726200000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LPQq_2N_5ux-F_UfHoT"
+    },
+    "key": "-LPQsifDhR3XOFJd_xzU",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540486800000,
@@ -3134,7 +4777,8 @@
       "location": {
         "lat": -6.2194208,
         "lng": 106.6145253
-      }
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3142,9 +4786,9 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Eko Budi Utomo",
-      "key": "-LPQE1nhi9zqhQXuoU3Y"
+      "key": "-LPQq_2N_5ux-F_UfHoT"
     },
-    "key": "-LPQE1nhuUPRUUD877Bt",
+    "key": "-LPQsifDIqlYxv9jbKlQ",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3158,7 +4802,8 @@
         "lat": -6.323448,
         "lng": 106.784287
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -3167,9 +4812,9 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Eko Budi Utomo",
-      "key": "-LPQE1ni78qc6GjHW7Rz"
+      "key": "-LPQq_2N_5ux-F_UfHoT"
     },
-    "key": "-LPQE1nh8iAlReCyOSx2"
+    "key": "-LPQsifGMJLhRFhp5ZnY"
   },
   {
     "date": 1540227600000,
@@ -3182,7 +4827,8 @@
       "location": {
         "lat": -6.2794515,
         "lng": 106.6627203
-      }
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
@@ -3191,9 +4837,9 @@
       "title": "Pdt.",
       "suffix": "M.Th.",
       "name": "Jhons Fernando",
-      "key": "-LPQE1niNLTSEochHQ3G"
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
     },
-    "key": "-LPQE1ni56ax8BZUuht2"
+    "key": "-LPQsifGGMfWXiifPceF"
   },
   {
     "date": 1540659600000,
@@ -3206,7 +4852,8 @@
         "lat": -6.297204,
         "lng": 107.149126
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVN3Gt100X4cLH9"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3214,9 +4861,34 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Samuel Jack Barbier",
-      "key": "-LPQE1nj9BtnvhXeQYxp"
+      "key": "-LPQq_2NZwptD9qKUdfg"
     },
-    "key": "-LPQE1ni1p2IhwGt8Ck7",
+    "key": "-LPQsifGg2yiymW0Uqcw",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540697400000,
+    "place": {
+      "name": "Citra Inn Hotel International",
+      "address": "Jl. Raya Cikarang Cibarusah (Perempatan Lampu Merah Lippo Cikarang), Bekasi, 17550",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.3264309,
+        "lng": 107.125082
+      },
+      "key": "-LPQobVI4Eg6wXmp_gZL"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LPQq_2NZwptD9qKUdfg"
+    },
+    "key": "-LPQsifGKtrRFIoQ0fOA",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3230,7 +4902,8 @@
         "lat": -6.241079,
         "lng": 107.003032
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVJ03x_enLGjdQs"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3238,9 +4911,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Samuel Jack Barbier",
-      "key": "-LPQE1njG0F0Fmq4Gwq2"
+      "key": "-LPQq_2NZwptD9qKUdfg"
     },
-    "key": "-LPQE1nj489OJQ32lO4T",
+    "key": "-LPQsifGKrWg7O5ampW4",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3254,7 +4927,8 @@
       "location": {
         "lat": 6.1167476,
         "lng": 106.7889175
-      }
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
     },
     "withPerjamuanKudus": true,
     "category": "Pujian Penyembahan",
@@ -3263,9 +4937,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Samuel Jack Barbier",
-      "key": "-LPQE1njM4pwElJNVYqz"
+      "key": "-LPQq_2NZwptD9qKUdfg"
     },
-    "key": "-LPQE1njZhdm1BJ0dbMM"
+    "key": "-LPQsifGfUAm7UsYSpqQ"
   },
   {
     "date": 1540400400000,
@@ -3278,7 +4952,8 @@
       "location": {
         "lat": -6.161571,
         "lng": 106.904402
-      }
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3286,9 +4961,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Samuel Jack Barbier",
-      "key": "-LPQE1nkQkZ8r8tt6iT-"
+      "key": "-LPQq_2NZwptD9qKUdfg"
     },
-    "key": "-LPQE1nj7arfmKEdiDvS",
+    "key": "-LPQsifGoNp0cUmaIMvr",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3302,7 +4977,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3310,9 +4986,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Samuel Jack Barbier",
-      "key": "-LPQE1nkcpU8SFKwT4Zz"
+      "key": "-LPQq_2NZwptD9qKUdfg"
     },
-    "key": "-LPQE1nkPBvT6ZzENxo5",
+    "key": "-LPQsifGcg7OuBTMuVml",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3326,7 +5002,8 @@
       "location": {
         "lat": -6.916704,
         "lng": 107.608935
-      }
+      },
+      "key": "-LPQobUYD1-X1x3nk4NC"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3335,9 +5012,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Mario Marcello",
-      "key": "-LPQE1nknFh9XOGcEu13"
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
     },
-    "key": "-LPQE1nk4O_sVHGIpfZf"
+    "key": "-LPQsifGhinBwvgEg0Ud"
   },
   {
     "date": 1540227600000,
@@ -3350,7 +5027,8 @@
       "location": {
         "lat": -3.321081,
         "lng": 114.601302
-      }
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -3358,9 +5036,9 @@
       "givenName": "Pdt. STEVEN TUMBEL",
       "title": "Pdt.",
       "name": "Steven Tumbel",
-      "key": "-LPQE1nlb88tSdNt2nrS"
+      "key": "-LPQq_2Os3cGlQWZeMHZ"
     },
-    "key": "-LPQE1nkyErKdrb2IXMH"
+    "key": "-LPQsifGNSS38WNIuTtZ"
   },
   {
     "date": 1540314000000,
@@ -3373,7 +5051,8 @@
       "location": {
         "lat": 1.3274584,
         "lng": 124.8387052
-      }
+      },
+      "key": "-LPQobV_UygLb3oenr3G"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -3381,9 +5060,9 @@
       "givenName": "Pdt. STEVEN TUMBEL",
       "title": "Pdt.",
       "name": "Steven Tumbel",
-      "key": "-LPQE1nlsn7lG7PAVW3L"
+      "key": "-LPQq_2Os3cGlQWZeMHZ"
     },
-    "key": "-LPQE1nlxiod_JF0UgSE"
+    "key": "-LPQsifG4-opG5H1oKfq"
   },
   {
     "date": 1540400400000,
@@ -3396,7 +5075,8 @@
       "location": {
         "lat": -3.321081,
         "lng": 114.601302
-      }
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -3404,9 +5084,9 @@
       "givenName": "Pdt. STEVEN TUMBEL",
       "title": "Pdt.",
       "name": "Steven Tumbel",
-      "key": "-LPQE1nlfPKNkKDAQ-qK"
+      "key": "-LPQq_2Os3cGlQWZeMHZ"
     },
-    "key": "-LPQE1nl7sA_GnZ-zp8n"
+    "key": "-LPQsifGSxQwVEzvr83_"
   },
   {
     "date": 1540314000000,
@@ -3414,7 +5094,8 @@
     "time": 1540378800000,
     "place": {
       "name": "Langowan, American Hall",
-      "city": "Manado"
+      "city": "Manado",
+      "key": "-LPQobV_0V7PQAcuxqf5"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -3422,9 +5103,9 @@
       "givenName": "Ev. BILLY MASIHOR",
       "title": "Ev.",
       "name": "Billy Masihor",
-      "key": "-LPQE1nm12gvVOWk89a1"
+      "key": "-LPQq_2OhOm9ZopeIBjJ"
     },
-    "key": "-LPQE1nmbwuyAnr6a_W4"
+    "key": "-LPQsifGGF_eqbBNmaNH"
   },
   {
     "date": 1540227600000,
@@ -3433,7 +5114,8 @@
     "place": {
       "name": "Airmadidi, Jen",
       "address": "Jl. Arnold Mononutu",
-      "city": "Manado"
+      "city": "Manado",
+      "key": "-LPQobV_Aiskx_6LkFsM"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -3441,9 +5123,9 @@
       "givenName": "Pdm. HERRY LOINDONG",
       "title": "Pdm.",
       "name": "Herry Loindong",
-      "key": "-LPQE1nmnc3tQO30B4TN"
+      "key": "-LPQq_2OnAg9Wd9qIEKf"
     },
-    "key": "-LPQE1nmVmIyB0enx39_"
+    "key": "-LPQsifGbriz1Pi0waEb"
   },
   {
     "date": 1540486800000,
@@ -3456,7 +5138,8 @@
       "location": {
         "lat": 0.735154,
         "lng": 124.307797
-      }
+      },
+      "key": "-LPQobV_sbNI8Pixfz63"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -3464,9 +5147,9 @@
       "givenName": "Ev. RUDOLF WANGANIA",
       "title": "Ev.",
       "name": "Rudolf Wangania",
-      "key": "-LPQE1nnwxdqyLeequgP"
+      "key": "-LPQq_2O2IUL-_xzWY2d"
     },
-    "key": "-LPQE1nm8eY_2VvScNO7"
+    "key": "-LPQsifG_OJIhmOJgj6q"
   },
   {
     "date": 1540573200000,
@@ -3479,25 +5162,28 @@
       "location": {
         "lat": 1.49029,
         "lng": 124.839724
-      }
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
     "speaker": {
-      "givenName": "Pdm. YEREMIA G. LONGKUTOY, S.Th.",
-      "title": "Pdm.",
-      "suffix": "S.Th.",
-      "name": "Yeremia G. Longkutoy",
-      "key": "-LPQE1nnyH2akW7r1ItK"
+      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
+      "title": "Pdt.",
+      "suffix": "S.Th., M.A.",
+      "name": "Yeremia",
+      "key": "-LPQq_2PG3T1LiW44cSD"
     },
-    "key": "-LPQE1nnnRVs9jBmeb88"
+    "key": "-LPQsifGt315JDL-u0B6"
   },
   {
     "date": 1540573200000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540638000000,
     "place": {
-      "name": "Kema, Gedung UD. Immanuel"
+      "name": "Kema, Gedung UD. Immanuel",
+      "address": "Jl. Efraim No. 38",
+      "key": "-LPQobVX477sK7eh6MdT"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3505,9 +5191,9 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Ferry Ngantung",
-      "key": "-LPQE1no5dDZreLtn-Tg"
+      "key": "-LPQq_2Okod7dcZfvTYF"
     },
-    "key": "-LPQE1nnmVB77n2CyyV_",
+    "key": "-LPQsifGadNemR5T47D1",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3521,7 +5207,8 @@
       "location": {
         "lat": -3.321081,
         "lng": 114.601302
-      }
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -3530,9 +5217,109 @@
       "title": "Ev.",
       "suffix": "S.Th.",
       "name": "Jordan Taidi",
-      "key": "-LPQE1npjvzOA9eqZ3An"
+      "key": "-LPQq_2OMhyF9jJ-FLk5"
     },
-    "key": "-LPQE1noYhX2pwzO0c8i"
+    "key": "-LPQsifGuD0Covdlm5gH"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-LPQsifGCjAuFoguKMJc",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540699200000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-LPQsifWCSu9jtuqFkER",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-LPQsifWOYNx5vAKYpD7",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540717200000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-LPQsifWPECF-mAKssIe",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540400400000,
@@ -3545,7 +5332,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3553,9 +5341,9 @@
       "title": "Pdt.",
       "suffix": "S.Kom., M.Th.",
       "name": "Budiarto L",
-      "key": "-LPQE1npSrT35rCYgcXq"
+      "key": "-LPQq_2O_qUbWZeya1Bm"
     },
-    "key": "-LPQE1npCOjlYHeegulF",
+    "key": "-LPQsifW0kkQ7EOJwI-M",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3569,7 +5357,8 @@
       "location": {
         "lat": -6.243056699999999,
         "lng": 106.6298916
-      }
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3577,9 +5366,9 @@
       "title": "Pdt.",
       "suffix": "S.Kom., M.Th.",
       "name": "Budiarto L",
-      "key": "-LPQE1nqePo2zraj0C-N"
+      "key": "-LPQq_2O_qUbWZeya1Bm"
     },
-    "key": "-LPQE1np996F-XtQSWQV",
+    "key": "-LPQsifWbCc1jemA-cZA",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3593,7 +5382,8 @@
       "location": {
         "lat": -7.263697,
         "lng": 112.740764
-      }
+      },
+      "key": "-LPQobV_yKd2ZXjZjZP0"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -3601,16 +5391,17 @@
       "givenName": "Pdm. STEVEN MALUW",
       "title": "Pdm.",
       "name": "Steven Maluw",
-      "key": "-LPQE1nqTtbff4B_K2_D"
+      "key": "-LPQq_2O2lOEe8RZLJjy"
     },
-    "key": "-LPQE1nq_07XoR_88kmJ"
+    "key": "-LPQsifWJhUPI2CBnAk-"
   },
   {
     "date": 1540227600000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540285200000,
     "place": {
-      "name": "Tiberias Toraja Aspol"
+      "name": "Tiberias Toraja Aspol",
+      "key": "-LPQobVTaQ53WFPe2gv_"
     },
     "withPerjamuanKudus": true,
     "category": "Ibadah KKR Doa Syafaat",
@@ -3619,16 +5410,17 @@
       "title": "Ev.",
       "suffix": "S.Th.",
       "name": "Aston Simbolon",
-      "key": "-LPQE1nrrRWKpGmO2vpu"
+      "key": "-LPQq_2PEyZtjZih33Lo"
     },
-    "key": "-LPQE1nq4au61Dt7EiBn"
+    "key": "-LPQsifW6t4cXuvcvmbo"
   },
   {
     "date": 1540573200000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540630800000,
     "place": {
-      "name": "Tiberias Toraja Aspol"
+      "name": "Tiberias Toraja Aspol",
+      "key": "-LPQobVTaQ53WFPe2gv_"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3636,9 +5428,9 @@
       "title": "Ev.",
       "suffix": "S.Th.",
       "name": "Aston Simbolon",
-      "key": "-LPQE1nr6sXOgkAXFr_S"
+      "key": "-LPQq_2PEyZtjZih33Lo"
     },
-    "key": "-LPQE1nrA70z7OgiYb1_",
+    "key": "-LPQsifWXNSYGz5rfYt8",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3646,7 +5438,9 @@
     "event": "Ibadah Tengah Minggu",
     "time": 1540294200000,
     "place": {
-      "name": "Ballroom Hotel Sarison Lt. 2"
+      "name": "Ballroom Hotel Sarison Lt. 2",
+      "address": "Jl. Perintis Kemerdekaan KM.13 No.78, Kapasa",
+      "key": "-LPQobVTPT1_gWNR0hsp"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3655,9 +5449,9 @@
       "title": "Pdt.",
       "suffix": "S.T., M.M.",
       "name": "Revkie H. Andilolo",
-      "key": "-LPQE1nsimvn_lpukL1S"
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
     },
-    "key": "-LPQE1nrWhaWujGJtbAk"
+    "key": "-LPQsifWNvCcYPfQg0Md"
   },
   {
     "date": 1540314000000,
@@ -3670,7 +5464,8 @@
       "location": {
         "lat": -3.321081,
         "lng": 114.601302
-      }
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3679,9 +5474,9 @@
       "title": "Pdt.",
       "suffix": "S.T., M.M.",
       "name": "Revkie H. Andilolo",
-      "key": "-LPQE1nsITd86vrIfWnH"
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
     },
-    "key": "-LPQE1nsoHrZb8k6t3gh"
+    "key": "-LPQsifWpBrXPyyVj21n"
   },
   {
     "date": 1540486800000,
@@ -3694,7 +5489,8 @@
       "location": {
         "lat": -3.321081,
         "lng": 114.601302
-      }
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3702,9 +5498,9 @@
       "title": "Pdt.",
       "suffix": "S.T., M.M.",
       "name": "Revkie H. Andilolo",
-      "key": "-LPQE1nsA_gbw56dReFc"
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
     },
-    "key": "-LPQE1nse2ik7PkHrRef",
+    "key": "-LPQsifWDGmtI7ZqJBwJ",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -3718,7 +5514,8 @@
       "location": {
         "lat": -7.263697,
         "lng": 112.740764
-      }
+      },
+      "key": "-LPQobV_yKd2ZXjZjZP0"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3727,9 +5524,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Albert Kereh",
-      "key": "-LPQE1nt7bFwZX3GrPMw"
+      "key": "-LPQq_2PJ_CXSbteQTiG"
     },
-    "key": "-LPQE1ntV2kbabPqN5k0"
+    "key": "-LPQsifWmE12OhSyoICB"
   },
   {
     "date": 1540486800000,
@@ -3742,7 +5539,8 @@
       "location": {
         "lat": -7.270285,
         "lng": 112.751222
-      }
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
@@ -3751,9 +5549,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Albert Kereh",
-      "key": "-LPQE1ntQyVeWuznrD8V"
+      "key": "-LPQq_2PJ_CXSbteQTiG"
     },
-    "key": "-LPQE1ntFeXKgw0IeTks"
+    "key": "-LPQsifWyBiC4ZMbsLdl"
   },
   {
     "date": 1540486800000,
@@ -3766,7 +5564,8 @@
       "location": {
         "lat": -7.270285,
         "lng": 112.751222
-      }
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -3775,9 +5574,134 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Albert Kereh",
-      "key": "-LPQE1nui1YmTEkZxp2V"
+      "key": "-LPQq_2PJ_CXSbteQTiG"
     },
-    "key": "-LPQE1ntyjQrB-crIgrQ"
+    "key": "-LPQsifWQdBSwRfkH0Mw"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540684800000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      },
+      "key": "-LPQobV6rzjSwVcDijgo"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-LPQsifWuK745iociuya",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      },
+      "key": "-LPQobUq-2IfvhRnbiIy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-LPQsifWP1ZdTQLkCXec",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540699200000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-LPQsifWqRUfXp_OsyHk",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540706400000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-LPQsifWEYesFNWyVPYn",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540713600000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-LPQsifWa-JbNcha4zBF",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540573200000,
@@ -3790,7 +5714,8 @@
         "lat": -6.227198,
         "lng": 106.797181
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUsA9Wmiap1RJ3k"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -3799,9 +5724,9 @@
       "title": "Pdm.",
       "suffix": "S.E., M. Th.",
       "name": "Jonathan Lansing",
-      "key": "-LPQE1nuRk1avJd7xpX7"
+      "key": "-LPQq_2P-6czXbtYYSbj"
     },
-    "key": "-LPQE1nunygg-v-bdCqr"
+    "key": "-LPQsifWsIaGcoFktSQT"
   },
   {
     "date": 1540573200000,
@@ -3814,7 +5739,8 @@
       "location": {
         "lat": -6.916704,
         "lng": 107.608935
-      }
+      },
+      "key": "-LPQobUYD1-X1x3nk4NC"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -3823,9 +5749,34 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Rommy Satria Aryaguna",
-      "key": "-LPQE1nvl0K-RFOJOIDx"
+      "key": "-LPQq_2Pp8ZXrG6eJ9CF"
     },
-    "key": "-LPQE1nu8UxVM8885YVM"
+    "key": "-LPQsifWl64gY27GDQSe"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "key": "-LPQsiflb16DMYe2HmBs",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540659600000,
@@ -3838,7 +5789,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3846,9 +5798,9 @@
       "title": "Pdt.",
       "suffix": "S.E., M.M.,  M.Th.",
       "name": "Hendri Setiadi S.e., M.m., M.th.",
-      "key": "-LPQE1nvs3lrlFlTjkEX"
+      "key": "-LPQq_2Pkrh_-Lzvis92"
     },
-    "key": "-LPQE1nvkv3MU0fxtDc4",
+    "key": "-LPQsiflRuKkNrywPDkY",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3861,7 +5813,8 @@
         "lat": -6.227375,
         "lng": 106.80707
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3869,9 +5822,9 @@
       "title": "Pdt.",
       "suffix": "S.E., M.M.,  M.Th.",
       "name": "Hendri Setiadi S.e., M.m., M.th.",
-      "key": "-LPQE1nwF_27Id5KLc85"
+      "key": "-LPQq_2Pkrh_-Lzvis92"
     },
-    "key": "-LPQE1nvG9jaTg5jJAxl",
+    "key": "-LPQsiflgAhJoYsTYPPm",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3885,7 +5838,8 @@
       "location": {
         "lat": -6.161424999999999,
         "lng": 106.9044917
-      }
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3893,9 +5847,9 @@
       "title": "Pdt.",
       "suffix": "S.E., M.M.,  M.Th.",
       "name": "Hendri Setiadi S.e., M.m., M.th.",
-      "key": "-LPQE1nwOF2wnBvtu7Pv"
+      "key": "-LPQq_2Pkrh_-Lzvis92"
     },
-    "key": "-LPQE1nwpC1vAO4OpKdT",
+    "key": "-LPQsifl92CEaORMA02u",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3909,7 +5863,8 @@
         "lat": -6.227198,
         "lng": 106.797181
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUsA9Wmiap1RJ3k"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3917,9 +5872,9 @@
       "title": "Pdt.",
       "suffix": "S.E., M.M.,  M.Th.",
       "name": "Hendri Setiadi S.e., M.m., M.th.",
-      "key": "-LPQE1nx9dBsqZ2LVs58"
+      "key": "-LPQq_2Pkrh_-Lzvis92"
     },
-    "key": "-LPQE1nw7oiJ_ps_hE_l",
+    "key": "-LPQsifluJT-H0NZFQ39",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3927,7 +5882,9 @@
     "event": "Ibadah Tengah Minggu",
     "time": 1540634400000,
     "place": {
-      "name": "Imbo Residence No. 2"
+      "name": "Imbo Residence No. 2",
+      "address": "Jl . Imam Bonjol Desa Pemecutan Kelod, Denpasar Barat - Bali",
+      "key": "-LPQobUDJy7QSAz9jFyM"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -3936,9 +5893,9 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Paul Denny Kristianto",
-      "key": "-LPQE1nypP7drIasZcTe"
+      "key": "-LPQq_2P3ABfj5La-3Mn"
     },
-    "key": "-LPQE1nxQL_X11AwoZh0"
+    "key": "-LPQsiflzYl77SiaQqSU"
   },
   {
     "date": 1540659600000,
@@ -3951,7 +5908,8 @@
       "location": {
         "lat": -0.028689,
         "lng": 109.337557
-      }
+      },
+      "key": "-LPQobV_r7FLZGM372mW"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3959,9 +5917,59 @@
       "title": "Pdm.",
       "prefix": "DR.",
       "name": "Elia Edison Simarmata",
-      "key": "-LPQE1nzumEihTkctkVn"
+      "key": "-LPQq_2Pypnillwm9U5h"
     },
-    "key": "-LPQE1nz_EhazuQt9L4c",
+    "key": "-LPQsiflM4Aqe2R9_6mk",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540692000000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
+      "title": "Pdm.",
+      "prefix": "DR.",
+      "name": "Elia Edison Simarmata",
+      "key": "-LPQq_2Pypnillwm9U5h"
+    },
+    "key": "-LPQsiflupHGi4HQkjwu",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540697400000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
+      "title": "Pdm.",
+      "prefix": "DR.",
+      "name": "Elia Edison Simarmata",
+      "key": "-LPQq_2Pypnillwm9U5h"
+    },
+    "key": "-LPQsifl1RTkjA1RmsWo",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3975,7 +5983,8 @@
       "location": {
         "lat": -0.028689,
         "lng": 109.337557
-      }
+      },
+      "key": "-LPQobV_r7FLZGM372mW"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -3983,9 +5992,9 @@
       "title": "Pdm.",
       "prefix": "DR.",
       "name": "Elia Edison Simarmata",
-      "key": "-LPQE1nzxtGMXCS-Mjhh"
+      "key": "-LPQq_2Pypnillwm9U5h"
     },
-    "key": "-LPQE1nzRXWaaew9baCR",
+    "key": "-LPQsiflUC-XWEZLGyK-",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -3999,7 +6008,8 @@
       "location": {
         "lat": -0.028689,
         "lng": 109.337557
-      }
+      },
+      "key": "-LPQobV_r7FLZGM372mW"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4007,9 +6017,9 @@
       "title": "Pdm.",
       "prefix": "DR.",
       "name": "Elia Edison Simarmata",
-      "key": "-LPQE1o-sS30vYoGktjC"
+      "key": "-LPQq_2Pypnillwm9U5h"
     },
-    "key": "-LPQE1nzfbL4_NExx0L2",
+    "key": "-LPQsifl-Y8afA_lOkHg",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4023,7 +6033,8 @@
       "location": {
         "lat": -0.028689,
         "lng": 109.337557
-      }
+      },
+      "key": "-LPQobV_r7FLZGM372mW"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4031,9 +6042,9 @@
       "title": "Pdm.",
       "prefix": "DR.",
       "name": "Elia Edison Simarmata",
-      "key": "-LPQE1o-UE3a5bCIFWIC"
+      "key": "-LPQq_2Pypnillwm9U5h"
     },
-    "key": "-LPQE1o-fU-p2ZDQDHci",
+    "key": "-LPQsifl-8KgEhpvDexa",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4047,7 +6058,8 @@
       "location": {
         "lat": 1.117698,
         "lng": 104.022952
-      }
+      },
+      "key": "-LPQobUcmjBPnrqUAY8M"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
@@ -4056,9 +6068,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Agus Setiono",
-      "key": "-LPQE1o-WKFlXK50M0oQ"
+      "key": "-LPQq_2PdBCS-ZOvuIHH"
     },
-    "key": "-LPQE1o-pCOKK9zf53mf"
+    "key": "-LPQsiflju34WYKjTCdY"
   },
   {
     "date": 1540573200000,
@@ -4071,7 +6083,8 @@
       "location": {
         "lat": 1.117698,
         "lng": 104.022952
-      }
+      },
+      "key": "-LPQobUcmjBPnrqUAY8M"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -4080,9 +6093,34 @@
       "title": "Ev.",
       "suffix": "S.E., S.Th.",
       "name": "Markus Tan",
-      "key": "-LPQE1o0WNsSZljHRbao"
+      "key": "-LPQq_2PQUUIDzfPVFsS"
     },
-    "key": "-LPQE1o0APOExQTtsgzD"
+    "key": "-LPQsiflNOtbZ5tonBfU"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540692000000,
+    "place": {
+      "name": "Ged. Cawang Kencana Lt. 7",
+      "address": "Jl. Mayor Jendral Sutoyo (Samping Kodam V Jaya), Jakarta Timur",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.254688,
+        "lng": 106.8706622
+      },
+      "key": "-LPQobV6rzjSwVcDijgo"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. EDDY SIMANJUNTAK",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Eddy Simanjuntak",
+      "key": "-LPQq_2P55kjvu0Cc_9g"
+    },
+    "key": "-LPQsifl5UYb2RJ07C5A",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540659600000,
@@ -4095,7 +6133,8 @@
         "lat": -6.241079,
         "lng": 107.003032
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVJ03x_enLGjdQs"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4103,9 +6142,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Eddy Simanjuntak",
-      "key": "-LPQE1o0Dt2KXAkA2VP_"
+      "key": "-LPQq_2P55kjvu0Cc_9g"
     },
-    "key": "-LPQE1o0Ua8A5x2hITAT",
+    "key": "-LPQsig-_qAHVJ_h0faE",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4119,7 +6158,8 @@
         "lat": -6.297204,
         "lng": 107.149126
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVN3Gt100X4cLH9"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4127,9 +6167,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Eddy Simanjuntak",
-      "key": "-LPQE1o1i72AC-CmeoN8"
+      "key": "-LPQq_2P55kjvu0Cc_9g"
     },
-    "key": "-LPQE1o0Y8udniklqssA",
+    "key": "-LPQsig-VJODg0s1EN_v",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4143,7 +6183,8 @@
         "lat": -6.227849,
         "lng": 106.983644
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4151,9 +6192,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Eddy Simanjuntak",
-      "key": "-LPQE1o1F-TPo5XqWDo_"
+      "key": "-LPQq_2P55kjvu0Cc_9g"
     },
-    "key": "-LPQE1o1zCr_MunG6h54",
+    "key": "-LPQsig-HPmvxBpO7CBW",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4167,7 +6208,8 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4175,9 +6217,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Eddy Simanjuntak",
-      "key": "-LPQE1o1vYdlKD9M6QZj"
+      "key": "-LPQq_2P55kjvu0Cc_9g"
     },
-    "key": "-LPQE1o1YP-JcU9b4kjK",
+    "key": "-LPQsig-qcVTj2eAf6Gq",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4191,7 +6233,8 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "category": "Ibadah Menara Doa (Tema: Doa Puasa Menghasilkan Kuasa)",
@@ -4200,9 +6243,9 @@
       "title": "Pdt.",
       "prefix": "DR.",
       "name": "Eddy Simanjuntak",
-      "key": "-LPQE1o2QlS1xx7PXBJN"
+      "key": "-LPQq_2P55kjvu0Cc_9g"
     },
-    "key": "-LPQE1o1s3qlddmT3pz7"
+    "key": "-LPQsig-wv8u6tbhazCt"
   },
   {
     "date": 1540227600000,
@@ -4215,7 +6258,8 @@
       "location": {
         "lat": -7.270285,
         "lng": 112.751222
-      }
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
     },
     "withPerjamuanKudus": true,
     "category": "Pujian & Penyembahan",
@@ -4223,9 +6267,9 @@
       "givenName": "Pdm. PAULUS PURTOMO",
       "title": "Pdm.",
       "name": "Paulus Purtomo",
-      "key": "-LPQE1o2KSshbEeSuZjB"
+      "key": "-LPQq_2QPetyr77R_MHo"
     },
-    "key": "-LPQE1o2Lnd5EauIXLNI"
+    "key": "-LPQsig-HGS05zn-2Yqc"
   },
   {
     "date": 1540486800000,
@@ -4238,7 +6282,8 @@
       "location": {
         "lat": -7.287734,
         "lng": 112.675963
-      }
+      },
+      "key": "-LPQobV_0xrT6E08B8KU"
     },
     "withPerjamuanKudus": true,
     "category": "Ibadah Doa Syafaat",
@@ -4246,9 +6291,9 @@
       "givenName": "Pdm. PAULUS PURTOMO",
       "title": "Pdm.",
       "name": "Paulus Purtomo",
-      "key": "-LPQE1o38BGtKCDmEHv6"
+      "key": "-LPQq_2QPetyr77R_MHo"
     },
-    "key": "-LPQE1o2FrUmu7bHTmQT"
+    "key": "-LPQsig-_LdKHoiUNqup"
   },
   {
     "date": 1540573200000,
@@ -4261,7 +6306,8 @@
       "location": {
         "lat": -0.028689,
         "lng": 109.337557
-      }
+      },
+      "key": "-LPQobV_r7FLZGM372mW"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -4269,9 +6315,9 @@
       "givenName": "Pdm. PAULUS PURTOMO",
       "title": "Pdm.",
       "name": "Paulus Purtomo",
-      "key": "-LPQE1o3NizljYzhR8K9"
+      "key": "-LPQq_2QPetyr77R_MHo"
     },
-    "key": "-LPQE1o3uV9baKECddPj"
+    "key": "-LPQsig-ypI2ioUx3Ser"
   },
   {
     "date": 1540573200000,
@@ -4284,7 +6330,8 @@
       "location": {
         "lat": -2.222716,
         "lng": 113.891876
-      }
+      },
+      "key": "-LPQobV_pod4d6TZF3l2"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -4293,9 +6340,9 @@
       "title": "Pdm.",
       "suffix": "M. Div.",
       "name": "Rindra Pk",
-      "key": "-LPQE1o367Al1n2GJBYX"
+      "key": "-LPQq_2QRyG6Xg_Fmrbg"
     },
-    "key": "-LPQE1o3P2I8mY-PUADi"
+    "key": "-LPQsig-fTOjppL8oN5s"
   },
   {
     "date": 1540573200000,
@@ -4308,7 +6355,8 @@
         "lat": -6.167845,
         "lng": 106.802792
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVQtI5m7FNC4Y_x"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4317,9 +6365,9 @@
       "title": "Ev.",
       "suffix": "S.Th.",
       "name": "Andi Wirawan S",
-      "key": "-LPQE1o486vvDiIlJCng"
+      "key": "-LPQq_2QTUWUB79lRq_g"
     },
-    "key": "-LPQE1o3QJCxSI8nnyd0"
+    "key": "-LPQsig--RT7NSKWhHAR"
   },
   {
     "date": 1540659600000,
@@ -4332,7 +6380,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4340,9 +6389,9 @@
       "title": "Pdm.",
       "suffix": "M.Th.",
       "name": "Samuel Panjaitan",
-      "key": "-LPQE1o44VLCBjAmWLgS"
+      "key": "-LPQq_2QjVKzOzz4_0TJ"
     },
-    "key": "-LPQE1o40HP5AM338EPT",
+    "key": "-LPQsig-N6KMML9QHl3-",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4356,7 +6405,8 @@
         "lat": -6.24664,
         "lng": 106.991674
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4365,9 +6415,33 @@
       "title": "Pdm.",
       "suffix": "M.Th.",
       "name": "Samuel Panjaitan",
-      "key": "-LPQE1o4-Di73vuhyxmn"
+      "key": "-LPQq_2QjVKzOzz4_0TJ"
     },
-    "key": "-LPQE1o4mRqlhEOx4wCA"
+    "key": "-LPQsig-4z1B7OscJ1jm"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540688400000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HARTONO KURNIAWAN",
+      "title": "Pdt.",
+      "name": "Hartono Kurniawan",
+      "key": "-LPQq_2Qz2R-gt4Y8ErV"
+    },
+    "key": "-LPQsig-VtjQEyuU3Ia6",
+    "category": "Ibadah Hari Minggu"
   },
   {
     "date": 1540659600000,
@@ -4380,16 +6454,65 @@
       "location": {
         "lat": -6.161424999999999,
         "lng": 106.9044917
-      }
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
     },
     "withPerjamuanKudus": true,
     "speaker": {
       "givenName": "Pdt. HARTONO KURNIAWAN",
       "title": "Pdt.",
       "name": "Hartono Kurniawan",
-      "key": "-LPQE1o5lQrJoKoBu3YB"
+      "key": "-LPQq_2Qz2R-gt4Y8ErV"
     },
-    "key": "-LPQE1o4XG8_QLWGwSy3",
+    "key": "-LPQsig-x2HlUWsiVaFs",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540720800000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HARTONO KURNIAWAN",
+      "title": "Pdt.",
+      "name": "Hartono Kurniawan",
+      "key": "-LPQq_2Qz2R-gt4Y8ErV"
+    },
+    "key": "-LPQsig--Sullyk92kAL",
+    "category": "Ibadah Hari Minggu"
+  },
+  {
+    "date": 1540659600000,
+    "event": "Ibadah Hari Minggu",
+    "time": 1540726200000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HARTONO KURNIAWAN",
+      "title": "Pdt.",
+      "name": "Hartono Kurniawan",
+      "key": "-LPQq_2Qz2R-gt4Y8ErV"
+    },
+    "key": "-LPQsig-qEsiM4EhQ1LS",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4403,7 +6526,8 @@
         "lat": -6.258466,
         "lng": 107.021133
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4412,9 +6536,9 @@
       "title": "Pdm.",
       "suffix": "S.S., M.Th.",
       "name": "Daniel Wendy",
-      "key": "-LPQE1o5rIh42DSyf2PI"
+      "key": "-LPQq_2Qgiw1ZisuAc-z"
     },
-    "key": "-LPQE1o5EU3RleXyBXoI"
+    "key": "-LPQsig-b5mxT6UYigfS"
   },
   {
     "date": 1540659600000,
@@ -4427,7 +6551,8 @@
         "lat": -6.297204,
         "lng": 107.149126
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobVN3Gt100X4cLH9"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4436,9 +6561,9 @@
       "prefix": "Ir.",
       "suffix": "S.Th.",
       "name": "Otto Tobing",
-      "key": "-LPQE1o5rrkTpJpQEpbq"
+      "key": "-LPQq_2QtQtpToKbY6ON"
     },
-    "key": "-LPQE1o5xkmw8kGn2gS9",
+    "key": "-LPQsig-xGguzONn9cfN",
     "category": "Ibadah Hari Minggu"
   },
   {
@@ -4452,7 +6577,8 @@
       "location": {
         "lat": -7.270285,
         "lng": 112.751222
-      }
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4460,9 +6586,9 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Sandy Putra Noverdy",
-      "key": "-LPQE1o6GPMv0LsFBwAm"
+      "key": "-LPQq_2QcIae84vN6z-r"
     },
-    "key": "-LPQE1o6LAMVZ9YjevzB",
+    "key": "-LPQsigFp5Wie_uV6bK2",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -4470,7 +6596,9 @@
     "event": "Ibadah Tengah Minggu",
     "time": 1540551600000,
     "place": {
-      "name": "Plaza Jambu Dua Lt. 4, Bogor"
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
     },
     "withPerjamuanKudus": true,
     "speaker": {
@@ -4478,9 +6606,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Reinold Wattimena",
-      "key": "-LPQE1o6imkyKKc6GATD"
+      "key": "-LPQq_2QUvMs31gLSHgI"
     },
-    "key": "-LPQE1o693TJa0IKdhA8",
+    "key": "-LPQsigFR12r7iKj1J7n",
     "category": "Ibadah Tengah Minggu"
   },
   {
@@ -4494,7 +6622,8 @@
       "location": {
         "lat": -3.321081,
         "lng": 114.601302
-      }
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda BOANERGES",
@@ -4503,9 +6632,9 @@
       "title": "Pdt.",
       "suffix": "S.Th.",
       "name": "Reinold Wattimena",
-      "key": "-LPQE1o6M2YySUQV151q"
+      "key": "-LPQq_2QUvMs31gLSHgI"
     },
-    "key": "-LPQE1o6rfXSPqgi3TYu"
+    "key": "-LPQsigFbYwmB9j6Bj6i"
   },
   {
     "date": 1540573200000,
@@ -4518,7 +6647,8 @@
       "location": {
         "lat": -6.161424999999999,
         "lng": 106.9044917
-      }
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4527,9 +6657,9 @@
       "title": "Ev.",
       "suffix": "S.Th.",
       "name": "Gunawan Chandra",
-      "key": "-LPQE1o79VYahdGjiER6"
+      "key": "-LPQq_2QIgMDKPSUKaEX"
     },
-    "key": "-LPQE1o79O-fk3ixeX6-"
+    "key": "-LPQsigF-wbHHDcJg_OW"
   },
   {
     "date": 1540573200000,
@@ -4542,7 +6672,8 @@
       "location": {
         "lat": -6.254688,
         "lng": 106.8706622
-      }
+      },
+      "key": "-LPQobV6rzjSwVcDijgo"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4550,16 +6681,18 @@
       "givenName": "Pdm. REZA ALEXIA FAAH",
       "title": "Pdm.",
       "name": "Reza Alexia Faah",
-      "key": "-LPQE1o7IJavdgBaQ7nH"
+      "key": "-LPQq_2Q7OnuP8BV6KIk"
     },
-    "key": "-LPQE1o71263ULyi7rfr"
+    "key": "-LPQsigFWhailCspd1I1"
   },
   {
     "date": 1540573200000,
     "event": "Ibadah Tengah Minggu",
     "time": 1540634400000,
     "place": {
-      "name": "Plaza Jambu Dua Lt. 4, Bogor"
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4568,9 +6701,9 @@
       "title": "Pdm.",
       "suffix": "B.Comm.",
       "name": "Pradipta Christian B.comm",
-      "key": "-LPQE1o8zOLrMn15YZHR"
+      "key": "-LPQq_2QV8AIURkIZIHY"
     },
-    "key": "-LPQE1o7heK3AhWOZIvY"
+    "key": "-LPQsigF218j4MEXgOV8"
   },
   {
     "date": 1540573200000,
@@ -4583,7 +6716,8 @@
       "location": {
         "lat": -6.1905872,
         "lng": 106.7648781
-      }
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4592,9 +6726,9 @@
       "title": "Pdm.",
       "suffix": "S.Th.",
       "name": "Samuel Ricky Situmorang S.th",
-      "key": "-LPQE1o8TRf8B0gkwP3U"
+      "key": "-LPQq_2QJNh8jOBBxWam"
     },
-    "key": "-LPQE1o8PeMg2Wa_CadT"
+    "key": "-LPQsigFEQ_IU_Kfe28e"
   },
   {
     "date": 1540486800000,
@@ -4607,7 +6741,8 @@
       "location": {
         "lat": 1.068665,
         "lng": 124.812092
-      }
+      },
+      "key": "-LPQobV_gmTVNQmXvIbC"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -4615,9 +6750,9 @@
       "givenName": "Ev. MELKI MATINDAS",
       "title": "Ev.",
       "name": "Melki Matindas",
-      "key": "-LPQE1o8yWIYZ9hbSgBI"
+      "key": "-LPQq_2RBU5eluCVa17q"
     },
-    "key": "-LPQE1o8W8Qdg8im-NEj"
+    "key": "-LPQsigFZdlBH7G2vuhF"
   },
   {
     "date": 1540573200000,
@@ -4630,19 +6765,19 @@
       "location": {
         "lat": 1.117698,
         "lng": 104.022952
-      }
+      },
+      "key": "-LPQobUcmjBPnrqUAY8M"
     },
     "withPerjamuanKudus": true,
     "category": "P.A. Wanita",
     "speaker": {
-      "givenName": "Pdt. DR. YEREMIA WIDODO, M.Th.",
+      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
       "title": "Pdt.",
-      "prefix": "DR.",
-      "suffix": "M.Th.",
-      "name": "Yeremia Widodo",
-      "key": "-LPQE1o9ivO7Iys8sGx8"
+      "suffix": "S.Th., M.A.",
+      "name": "Yeremia",
+      "key": "-LPQq_2PG3T1LiW44cSD"
     },
-    "key": "-LPQE1o8GbjhY01Zl19-"
+    "key": "-LPQsigFutNi3EmDxrNz"
   },
   {
     "date": 1540400400000,
@@ -4651,7 +6786,8 @@
     "place": {
       "name": "Hotel Sutanraja Amurang",
       "address": "Jl. Raya Trans Sulawesi, Amurang Timur",
-      "city": "Manado"
+      "city": "Manado",
+      "key": "-LPQobV_sq9nmkrBw5e3"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kesembuhan & Perjamuan Kudus",
@@ -4659,9 +6795,9 @@
       "givenName": "Pdm. DANIEL DIU",
       "title": "Pdm.",
       "name": "Daniel Diu",
-      "key": "-LPQE1o9ANqQePi2b53p"
+      "key": "-LPQq_2Rc-ZaqBTJ_WSb"
     },
-    "key": "-LPQE1o9OKPCAEioiRqa"
+    "key": "-LPQsigFqBKtAfSfMxh0"
   },
   {
     "date": 1540659600000,
@@ -4674,7 +6810,8 @@
       "location": {
         "lat": -6.1777448,
         "lng": 106.7910148
-      }
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
     },
     "withPerjamuanKudus": true,
     "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
@@ -4683,9 +6820,9 @@
       "title": "Pdt.",
       "jobtitle": "Gembala Sidang dan Ketua Sinode",
       "name": "Darniaty Pariadji",
-      "key": "-LPQE1oAZUuQi6nxqF6h"
+      "key": "-LPQq_2RLABbUXfsPtxh"
     },
-    "key": "-LPQE1o9tC66IEErcL-l"
+    "key": "-LPQsigFew9F0LJxVkBb"
   },
   {
     "date": 1540659600000,
@@ -4698,7 +6835,8 @@
         "lat": -6.219678,
         "lng": 106.814514
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobUmeQb9MqsagsrE"
     },
     "withPerjamuanKudus": true,
     "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
@@ -4707,9 +6845,9 @@
       "title": "Pdt.",
       "jobtitle": "Gembala Sidang dan Ketua Sinode",
       "name": "Darniaty Pariadji",
-      "key": "-LPQE1oAQJ_Mi-seUbqh"
+      "key": "-LPQq_2RLABbUXfsPtxh"
     },
-    "key": "-LPQE1oAi2UjLcL3U2yT"
+    "key": "-LPQsigFk5Flv737Kn7w"
   },
   {
     "date": 1540659600000,
@@ -4722,7 +6860,8 @@
       "location": {
         "lat": -6.151278999999999,
         "lng": 106.8923703
-      }
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
     },
     "withPerjamuanKudus": true,
     "category": "KKR MUJIZAT, KESEMBUHAN ILAHI & PELEPASAN RESESI EKONOMI",
@@ -4731,9 +6870,9 @@
       "title": "Pdt.",
       "jobtitle": "Gembala Sidang dan Ketua Sinode",
       "name": "Darniaty Pariadji",
-      "key": "-LPQE1oA9IGnedzffFB3"
+      "key": "-LPQq_2RLABbUXfsPtxh"
     },
-    "key": "-LPQE1oAH34cjoui2jve"
+    "key": "-LPQsigFARJfS2UMYOSh"
   },
   {
     "date": 1540573200000,
@@ -4746,7 +6885,8 @@
         "lat": -6.135609,
         "lng": 106.831035
       },
-      "city": "Jakarta"
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
     },
     "withPerjamuanKudus": true,
     "category": "KKR Kaum Muda Boanerges",
@@ -4755,8 +6895,8 @@
       "title": "Ev.",
       "suffix": "S. Kom.",
       "name": "Daud Surjawidjaja S. Kom",
-      "key": "-LPQE1oBMA0X4U9wpnkI"
+      "key": "-LPQq_2RFrU5fQPH2gSr"
     },
-    "key": "-LPQE1oBZEqiixgs-tmB"
+    "key": "-LPQsigFxYwqn1uaYiI6"
   }
 ]
