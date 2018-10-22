@@ -1,1 +1,14 @@
-[object Object]
+{
+  "schedules": {
+    "lastUpdated": 1540228993621,
+    "total": 484
+  },
+  "pastors": {
+    "lastUpdated": 1540228993621,
+    "total": 110
+  },
+  "churches": {
+    "lastUpdated": 1540228993621,
+    "total": 100
+  }
+}
