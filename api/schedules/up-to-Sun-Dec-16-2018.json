@@ -1,0 +1,226 @@
+[
+  {
+    "date": 1544374800000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544443200000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-LTQgfU_uX3FiKYs6HQI"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544499000000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-LTQgfUarcsp99rp8xuq"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544529600000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pembinaan Iman",
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-LTQgfUbrIAhbZ5d4kQM"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544504400000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-LTQgfUdmT05GV_Eeh-e"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544529600000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. PHILIPS MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Philips Mailangkay",
+      "key": "-LPQq_2MOvxg76kDzdcu"
+    },
+    "key": "-LTQgfUg8PJUZZrmqe4q",
+    "category": "Ibadah Tengah Minggu"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544511600000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-LTQgfUi3GlkWyOcxdzC"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544529600000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-LTQgfUjBYLlXHmU0dy-",
+    "category": "Ibadah Tengah Minggu"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544529600000,
+    "place": {
+      "name": "Tiberias Graha SA Lt. 7",
+      "address": "Graha S. A, Jl. Raya Gubeng No.19 - 21, Gubeng",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.270285,
+        "lng": 112.751222
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian & Penyembahan",
+    "speaker": {
+      "givenName": "Pdm. PAULUS PURTOMO",
+      "title": "Pdm.",
+      "name": "Paulus Purtomo",
+      "key": "-LPQq_2QPetyr77R_MHo"
+    },
+    "key": "-LTQgfUlLUfIsL_DkCje"
+  },
+  {
+    "date": 1544461200000,
+    "event": "Ibadah Tengah Minggu",
+    "time": 1544529600000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Reinold Wattimena",
+      "key": "-LPQq_2QUvMs31gLSHgI"
+    },
+    "key": "-LTQgfUmvCRCyfjzfCcx",
+    "category": "Ibadah Tengah Minggu"
+  }
+]
