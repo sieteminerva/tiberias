@@ -16279,31 +16279,6 @@
   {
     "date": 1546102800000,
     "event": "Ibadah Hari Minggu",
-    "time": 1546135200000,
-    "place": {
-      "name": "Plaza Metro Sunter Lt. 3",
-      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
-      "city": "Jakarta",
-      "location": {
-        "lat": -6.137031899999999,
-        "lng": 106.8731003
-      },
-      "key": "-LPQobUl1WqNfdbyr9Za"
-    },
-    "withPerjamuanKudus": true,
-    "speaker": {
-      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
-      "title": "Pdt.",
-      "suffix": "S.E., M.M.,  M.Th.",
-      "name": "Hendri Setiadi S.e., M.m., M.th.",
-      "key": "-LPQq_2Pkrh_-Lzvis92"
-    },
-    "key": "-LUqif3fzVL1Vk4yc4EA",
-    "category": "Ibadah Hari Minggu"
-  },
-  {
-    "date": 1546102800000,
-    "event": "Ibadah Hari Minggu",
     "time": 1546140600000,
     "place": {
       "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
