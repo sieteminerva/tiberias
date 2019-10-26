@@ -1,0 +1,3152 @@
+[
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561950000000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-Ll0lNs6DsMOYtB6ARFT",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561951800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-Ll0lNs7QIJZTTiIv5q_",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561964400000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-Ll0lNs8XLrwUPlt_gLC",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561950000000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-Ll0lNs9YsHJ2UguTrvT",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561951800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-Ll0lNsAjWXIZ7MPD6J5",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561964400000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-Ll0lNsA6WgcfSk7xPxB",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561964400000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-Ll0lNsBESgoqIcPtNoq",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564801200000,
+    "place": {
+      "name": "Ged. Graha Kencana Lt. 5",
+      "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1905872,
+        "lng": 106.7648781
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Seminar Biblical Finance & Investment (with Finance & Banking Expert)",
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-Ll0lNsCtZ3uLQ41f9th"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561964400000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-Ll0lNsDxr1wc5U8RKqS",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561985100000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-Ll0lNsEkcusZ4DRD59O",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564660800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Mujizat & Penyembahan",
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-Ll0lNsFlUZPqv1-cObU"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561942800000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-Ll0lNsGyi1hPEEn2YSi",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561962600000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-Ll0lNsH_hvghr_ikmw1",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561973400000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-Ll0lNsHIAN9KXqzB6i3",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564574400000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Mujizat, Kesembuhan Ilahi, & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-Ll0lNsIK7Zrl9PSqSro"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564747200000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Kesaksian Mujizat, Khotbah P. Kudus, KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-Ll0lNsJT6DtOU2w6AW4"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564707600000,
+    "place": {
+      "name": "Hotel Pantan Toraja"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Baptisan Selam & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-Ll0lNsK7tSwPA81qBpC"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564740000000,
+    "place": {
+      "name": "Gedung Tammuan Mali Toraja"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Mujizat & Penyerahan Anak",
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-Ll0lNsL_FBXf6gguPRT"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564747200000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-Ll0lNsMp99nCYvfZa8B",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561969800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-Ll0lNsNk_7D8I0jBCOE",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561975200000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Penyembahan Boanerges Worship",
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-Ll0lNsO7fgxf2TvPQtg"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561982400000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-Ll0lNsPaGX-_l89d_fp",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564659000000,
+    "place": {
+      "name": "Tunjungan Plaza Lt. 6",
+      "address": "Jl. Embong Malang No. 7-21, Unit PW-06 & PW-07",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.263697,
+        "lng": 112.740764
+      },
+      "key": "-LPQobV_yKd2ZXjZjZP0"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-Ll0lNsQ4C7zwqjbj8sp"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564718400000,
+    "place": {
+      "name": "Tiberias Graha SA Lt. 7",
+      "address": "Graha S. A, Jl. Raya Gubeng No.19 - 21, Gubeng",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.270285,
+        "lng": 112.751222
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-Ll0lNsR-3TxZKmZJLpU"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564745400000,
+    "place": {
+      "name": "Tiberias Graha SA Lt. 7",
+      "address": "Graha S. A, Jl. Raya Gubeng No.19 - 21, Gubeng",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.270285,
+        "lng": 112.751222
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-Ll0lNsSreLPvssUWQp5"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564786800000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Ibadah Menara Doa",
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-Ll0lNsTqJWa6ZnzhRms"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564462800000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-Ll0lNsUuDubXmZG4tBl"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564572600000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat Kesembuhan Ilahi, & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-Ll0lNsV69OGNMT7dVjZ"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561977000000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-Ll0lNsWecTEPOcq4mc7",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561942800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEDDI LUSLI, M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.M., M.Th.",
+      "name": "Theddi Lusli",
+      "key": "-LPQq_2Lfef9gb_ej01d"
+    },
+    "key": "-Ll0lNsXBJm6z57PhJcp",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561950000000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEDDI LUSLI, M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.M., M.Th.",
+      "name": "Theddi Lusli",
+      "key": "-LPQq_2Lfef9gb_ej01d"
+    },
+    "key": "-Ll0lNsYHreAsceQhDvV",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561951800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-Ll0lNsYaeC11GJ_k5vL",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564745400000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-Ll0lNsZFa0bTF4nGK1n",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564457400000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. ANDREAS MELKISEDEK",
+      "title": "Pdt.",
+      "name": "Andreas Melkisedek",
+      "key": "-LPQq_2LnyWduleTcxeL"
+    },
+    "key": "-Ll0lNs_2leTVPpslvkr"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564570800000,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ANDREAS MELKISEDEK",
+      "title": "Pdt.",
+      "name": "Andreas Melkisedek",
+      "key": "-LPQq_2LnyWduleTcxeL"
+    },
+    "key": "-Ll0lNsaSsjght_oyGTn",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564488000000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-Ll0lNsbRQwGJjsiOXbI",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564556400000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-Ll0lNsc9iB9RiHOubI5"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564815600000,
+    "place": {
+      "name": "Senayan City lt.6"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Ibadah Pra Nikah",
+    "speaker": {
+      "givenName": "Pdt. DR. DENNY HARSENO, M.A., D.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.A., D.Th.",
+      "name": "Denny Harseno",
+      "key": "-LPQq_2L3s1RXMVjCDWY"
+    },
+    "key": "-Ll0lNsdv-XMtO3LcGWH"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564659000000,
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian Penyembahan",
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata",
+      "key": "-LPQq_2LXodexGPo1gTo"
+    },
+    "key": "-Ll0lNse110tlLQm3aSq"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564747200000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat Kesembuhan Ilahi & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata",
+      "key": "-LPQq_2LXodexGPo1gTo"
+    },
+    "key": "-Ll0lNseN15qS1M2PGg8"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564804800000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata",
+      "key": "-LPQq_2LXodexGPo1gTo"
+    },
+    "key": "-Ll0lNsftZZ49PLuoFAl"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564745400000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-Ll0lNsgpMwKxZ2-wGY_",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564786800000,
+    "place": {
+      "name": "Ged. Graha Kencana Lt. 5",
+      "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1905872,
+        "lng": 106.7648781
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Ibadah Menara Doa",
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-Ll0lNsh88bezdJamhLx"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564801200000,
+    "place": {
+      "name": "Ged. Graha Kencana Lt. 5",
+      "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1905872,
+        "lng": 106.7648781
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Seminar Biblical Finance & Investment (with Finance & Banking Expert)",
+    "speaker": {
+      "givenName": "Ev. DR. CHANDRA WIJAYA",
+      "title": "Ev.",
+      "prefix": "DR.",
+      "name": "Chandra Wijaya",
+      "key": "-LPQq_2Lh-Aduj1DKwGB"
+    },
+    "key": "-Ll0lNsibDOFDLNVzR3U"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564545600000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-Ll0lNsjkiEP3YRUHxvd"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564747200000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Doa Malam",
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-Ll0lNskoBEbY2WALizR"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564804800000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-Ll0lNskuq21TR0MauG5"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564549200000,
+    "place": {
+      "name": "Ged. Graha Kencana Lt. 5",
+      "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1905872,
+        "lng": 106.7648781
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Riko Sastrawan",
+      "key": "-LPQq_2LBIW1hBAdONCR"
+    },
+    "key": "-Ll0lNspjIoe-oCOXl8b",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564747200000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Riko Sastrawan",
+      "key": "-LPQq_2LBIW1hBAdONCR"
+    },
+    "key": "-Ll0lNsqSAGpzzOJJRXl",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564556400000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Doa Syafaat, Konseling & Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-Ll0lNsrbAPVp87aaY08"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564642800000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-Ll0lNssVOxf9QnyFfpX"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564718400000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-Ll0lNstmD9iuI80aUB6",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564804800000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-Ll0lNstG438rBEfeW51"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564574400000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-Ll0lNsuTTCiedfQ1u32",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564624800000,
+    "place": {
+      "name": "Bioskop 21 Lt.2 \"Theatre 1\" Supermall Karawaci",
+      "address": "Supermal Karawaci",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.226962100000001,
+        "lng": 106.6070653
+      },
+      "key": "-LPQobVRKnAMXiJmMNen"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-Ll0lNsv0lQb59HpW3D8"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-Ll0lNswffs5-nnw5TeN"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564745400000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. VERNINETO SITANGGANG",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Vernineto Sitanggang",
+      "key": "-LPQq_2MSO8KjO3aSA5F"
+    },
+    "key": "-Ll0lNsx-W31DWbvFH0x",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564632000000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. JOHN ADHIGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "John Adhiguna",
+      "key": "-LPQq_2MqYxseJ67Jd7v"
+    },
+    "key": "-Ll0lNsyGEg4ksZjFDWD"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Gedung Gereja Tiberias Palangkaraya",
+      "address": "Jl. Yos Sudarso VI, Palangka Raya",
+      "city": "Palangkaraya",
+      "location": {
+        "lat": -2.222716,
+        "lng": 113.891876
+      },
+      "key": "-LPQobV_pod4d6TZF3l2"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Unggun Panjaitan",
+      "key": "-LPQq_2MMLpSorDBZPVu"
+    },
+    "key": "-Ll0lNszmBfaIgjCDbwc"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564747200000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Drs. KRISTIANTO IBRAHIM, M.A.",
+      "title": "Pdt.",
+      "prefix": "Drs.",
+      "suffix": "M.A.",
+      "name": "Kristianto Ibrahim",
+      "key": "-LPQq_2MQUdvWOBKhr-M"
+    },
+    "key": "-Ll0lNt-sSK8vEgt14a2",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564790400000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian Penyembahan",
+    "speaker": {
+      "givenName": "Pdt. Drs. KRISTIANTO IBRAHIM, M.A.",
+      "title": "Pdt.",
+      "prefix": "Drs.",
+      "suffix": "M.A.",
+      "name": "Kristianto Ibrahim",
+      "key": "-LPQq_2MQUdvWOBKhr-M"
+    },
+    "key": "-Ll0lNt0YAm9uSjCe3ac"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Pajus Padang Bulan Medan",
+      "address": "Jl. Jamin Ginting No.378 Padang Bulan, Medan Baru, Kota Medan",
+      "city": "Medan",
+      "key": "-LPQobV_RMLQmf8PRNer"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. JANUAR SUKAMTO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Januar Sukamto",
+      "key": "-LPQq_2Meomp4ERaiMD0"
+    },
+    "key": "-Ll0lNt1f4KwUrquh3En"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564572600000,
+    "place": {
+      "name": "Tiberias Graha SA Lt. 7",
+      "address": "Graha S. A, Jl. Raya Gubeng No.19 - 21, Gubeng",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.270285,
+        "lng": 112.751222
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M.Th.",
+      "name": "Adry Juvento",
+      "key": "-LPQq_2MChm3UnzEmAhW"
+    },
+    "key": "-Ll0lNt2WYBplq2BMBaY",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Tunjungan Plaza Lt. 6",
+      "address": "Jl. Embong Malang No. 7-21, Unit PW-06 & PW-07",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.263697,
+        "lng": 112.740764
+      },
+      "key": "-LPQobV_yKd2ZXjZjZP0"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. ADRY JUVENTO, S.E., M.Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M.Th.",
+      "name": "Adry Juvento",
+      "key": "-LPQq_2MChm3UnzEmAhW"
+    },
+    "key": "-Ll0lNt2gAd7g6TRn7IV"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju",
+      "key": "-LPQq_2NTcRQA-JPREjQ"
+    },
+    "key": "-Ll0lNt3YWwA9sp2UxK9"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564743600000,
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. JAMES BAWARE, M.Div.",
+      "title": "Pdt.",
+      "suffix": "M.Div.",
+      "name": "James Baware",
+      "key": "-LPQq_2NV0xhmZVCwLDQ"
+    },
+    "key": "-Ll0lNt4-SI_xUhR9lYS"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564488000000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. FRANS MANUSAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Frans Manusama",
+      "key": "-LPQq_2NLgQitMlfooo3"
+    },
+    "key": "-Ll0lNt5VqeWdllt3_lg",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564549200000,
+    "place": {
+      "name": "Wisma Dharmala Sakti (Intiland Tower) Podium Lt. 3",
+      "address": "(Parkir Mobil Langsung ke Lt. P 5) Jl. Jend. Sudirman Kav. 32 Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2141399,
+        "lng": 106.8175789
+      },
+      "key": "-LPQobV7-B57IhTLmqFx"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. FRANS MANUSAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Frans Manusama",
+      "key": "-LPQq_2NLgQitMlfooo3"
+    },
+    "key": "-Ll0lNt6I39LfRYnsXgP",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Imbo Residence No. 2",
+      "address": "Jl . Imam Bonjol Desa Pemecutan Kelod, Denpasar Barat - Bali",
+      "key": "-LPQobUDJy7QSAz9jFyM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. FRANS MANUSAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Frans Manusama",
+      "key": "-LPQq_2NLgQitMlfooo3"
+    },
+    "key": "-Ll0lNt63UBmoFtqrX_E"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564745400000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-Ll0lNt888W-9mN1tUgi",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564646400000,
+    "place": {
+      "name": "Ged. Graha Kencana Lt. 5",
+      "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1905872,
+        "lng": 106.7648781
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. SURYA RAPALI, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Surya Rapali",
+      "key": "-LPQq_2N3zHehXTcTSvL"
+    },
+    "key": "-Ll0lNt8nVz6mmXZfE9R"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564745400000,
+    "place": {
+      "name": "Supermall Pakuwon Indah (SPI)",
+      "address": "SPI Lantai 1 Blok TT - 27, 28&29",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.287734,
+        "lng": 112.675963
+      },
+      "key": "-LPQobV_0xrT6E08B8KU"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Ibadah Doa Syafaat",
+    "speaker": {
+      "givenName": "Pdt. SURYA RAPALI, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Surya Rapali",
+      "key": "-LPQq_2N3zHehXTcTSvL"
+    },
+    "key": "-Ll0lNt9I4vlene4a6Hv"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564833600000,
+    "place": {
+      "name": "Tiberias Graha SA Lt. 7",
+      "address": "Graha S. A, Jl. Raya Gubeng No.19 - 21, Gubeng",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.270285,
+        "lng": 112.751222
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SURYA RAPALI, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Surya Rapali",
+      "key": "-LPQq_2N3zHehXTcTSvL"
+    },
+    "key": "-Ll0lNtAXsrcOXSu6p8c",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564572600000,
+    "place": {
+      "name": "Ged. Menteng Prada Lt. 4",
+      "address": "Jl. Pegangsaan Timur 15 A (Seberang Stasiun KA Cikini), Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.198441600000001,
+        "lng": 106.8421178
+      },
+      "key": "-LPQobUq-2IfvhRnbiIy"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-Ll0lNtB3HRFNCg7W-TF",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564660800000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Penyembahan",
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-Ll0lNtCXF_telCXAHoL"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564660800000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pembinaan Iman",
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "key": "-Ll0lNtCQUCXCD-_LQQm"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Metro International Sport Club Lt. 1",
+      "address": "alan M.T. Haryono (Samping Java Mall)",
+      "city": "Semarang",
+      "location": {
+        "lat": -6.981384,
+        "lng": 110.431398
+      },
+      "key": "-LPQobV_WknXOctev1CP"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo",
+      "key": "-LPQq_2N_5ux-F_UfHoT"
+    },
+    "key": "-Ll0lNtDnTA0jnBjrwAx"
+  },
+  {
+    "date": 1564333200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564398000000,
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-Ll0lNtI7AjGn7KsnLhZ",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564484400000,
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-Ll0lNtI0ZETt6J1ueS1"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564628400000,
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-Ll0lNtJPV9vZA_ssnZv"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564488000000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LPQq_2NZwptD9qKUdfg"
+    },
+    "key": "-Ll0lNtJ9b31cTEbkwJL",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564743600000,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-Ll0lNtKRGjMi70T3uu2",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-Ll0lNtLPPSPQZ8Xkgv-"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-Ll0lNtLK8JBxYIOiQr8"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564484400000,
+    "place": {
+      "name": "Graha Tiberias",
+      "address": "Jl. Veteran DL II No. 17",
+      "city": "Banjarmasin",
+      "location": {
+        "lat": -3.321081,
+        "lng": 114.601302
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. STEVEN TUMBEL",
+      "title": "Pdt.",
+      "name": "Steven Tumbel",
+      "key": "-LPQq_2Os3cGlQWZeMHZ"
+    },
+    "key": "-Ll0lNtNpwK_r9xRQQy_"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564570800000,
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. STEVEN TUMBEL",
+      "title": "Pdt.",
+      "name": "Steven Tumbel",
+      "key": "-LPQq_2Os3cGlQWZeMHZ"
+    },
+    "key": "-Ll0lNtNMA0ivhwM0hM6"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564657200000,
+    "place": {
+      "name": "Graha Tiberias",
+      "address": "Jl. Veteran DL II No. 17",
+      "city": "Banjarmasin",
+      "location": {
+        "lat": -3.321081,
+        "lng": 114.601302
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. STEVEN TUMBEL",
+      "title": "Pdt.",
+      "name": "Steven Tumbel",
+      "key": "-LPQq_2Os3cGlQWZeMHZ"
+    },
+    "key": "-Ll0lNtOCpUhVU5fRzBC"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564570800000,
+    "place": {
+      "name": "Langowan, American Hall",
+      "city": "Manado",
+      "key": "-LPQobV_0V7PQAcuxqf5"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Ev. BILLY MASIHOR",
+      "title": "Ev.",
+      "name": "Billy Masihor",
+      "key": "-LPQq_2OhOm9ZopeIBjJ"
+    },
+    "key": "-Ll0lNtPRj8r3Pxwc3i9"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564743600000,
+    "place": {
+      "name": "Kotamobagu, Hotel Tamasya Garden",
+      "address": "Jalan Soetoyo No. 46",
+      "city": "Manado",
+      "location": {
+        "lat": 0.735154,
+        "lng": 124.307797
+      },
+      "key": "-LPQobV_sbNI8Pixfz63"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Ev. BILLY MASIHOR",
+      "title": "Ev.",
+      "name": "Billy Masihor",
+      "key": "-LPQq_2OhOm9ZopeIBjJ"
+    },
+    "key": "-Ll0lNtQAw0riBDpEJxX"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564830000000,
+    "place": {
+      "name": "Graha Tiberias",
+      "address": "Jl. Veteran DL II No. 17",
+      "city": "Banjarmasin",
+      "location": {
+        "lat": -3.321081,
+        "lng": 114.601302
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. BILLY MASIHOR",
+      "title": "Ev.",
+      "name": "Billy Masihor",
+      "key": "-LPQq_2OhOm9ZopeIBjJ"
+    },
+    "key": "-Ll0lNtQbD0lA5O69g25"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564743600000,
+    "place": {
+      "name": "Ratahan, Rest. New Green Garden",
+      "address": "Nataan, Ratahan, Nataan, Minahasa Tenggara, Kabupaten Minahasa Tenggara, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.068665,
+        "lng": 124.812092
+      },
+      "key": "-LPQobV_gmTVNQmXvIbC"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdm. HERRY LOINDONG",
+      "title": "Pdm.",
+      "name": "Herry Loindong",
+      "key": "-LPQq_2OnAg9Wd9qIEKf"
+    },
+    "key": "-Ll0lNtS6W8SEU8uQm-G"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564830000000,
+    "place": {
+      "name": "Kema, Gedung UD. Immanuel",
+      "address": "Jl. Efraim No. 38",
+      "key": "-LPQobVX477sK7eh6MdT"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. RUDOLF WANGANIA",
+      "title": "Ev.",
+      "name": "Rudolf Wangania",
+      "key": "-LPQq_2O2IUL-_xzWY2d"
+    },
+    "key": "-Ll0lNtSjWwQcxjMAhJN",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564484400000,
+    "place": {
+      "name": "Airmadidi, Jen",
+      "address": "Jl. Arnold Mononutu",
+      "city": "Manado",
+      "key": "-LPQobV_Aiskx_6LkFsM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
+      "title": "Pdt.",
+      "suffix": "S.Th., M.A.",
+      "name": "Yeremia",
+      "key": "-LPQq_2PG3T1LiW44cSD"
+    },
+    "key": "-Ll0lNtTDNW06Lkvs5Vw"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564657200000,
+    "place": {
+      "name": "Hotel Sutanraja Amurang",
+      "address": "Jl. Raya Trans Sulawesi, Amurang Timur",
+      "city": "Manado",
+      "key": "-LPQobV_sq9nmkrBw5e3"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
+      "title": "Pdt.",
+      "suffix": "S.Th., M.A.",
+      "name": "Yeremia",
+      "key": "-LPQq_2PG3T1LiW44cSD"
+    },
+    "key": "-Ll0lNtUoPsLdpVCKoow"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564570800000,
+    "place": {
+      "name": "Tomohon, Gedung Garuda Showroom",
+      "address": "Jl. Raya Tomohon, Kec. Walian",
+      "city": "Manado",
+      "location": {
+        "lat": 1.3274584,
+        "lng": 124.8387052
+      },
+      "key": "-LPQobV_UygLb3oenr3G"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdm. FERRY NGANTUNG, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Ferry Ngantung",
+      "key": "-LPQq_2Okod7dcZfvTYF"
+    },
+    "key": "-Ll0lNtUIonqgxrDp3tW"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564572600000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-Ll0lNtVRWXVvpf6TGE-",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564660800000,
+    "place": {
+      "name": "Ged. Graha Kencana Lt. 5",
+      "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1905872,
+        "lng": 106.7648781
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-Ll0lNtWhYFnlCQzomah",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564743600000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-Ll0lNtWbat0IDXt__4f",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564486200000,
+    "place": {
+      "name": "Ballroom Hotel Sarison Lt. 2",
+      "address": "Jl. Perintis Kemerdekaan KM.13 No.78, Kapasa",
+      "key": "-LPQobVTPT1_gWNR0hsp"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. REVKIE H. ANDILOLO, S.T., M.M.",
+      "title": "Pdt.",
+      "suffix": "S.T., M.M.",
+      "name": "Revkie H. Andilolo",
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
+    },
+    "key": "-Ll0lNtXwBH2TksGYGgJ"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564572600000,
+    "place": {
+      "name": "Graha Tiberias",
+      "address": "Jl. Veteran DL II No. 17",
+      "city": "Banjarmasin",
+      "location": {
+        "lat": -3.321081,
+        "lng": 114.601302
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. REVKIE H. ANDILOLO, S.T., M.M.",
+      "title": "Pdt.",
+      "suffix": "S.T., M.M.",
+      "name": "Revkie H. Andilolo",
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
+    },
+    "key": "-Ll0lNtYV3VZSxPDj7wd"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564707600000,
+    "place": {
+      "name": "Hotel Pantan Toraja"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Baptisan Selam & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. REVKIE H. ANDILOLO, S.T., M.M.",
+      "title": "Pdt.",
+      "suffix": "S.T., M.M.",
+      "name": "Revkie H. Andilolo",
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
+    },
+    "key": "-Ll0lNtYUTSmgyQPygao"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564740000000,
+    "place": {
+      "name": "Gedung Tammuan Mali Toraja"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Mujizat & Penyerahan Anak",
+    "speaker": {
+      "givenName": "Pdt. REVKIE H. ANDILOLO, S.T., M.M.",
+      "title": "Pdt.",
+      "suffix": "S.T., M.M.",
+      "name": "Revkie H. Andilolo",
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
+    },
+    "key": "-Ll0lNtZZUEOCnDK54Y_"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564745400000,
+    "place": {
+      "name": "Graha Tiberias",
+      "address": "Jl. Veteran DL II No. 17",
+      "city": "Banjarmasin",
+      "location": {
+        "lat": -3.321081,
+        "lng": 114.601302
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REVKIE H. ANDILOLO, S.T., M.M.",
+      "title": "Pdt.",
+      "suffix": "S.T., M.M.",
+      "name": "Revkie H. Andilolo",
+      "key": "-LPQq_2PI3BPVvgs6Ib5"
+    },
+    "key": "-Ll0lNtZ_px42tgtysox",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Graha Tiberias",
+      "address": "Jl. Veteran DL II No. 17",
+      "city": "Banjarmasin",
+      "location": {
+        "lat": -3.321081,
+        "lng": 114.601302
+      },
+      "key": "-LPQobU_ug_27pkzDcdm"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. LUCKY WALO, S.H., Mkn.",
+      "title": "Pdt.",
+      "suffix": "S.H., Mkn.",
+      "name": "Lucky Walo",
+      "key": "-LPQq_2PjtqUBwFpjOQz"
+    },
+    "key": "-Ll0lNt_0KyXe0gnvbWR"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561946400000,
+    "place": {
+      "name": "Raffles City Convention Center Lt. 4",
+      "address": "2 Stamford Road Singapore 178882 (di atas City Hall MRT)",
+      "city": "Raffles City",
+      "location": {
+        "lat": 1.29395,
+        "lng": 103.853349
+      },
+      "key": "-LPQobVo7LZMk5MrveKR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALBERT KEREH, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Albert Kereh",
+      "key": "-LPQq_2PJ_CXSbteQTiG"
+    },
+    "key": "-Ll0lNt_JEpH60RlSNUs",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1561914000000,
+    "event": "Ibadah Hari Minggu  04 Agustus 2019",
+    "time": 1561953600000,
+    "place": {
+      "name": "Raffles City Convention Center Lt. 4",
+      "address": "2 Stamford Road Singapore 178882 (di atas City Hall MRT)",
+      "city": "Raffles City",
+      "location": {
+        "lat": 1.29395,
+        "lng": 103.853349
+      },
+      "key": "-LPQobVo7LZMk5MrveKR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALBERT KEREH, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Albert Kereh",
+      "key": "-LPQq_2PJ_CXSbteQTiG"
+    },
+    "key": "-Ll0lNtad5APvnvzBnTO",
+    "category": "Ibadah Hari Minggu  04 Agustus 2019"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Ged. Graha Kencana Lt. 5",
+      "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1905872,
+        "lng": 106.7648781
+      },
+      "key": "-LPQobUtNtied3PgAVeU"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-Ll0lNtb3ioB4hziSAAJ"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna",
+      "key": "-LPQq_2Pp8ZXrG6eJ9CF"
+    },
+    "key": "-Ll0lNtb8Gahx_szAgrK"
+  },
+  {
+    "date": 1564678800000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564747200000,
+    "place": {
+      "name": "Metro International Sport Club Lt. 1",
+      "address": "alan M.T. Haryono (Samping Java Mall)",
+      "city": "Semarang",
+      "location": {
+        "lat": -6.981384,
+        "lng": 110.431398
+      },
+      "key": "-LPQobV_WknXOctev1CP"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdm. DR. ELIA EDISON SIMARMATA",
+      "title": "Pdm.",
+      "prefix": "DR.",
+      "name": "Elia Edison Simarmata",
+      "key": "-LPQq_2Pypnillwm9U5h"
+    },
+    "key": "-Ll0lNtcnN_1Ec9p1PZj"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564659000000,
+    "place": {
+      "name": "Braga City Walk Lt. 2",
+      "address": "Jl. Braga No.99-101, Braga, Sumur Bandung",
+      "city": "Bandung",
+      "location": {
+        "lat": -6.916704,
+        "lng": 107.608935
+      },
+      "key": "-LPQobUYD1-X1x3nk4NC"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. AGUS SETIONO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Agus Setiono",
+      "key": "-LPQq_2PdBCS-ZOvuIHH"
+    },
+    "key": "-Ll0lNtcIWNFDyW1Cjh1"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Braga City Walk Lt. 2",
+      "address": "Jl. Braga No.99-101, Braga, Sumur Bandung",
+      "city": "Bandung",
+      "location": {
+        "lat": -6.916704,
+        "lng": 107.608935
+      },
+      "key": "-LPQobUYD1-X1x3nk4NC"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. MARKUS TAN, S.E., S.Th.",
+      "title": "Ev.",
+      "suffix": "S.E., S.Th.",
+      "name": "Markus Tan",
+      "key": "-LPQq_2PQUUIDzfPVFsS"
+    },
+    "key": "-Ll0lNtdW4SNMbwpivRp"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564488000000,
+    "place": {
+      "name": "Tiberias Graha SA Lt. 7",
+      "address": "Graha S. A, Jl. Raya Gubeng No.19 - 21, Gubeng",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.270285,
+        "lng": 112.751222
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian & Penyembahan",
+    "speaker": {
+      "givenName": "Pdm. PAULUS PURTOMO",
+      "title": "Pdm.",
+      "name": "Paulus Purtomo",
+      "key": "-LPQq_2QPetyr77R_MHo"
+    },
+    "key": "-Ll0lNtehraoqaA1gf8J"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564628400000,
+    "place": {
+      "name": "Tiberias Graha SA Lt. 7",
+      "address": "Graha S. A, Jl. Raya Gubeng No.19 - 21, Gubeng",
+      "city": "Surabaya",
+      "location": {
+        "lat": -7.270285,
+        "lng": 112.751222
+      },
+      "key": "-LPQobV_Dg5BzFW01l8p"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Pelepasan",
+    "speaker": {
+      "givenName": "Pdm. PAULUS PURTOMO",
+      "title": "Pdm.",
+      "name": "Paulus Purtomo",
+      "key": "-LPQq_2QPetyr77R_MHo"
+    },
+    "key": "-Ll0lNteS5OXGDx-6LhI"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564822800000,
+    "place": {
+      "name": "Gedung Tiberias Imperium",
+      "address": "Superblok Imprium Blok A/01 (Depan Mapoltabes Barelang)",
+      "city": "Batam",
+      "location": {
+        "lat": 1.117698,
+        "lng": 104.022952
+      },
+      "key": "-LPQobUcmjBPnrqUAY8M"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdm. RINDRA PK, M. Div.",
+      "title": "Pdm.",
+      "suffix": "M. Div.",
+      "name": "Rindra Pk",
+      "key": "-LPQq_2QRyG6Xg_Fmrbg"
+    },
+    "key": "-Ll0lNtfGBBhNVB-BEAH"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S",
+      "key": "-LPQq_2QTUWUB79lRq_g"
+    },
+    "key": "-Ll0lNtfWe2dHZ-bdkeB"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Samuel Panjaitan",
+      "key": "-LPQq_2QjVKzOzz4_0TJ"
+    },
+    "key": "-Ll0lNtg8gaMDxYF-dz2"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. DANIEL WENDY, S.S., M.Th.",
+      "title": "Pdm.",
+      "suffix": "S.S., M.Th.",
+      "name": "Daniel Wendy",
+      "key": "-LPQq_2Qgiw1ZisuAc-z"
+    },
+    "key": "-Ll0lNtg54ueSMjHYH-W"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564470000000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Reinold Wattimena",
+      "key": "-LPQq_2QUvMs31gLSHgI"
+    },
+    "key": "-Ll0lNthJjj-P_0fnFWi"
+  },
+  {
+    "date": 1564419600000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564477200000,
+    "place": {
+      "name": "Tiberias Toraja Aspol",
+      "key": "-LPQobVTaQ53WFPe2gv_"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Ibadah KKR Doa Syafaat",
+    "speaker": {
+      "givenName": "Ev. PAULUS FAHRUL ROJI, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Paulus Fahrul Roji",
+      "key": "-LPQq_2Qqb-MuBEGla9R"
+    },
+    "key": "-Ll0lNtiaA8TqPlLPjiQ"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564822800000,
+    "place": {
+      "name": "Tiberias Toraja Aspol",
+      "key": "-LPQobVTaQ53WFPe2gv_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. PAULUS FAHRUL ROJI, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Paulus Fahrul Roji",
+      "key": "-LPQq_2Qqb-MuBEGla9R"
+    },
+    "key": "-Ll0lNtiGuBwBirxs0Wj",
+    "category": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019"
+  },
+  {
+    "date": 1564506000000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564574400000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian Penyembahan",
+    "speaker": {
+      "givenName": "Ev. GUNAWAN CHANDRA, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Gunawan Chandra",
+      "key": "-LPQq_2QIgMDKPSUKaEX"
+    },
+    "key": "-Ll0lNtjomFJFdjiRkka"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564797600000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian, Penyembahan & Doa",
+    "speaker": {
+      "givenName": "Ev. GUNAWAN CHANDRA, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Gunawan Chandra",
+      "key": "-LPQq_2QIgMDKPSUKaEX"
+    },
+    "key": "-Ll0lNtkTQGn9--1l5ur"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVQtI5m7FNC4Y_x"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. GUNAWAN CHANDRA, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Gunawan Chandra",
+      "key": "-LPQq_2QIgMDKPSUKaEX"
+    },
+    "key": "-Ll0lNtk9i0lRjndSF_c"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564830000000,
+    "place": {
+      "name": "Tiberias Pontianak",
+      "address": "Jl. Wolter Monginsidi No. 44 - Pontianak",
+      "city": "Pontianak",
+      "location": {
+        "lat": -0.028689,
+        "lng": 109.337557
+      },
+      "key": "-LPQobV_r7FLZGM372mW"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. GUNAWAN CHANDRA, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Gunawan Chandra",
+      "key": "-LPQq_2QIgMDKPSUKaEX"
+    },
+    "key": "-Ll0lNtl9UJRmrhzYu7E"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. REZA ALEXIA FAAH",
+      "title": "Pdm.",
+      "name": "Reza Alexia Faah",
+      "key": "-LPQq_2Q7OnuP8BV6KIk"
+    },
+    "key": "-Ll0lNtmh42AygAyhCpJ"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Senayan City lt.6"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. PRADIPTA CHRISTIAN, B.Comm",
+      "title": "Pdm.",
+      "suffix": "B.Comm.",
+      "name": "Pradipta Christian B.comm",
+      "key": "-LPQq_2QV8AIURkIZIHY"
+    },
+    "key": "-Ll0lNtnHT0flReOhUSq"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. SAMUEL RICKY SITUMORANG, S.Th",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Samuel Ricky Situmorang S.th",
+      "key": "-LPQq_2QJNh8jOBBxWam"
+    },
+    "key": "-Ll0lNtnVwgaFw-ERxgG"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564830000000,
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. MELKI MATINDAS",
+      "title": "Ev.",
+      "name": "Melki Matindas",
+      "key": "-LPQq_2RBU5eluCVa17q"
+    },
+    "key": "-Ll0lNtotxtwK3NjdwHs"
+  },
+  {
+    "date": 1564592400000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564657200000,
+    "place": {
+      "name": "Gedung Tiberias Imperium",
+      "address": "Superblok Imprium Blok A/01 (Depan Mapoltabes Barelang)",
+      "city": "Batam",
+      "location": {
+        "lat": 1.117698,
+        "lng": 104.022952
+      },
+      "key": "-LPQobUcmjBPnrqUAY8M"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. YEREMIA, S.Th., M.A.",
+      "title": "Pdt.",
+      "suffix": "S.Th., M.A.",
+      "name": "Yeremia",
+      "key": "-LPQq_2PG3T1LiW44cSD"
+    },
+    "key": "-Ll0lNtokh4oQ_up8iJ0"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564831800000,
+    "place": {
+      "name": "Gedung Tiberias Imperium",
+      "address": "Superblok Imprium Blok A/01 (Depan Mapoltabes Barelang)",
+      "city": "Batam",
+      "location": {
+        "lat": 1.117698,
+        "lng": 104.022952
+      },
+      "key": "-LPQobUcmjBPnrqUAY8M"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Pdm. STEVRY WUWUNG, S.Th",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Stevry Wuwung S.th",
+      "key": "-LPQq_2RVh0wXjHxmkXb"
+    },
+    "key": "-Ll0lNtpi5_lhI5IXvJJ"
+  },
+  {
+    "date": 1564765200000,
+    "event": "Ibadah Tengah Minggu  29 Juli 2019 - 03 Agustus 2019",
+    "time": 1564826400000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kaum Muda BOANERGES",
+    "speaker": {
+      "givenName": "Ev. DAUD SURJAWIDJAJA, S. Kom",
+      "title": "Ev.",
+      "suffix": "S. Kom.",
+      "name": "Daud Surjawidjaja S. Kom",
+      "key": "-LPQq_2RFrU5fQPH2gSr"
+    },
+    "key": "-Ll0lNtqQ-i0z3oLJyaq"
+  }
+]
