@@ -1,0 +1,2283 @@
+[
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583046000000,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj",
+      "city": "Jakarta"
+    },
+    "key": "-M0sI9f61vqkrvMnpxkA",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583056800000,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian Penyembahan Boanerges Worship",
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj",
+      "city": "Jakarta"
+    },
+    "key": "-M0sI9f6aYloXlLXH3TI"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583066700000,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj",
+      "city": "Jakarta"
+    },
+    "key": "-M0sI9f63FCARbooBGkK",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583028000000,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "key": "-M0sI9f6kJqZppazaupI",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583037000000,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "key": "-M0sI9f6A_CffVJD6NdK",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583049600000,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "key": "-M0sI9f67SbcKK3UXkzd",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583060400000,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "key": "-M0sI9f64RJObzN4kpaf",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582520400000,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat, PA Wanita",
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "key": "-M0sI9f64f-mEPA-f9MU"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. DEDDY SANTOSO, M.Min",
+      "title": "Pdt.",
+      "suffix": "M.Min.",
+      "name": "Deddy Santoso M.min",
+      "key": "-LPQq_2NrgKtHhhKmXT3"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "key": "-M0sI9f6jOx6p3S_I1-Z",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat Kesembuhan Ilahi & Pelepasan Resesi Ekonomi",
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "key": "-M0sI9f6tU5GmaYWi7d8"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582542000000,
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "key": "-M0sI9f6Em968X_E6VTo",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582527600000,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "key": "-M0sI9f6hIKTrK-6YdxV"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "key": "-M0sI9f6iv3cpOWBLf_4",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pembinaan Iman",
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "key": "-M0sI9f6ctIIhQCXxzKV"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582543800000,
+    "speaker": {
+      "givenName": "Pdt. DEDDY SANTOSO, M.Min",
+      "title": "Pdt.",
+      "suffix": "M.Min.",
+      "name": "Deddy Santoso M.min",
+      "key": "-LPQq_2NrgKtHhhKmXT3"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian Penyembahan",
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "key": "-M0sI9f7CICPh8q9Qos2"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "key": "-M0sI9f7fzooJ9aK5lJ6",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583024400000,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "key": "-M0sI9f79wBx8hHlK0yb",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583033400000,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "key": "-M0sI9f732hSM1EuCSeM",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583042400000,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "key": "-M0sI9f7DjGv7SeLFsJ7",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583049600000,
+    "speaker": {
+      "givenName": "Pdt. ANDREAS MELKISEDEK",
+      "title": "Pdt.",
+      "name": "Andreas Melkisedek",
+      "key": "-LPQq_2LnyWduleTcxeL"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "key": "-M0sI9f7LbxqXOPj-TE9",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582995600000,
+    "event": "Ibadah Hari Minggu(01 Maret 2020)",
+    "time": 1583058600000,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "key": "-M0sI9f7Q26q-iYrvVDU",
+    "category": "Ibadah Hari Minggu(01 Maret 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582543800000,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Kesaksian Mujizat, Khotbah & P. Kudus, KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "key": "-M0sI9f7txcYNsQIvP8C"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "key": "-M0sI9f7Baa3VmYH0IEk",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Riko Sastrawan",
+      "key": "-LPQq_2LBIW1hBAdONCR"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "key": "-M0sI9f7DA99vMArigEA",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582543800000,
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "key": "-M0sI9f7V_RIONE9_dbg",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Penyembahan",
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "key": "-M0sI9f7014OOO-RWNiR"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582515000000,
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "key": "-M0sI9f7NMlDOLcMGVwd"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "key": "-M0sI9f7jzSj9aRZfceh",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "key": "-M0sI9f7zqo4ZchWlyIZ",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582527600000,
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Doa Syafaat, Konseling & Pelepasan",
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "key": "-M0sI9f7Y9eXxhj7Vba9"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582545600000,
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat Kesembuhan Ilahi & Pelepasan Resesi Ekonomi",
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "key": "-M0sI9f7lgEGcnC5AjnA"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582543800000,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "key": "-M0sI9f7ENrVq-2xZ8vp",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582516800000,
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "key": "-M0sI9f7XJQ0mBs868ZH"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582527600000,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "key": "-M0sI9f77g2kc5-06S-q"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582542000000,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "key": "-M0sI9f7GPlHO2iPSm0V",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582515000000,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat, PA Wanita",
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "key": "-M0sI9f73Ofla0cEwQkC"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582543800000,
+    "speaker": {
+      "givenName": "Pdt. DR. VERNINETO SITANGGANG",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Vernineto Sitanggang",
+      "key": "-LPQq_2MSO8KjO3aSA5F"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
+    },
+    "key": "-M0sI9f7RD90cea8gI69",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582509600000,
+    "speaker": {
+      "givenName": "Pdt. JOHN ADHIGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "John Adhiguna",
+      "key": "-LPQq_2MqYxseJ67Jd7v"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "place": {
+      "name": "Bioskop 21 Lt.2 \"Theatre 1\" Supermall Karawaci",
+      "address": "Supermal Karawaci",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.226962100000001,
+        "lng": 106.6070653
+      },
+      "key": "-LPQobVRKnAMXiJmMNen"
+    },
+    "key": "-M0sI9f7PxH_VrdNTIzX"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582542000000,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LPQq_2NZwptD9qKUdfg"
+    },
+    "withPerjamuanKudus": true,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
+    },
+    "key": "-M0sI9f7CHO9i-vxZapf",
+    "category": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)"
+  },
+  {
+    "date": 1582477200000,
+    "event": "Ibadah Tengah Minggu(24 Februari 2020 - 29 Februari 2020)",
+    "time": 1582542000000,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "key": "-M0sI9f7IhQfuyGBzZml"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580527800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-M0sI9f7SrOG4rD3bApj",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580527800000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-M0sI9f7vaGsHVZQUIME",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580540400000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-M0sI9f7beigYy8HmHIB",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580554800000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-M0sI9f75j0_Rs4ZrgBH",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580527800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-M0sI9f7cCLlCppsZ27a",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580527800000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-M0sI9f75R9T5TpcT3SO",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580540400000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-M0sI9f7WpR1T98Ly1Qy",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580554800000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-M0sI9f7TZUBnEUcaXmi",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580540400000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-M0sI9f7ppKGkSnE_HAc",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580554800000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-M0sI9f7BrwOcw3BMoky",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580561100000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-M0sI9f7jWZPLGOmH8U4",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582866000000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pendalaman Iman",
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-M0sI9f7oSrtlZkSYmDF"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582889400000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Kesaksian Mujizat, Khotbah & P. Kudus, KKR Kesembuhan & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-M0sI9f886xI-fjb_DNw"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580544000000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-M0sI9f8KA9NS3MEhfuo",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580553000000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-M0sI9f8GWtIo7zmDnML",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582606800000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat, PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-M0sI9f8O0NItGNBI0eC"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582891200000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-M0sI9f8Zf9O9qRnXPDq",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580536800000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-M0sI9f8-OjgE-NCEc57",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580545800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-M0sI9f8wLDABagkRepD",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580538600000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-M0sI9f8-XHBQRbmy9wT",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580553000000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-M0sI9f88fil6Rev6u2M",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582614000000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-M0sI9f8fPx_lqgLZdPm"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580518800000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-M0sI9f88g9Zr0staXnM",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580527800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-M0sI9f8hLbEZOk195r1",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1582736400000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582804800000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat Kesembuhan Ilahi & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-M0sI9f8nOmSxXEVtD7_"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580527800000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-M0sI9f8NoCg_jGI9QPE",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580551200000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian Penyembahan Boanerges Worship",
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-M0sI9f8CeqV2zWRbkjI"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580544000000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ANDREAS MELKISEDEK",
+      "title": "Pdt.",
+      "name": "Andreas Melkisedek",
+      "key": "-LPQq_2LnyWduleTcxeL"
+    },
+    "key": "-M0sI9f8QL_W-eGkuj39",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582632000000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-M0sI9f8zCcxR7s_jnLh",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582891200000,
+    "place": {
+      "name": "Mall of Indonesia Lt. P3-04",
+      "address": "Jl. Boulevard Barat, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.151278999999999,
+        "lng": 106.8923703
+      },
+      "key": "-LPQobV9VlzAMM6UaWL5"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-M0sI9f89lP4uqV-WgXj",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582891200000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GEORGE PRANOTO, S.H., M.Div.",
+      "title": "Pdt.",
+      "suffix": "S.H., M.Div.",
+      "name": "George Pranoto",
+      "key": "-LPQq_2LNDhX_4aPJ9qh"
+    },
+    "key": "-M0sI9f8P3SfcLFIhFE-",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582891200000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Riko Sastrawan",
+      "key": "-LPQq_2LBIW1hBAdONCR"
+    },
+    "key": "-M0sI9f86c3C52cshkrz",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582736400000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582786800000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-M0sI9f8ip9Mru5pHtpv"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582891200000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat Kesembuhan Ilahi & Pelepasan Resesi Ekonomi",
+    "speaker": {
+      "givenName": "Pdt. THEODORES TABARAKA",
+      "title": "Pdt.",
+      "name": "Theodores Tabaraka",
+      "key": "-LPQq_2L21gG48IzEuh7"
+    },
+    "key": "-M0sI9f8xoO16WP61zu8"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582889400000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-M0sI9f8SfO87o7wVfRX",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582889400000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. VERNINETO SITANGGANG",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Vernineto Sitanggang",
+      "key": "-LPQq_2MSO8KjO3aSA5F"
+    },
+    "key": "-M0sI9f8XcD0rea-gI9y",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582736400000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582768800000,
+    "place": {
+      "name": "Bioskop 21 Lt.2 \"Theatre 1\" Supermall Karawaci",
+      "address": "Supermal Karawaci",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.226962100000001,
+        "lng": 106.6070653
+      },
+      "key": "-LPQobVRKnAMXiJmMNen"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. JOHN ADHIGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "John Adhiguna",
+      "key": "-LPQq_2MqYxseJ67Jd7v"
+    },
+    "key": "-M0sI9f8ixpPTb0xtzxe"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582632000000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DEDDY SANTOSO, M.Min",
+      "title": "Pdt.",
+      "suffix": "M.Min.",
+      "name": "Deddy Santoso M.min",
+      "key": "-LPQq_2NrgKtHhhKmXT3"
+    },
+    "key": "-M0sI9f8DKaDrR3JWrjK",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582736400000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582803000000,
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pujian Penyembahan",
+    "speaker": {
+      "givenName": "Pdt. DEDDY SANTOSO, M.Min",
+      "title": "Pdt.",
+      "suffix": "M.Min.",
+      "name": "Deddy Santoso M.min",
+      "key": "-LPQq_2NrgKtHhhKmXT3"
+    },
+    "key": "-M0sI9f82CbGrn9v3Q_c"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582889400000,
+    "place": {
+      "name": "Tiberias Gading Serpong",
+      "address": "Ruko Paramount Dotcom Blue Blok B No. 8, 9, 27, 28 CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.243056699999999,
+        "lng": 106.6298916
+      },
+      "key": "-LPQobVGmSUX_6AFL6iI"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-M0sI9f8gNy2Dj8Mc2u8",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582632000000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-M0sI9f8NAWnQSdHaxlv",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582736400000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582804800000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Penyembahan",
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-M0sI9f8RQjiP9FYSbRb"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582601400000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "category": "PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "key": "-M0sI9f8sSWrX9BVJizv"
+  },
+  {
+    "date": 1582650000000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582700400000,
+    "place": {
+      "name": "Tiberias Kelapa Gading (Boulevard Selatan)",
+      "address": "Jl. Boulevard Raya Blok WE 2/8 A, Jakarta Utara (Samping Nasari)",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161571,
+        "lng": 106.904402
+      },
+      "key": "-LPQobVG_WTp0hdITp64"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Doa Syafaat, Konseling & Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "key": "-M0sI9f8AP1hfEcHjSKH"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582862400000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Konseling & Doa Pelepasan",
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "key": "-M0sI9f8caUWfzTGoJwd"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582628400000,
+    "place": {
+      "name": "Tiberias Manado, Gedung Joang 45",
+      "address": "Jl. Jendral Sudirman, Wenang Utara, Wenang, Kota Manado, Sulawesi Utara",
+      "city": "Manado",
+      "location": {
+        "lat": 1.49029,
+        "lng": 124.839724
+      },
+      "key": "-LPQobVYVtJrLjCC-3FM"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Kesembuhan & Perjamuan Kudus",
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-M0sI9f8QGJ_kOHk9m0F"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582887600000,
+    "place": {
+      "name": "Plaza Jambu Dua Lt. 4, Bogor",
+      "address": "Jl. A. Yani No. 1",
+      "key": "-LPQobVSSroRADu2MA4S"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAMUEL JACK BARBIER, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Samuel Jack Barbier",
+      "key": "-LPQq_2NZwptD9qKUdfg"
+    },
+    "key": "-M0sI9f8ZXrCBMj7A3H0",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1582563600000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582601400000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "category": "KKR Pujian & Mujizat, PA Wanita",
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-M0sI9f8-GooxO9z7wuy"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582887600000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-M0sI9f8fSj4GkvnCX0L",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580522400000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-M0sI9f8hg59h1YukdwP",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1580490000000,
+    "event": "Ibadah Hari Minggu  01 Maret 2020",
+    "time": 1580531400000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-M0sI9f8rr9nZySuSj0G",
+    "category": "Ibadah Hari Minggu  01 Maret 2020"
+  },
+  {
+    "date": 1582736400000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582804800000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Pembinaan Iman",
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "key": "-M0sI9f8ONb0U1oUDmE8"
+  },
+  {
+    "date": 1582822800000,
+    "event": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020",
+    "time": 1582887600000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "key": "-M0sI9f8AnwNqBGs8MMU",
+    "category": "Ibadah Tengah Minggu  24 Februari 2020 - 29 Februari 2020"
+  }
+]

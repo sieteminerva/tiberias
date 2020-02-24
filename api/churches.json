@@ -5,14 +5,24 @@
     "key": "-LPQobUDJy7QSAz9jFyM"
   },
   {
-    "name": "Quest San Hotel",
-    "address": "Jl. Mahendratta No. 93, Denpasar, Padangsambian - Bali",
-    "city": "Bali",
+    "name": "Harris Hotel & Residence Sunset Road Bali Kita (R.Unique Lt.2)",
+    "address": "Jl. Pura Mertasari Sunset Road, Pemogan, South Denpasar, Badung Regency",
+    "key": "-M0sI8YdqIf4dKXfMOKp"
+  },
+  {
+    "name": "SWISS - BELHOTEL RAINFOREST KUTA ( BALLROOM )",
+    "address": "Jl. Sunset Road No.101, Kuta, Kabupaten Badung, Bali 80361.",
+    "key": "-M0sI8YfIVyB9OYG1IIQ"
+  },
+  {
+    "name": "Hotel Horison",
+    "address": "Jl. Pelajar Pejuang 45 No. 21, Buah Batu",
+    "city": "Bandung",
     "location": {
-      "lat": -8.677138,
-      "lng": 115.190248
+      "lat": -6.934139,
+      "lng": 107.624795
     },
-    "key": "-LPQobUTFTc1YB5FM9Ph"
+    "key": "-LPQobUVjoLc0w35w485"
   },
   {
     "name": "Hotel Horison",
@@ -51,6 +61,11 @@
     "key": "-LPQobUaHECa2VLsBnvG"
   },
   {
+    "name": "Grand Ballroom Swiss - Belhotel Harbour Bay",
+    "address": "Jl. Duyung Sei Jodoh, Sungai Jodoh, Kec. Batu Ampar, Kota Batam, Kepulauan Riau",
+    "key": "-M0sI8Yt4rnIq08gk2ep"
+  },
+  {
     "name": "Gedung Tiberias Imperium",
     "address": "Superblok Imprium Blok A/01 (Depan Mapoltabes Barelang)",
     "city": "Batam",
@@ -81,13 +96,29 @@
     "key": "-LPQobUgRa06Yd1m5Pw7"
   },
   {
-    "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+    "name": "Balai Sarbini - Dome Plaza Semanggi",
+    "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+    "key": "-M0sI8Z2-kbROGGrSAqj"
+  },
+  {
+    "name": "Senayan City lt.6",
+    "address": "Jl. Asia Afrika lot 19, Jakarta Selatan",
+    "key": "-M0sI8Z4nPxnUwFfftNh"
+  },
+  {
+    "name": "Marina Ballroom",
+    "address": "Jl. Boulevard Barat Raya no. 1, Kelapa Gading",
+    "key": "-M0sI8Z5bazPkOJ0W623"
+  },
+  {
+    "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
+    "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
     "location": {
-      "lat": -6.227375,
-      "lng": 106.80707
+      "lat": -6.2411,
+      "lng": 106.969505
     },
     "city": "Jakarta",
-    "key": "-LPQobUikBzdUCzYn5nV"
+    "key": "-LPQobVB74WBMgPWgZOa"
   },
   {
     "name": "Gereja Tiberias Kelapa Gading Nias",
@@ -100,6 +131,40 @@
     "key": "-LPQobUja0_mU8O97pMR"
   },
   {
+    "name": "BEST WESTERN PREMIER THE HIVE",
+    "address": "JL. DI PANJAITAN NO. KAV. 3-4 JAKARTA TIMUR",
+    "key": "-M0sI8Z93mY0iVMF7K_R"
+  },
+  {
+    "name": "Tiberias Newton Square",
+    "address": "Newton Square Blok U 19 No. 5-8, Komp Legenda Wisata Cibubur, Nagrak, Bogor",
+    "key": "-M0sI8ZEn_tNUJjyxKxV"
+  },
+  {
+    "name": "Park Hotel Cawang",
+    "address": "Jl. DI Panjaitan Kav. 5, Jakarta Timur",
+    "key": "-M0sI8ZGFN3PNxasQTw9"
+  },
+  {
+    "name": "Stadion Utama Gelora Bung Karno",
+    "address": "Jl. Pintu Satu Senayan, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270",
+    "key": "-M0sI8ZG3z6JN_riEUVr"
+  },
+  {
+    "name": "Ballroom Pandansari, Taman Rekreasi Wiladatika",
+    "address": "Jl. Jambore No.1, Harjamukti, Kota Depok",
+    "key": "-M0sI8ZI0kZBrlgnb_ef"
+  },
+  {
+    "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+    "location": {
+      "lat": -6.227375,
+      "lng": 106.80707
+    },
+    "city": "Jakarta",
+    "key": "-LPQobUikBzdUCzYn5nV"
+  },
+  {
     "name": "Plaza Metro Sunter Lt. 3",
     "address": "Jl. Danau Sunter Utara, Jakarta Utara",
     "city": "Jakarta",
@@ -108,16 +173,6 @@
       "lng": 106.8731003
     },
     "key": "-LPQobUl1WqNfdbyr9Za"
-  },
-  {
-    "name": "Balai Sarbini-Dome Plaza Semanggi",
-    "address": "Jl. Jend. Sudirman Kav. 50, Jakarta Selatan",
-    "location": {
-      "lat": -6.219678,
-      "lng": 106.814514
-    },
-    "city": "Jakarta",
-    "key": "-LPQobUmeQb9MqsagsrE"
   },
   {
     "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
@@ -140,16 +195,6 @@
     "key": "-LPQobUq-2IfvhRnbiIy"
   },
   {
-    "name": "Senayan City Lt. 6",
-    "address": "Jl. Asia Afrika Lot. 19, Jakarta Selatan",
-    "location": {
-      "lat": -6.227198,
-      "lng": 106.797181
-    },
-    "city": "Jakarta",
-    "key": "-LPQobUsA9Wmiap1RJ3k"
-  },
-  {
     "name": "Ged. Graha Kencana Lt. 5",
     "address": "Jl. Raya Perjuangan (sisi tol), Kebon Jeruk, Jakarta Barat",
     "city": "Jakarta",
@@ -168,16 +213,6 @@
       "lng": 106.7889175
     },
     "key": "-LPQobUv6HzEayh1PB6-"
-  },
-  {
-    "name": "Ged. Gading Marina - Ballroom",
-    "address": "Jl. Boulevard Barat Raya No. 1, Kelapa Gading, Jakarta Utara",
-    "location": {
-      "lat": -6.155269,
-      "lng": 106.895349
-    },
-    "city": "Jakarta",
-    "key": "-LPQobUx7Tqw3RgEVZbr"
   },
   {
     "name": "Hotel Ciputra Lt. 6, DIAN BALLROOM",
@@ -284,16 +319,6 @@
       "lng": 106.6536279
     },
     "key": "-LPQobVAqy6aqkuc7I-u"
-  },
-  {
-    "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
-    "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
-    "location": {
-      "lat": -6.2411,
-      "lng": 106.969505
-    },
-    "city": "Jakarta",
-    "key": "-LPQobVB74WBMgPWgZOa"
   },
   {
     "name": "Tiberias Center",
@@ -590,6 +615,46 @@
     "key": "-LPQobU_ug_27pkzDcdm"
   },
   {
+    "name": "RUMAH DOA, TORAJA",
+    "address": "JL. AHMAD YANI NO. 81 RANTEPAO",
+    "key": "-M0sI8ZiKD8_yMSeOE9q"
+  },
+  {
+    "name": "Hotel Heritage Rantepao, Toraja Utara",
+    "address": "Toraja Utara - Sulawesi Selatan",
+    "key": "-M0sI8ZjoeWjfMrwrl7r"
+  },
+  {
+    "name": "Hotel Pantan Toraja",
+    "address": "Jl. Pongtiku no 116-118 Makale Tana Toraja",
+    "key": "-M0sI8Zjk7LDgPCHoeoo"
+  },
+  {
+    "name": "Gedung Tammuan Mali Toraja",
+    "address": "Jl. Ampera Makale Tana Toraja",
+    "key": "-M0sI8ZkIz1AOUi4nKu1"
+  },
+  {
+    "name": "Gedung Balai Manunggal",
+    "address": "Jl. Jend.Sudirman, Makassar",
+    "key": "-M0sI8ZkwAK547HAlvld"
+  },
+  {
+    "name": "Gedung Pemuda Van De Loosdrecht",
+    "address": "Jl.Kartika No.56, Singki; Rantepao Toraja Utara",
+    "key": "-M0sI8ZkFvsobQ4Gh5z7"
+  },
+  {
+    "name": "TORAJA MISILIANA HOTEL",
+    "address": "Jl. Pongtiku No 27, Kesu, Toraja Utara",
+    "key": "-M0sI8ZkSrTf0ofWhiL8"
+  },
+  {
+    "name": "Pantai Akkarena",
+    "address": "Tanjung Bunga, Makassaar",
+    "key": "-M0sI8ZlSmAjR7qe0N9M"
+  },
+  {
     "name": "Hotel Clarion",
     "address": "Jalan Andi Pangeran Pettarani No.3, Mannuruki, Tamalate",
     "city": "Makassar",
@@ -643,6 +708,25 @@
     "name": "Kema, Gedung UD. Immanuel",
     "address": "Jl. Efraim No. 38",
     "key": "-LPQobVX477sK7eh6MdT"
+  },
+  {
+    "name": "Amurang, Rest. New Century",
+    "address": "Jl. Trans Sulawesi, Buyungon",
+    "key": "-M0sI8ZnuMAc1TCAPnrA"
+  },
+  {
+    "name": "Talise Park, Desa Kolongan, Kalawat, Minahasa Utara",
+    "key": "-M0sI8ZnEPKJAxnZOnGG"
+  },
+  {
+    "name": "Stadion Klabat",
+    "address": "Jalan Stadion Klabat Utara, Sario, Ranotana, Kec. Sario, Kota Manado, Sulawesi Utara",
+    "key": "-M0sI8Zn7FUb-_P_9qOS"
+  },
+  {
+    "name": "Ged. Gereja Tiberias Airmadidi",
+    "address": "JL. Sarongsong 2 Lingkungan 3",
+    "key": "-M0sI8ZnEfccPC6oOM0U"
   },
   {
     "name": "Tiberias Manado, Gedung Joang 45",
@@ -734,6 +818,11 @@
     "key": "-LPQobV_gmTVNQmXvIbC"
   },
   {
+    "name": "Tahuna",
+    "address": "Jl. Raramenusa No. 43 Samping Kantor Pos, Tahuna",
+    "key": "-M0sI8ZrKR1lhG-IuHXg"
+  },
+  {
     "name": "Kotamobagu, Hotel Tamasya Garden",
     "address": "Jalan Soetoyo No. 46",
     "city": "Manado",
@@ -752,6 +841,16 @@
       "lng": 124.84793
     },
     "key": "-LPQobV_Xr2t3l8Wutrp"
+  },
+  {
+    "name": "Tribeka Kondominium Deli Medan",
+    "address": "Podomoro City Deli Medan",
+    "key": "-M0sI8Zs7qvCcuIAdtvK"
+  },
+  {
+    "name": "SELECTA CONVENTION HALL",
+    "address": "Jl. Listrik No. 2 Emperial Hall Lt. 3",
+    "key": "-M0sI8Zt4qSUMDeKZIFk"
   },
   {
     "name": "Hermes Palace Hotel Medan",
@@ -786,6 +885,11 @@
     "key": "-LPQobV_pod4d6TZF3l2"
   },
   {
+    "name": "Hotel Kapuas Palace-Hall 1 Lantai Dasar",
+    "address": "Jl. Budi Karya Pontianak",
+    "key": "-M0sI8ZuCNNzNFZ2ZVvR"
+  },
+  {
     "name": "Tiberias Pontianak",
     "address": "Jl. Wolter Monginsidi No. 44 - Pontianak",
     "city": "Pontianak",
@@ -808,6 +912,11 @@
     "key": "-LPQobV_3cOeWUPvSx5C"
   },
   {
+    "name": "MG SETOS SHAMROCK GRND BALLROOM Lt. 18",
+    "address": "Jl. Inspeksi Kembangsari -Semarang",
+    "key": "-M0sI8ZvKDnh7SAEnQY2"
+  },
+  {
     "name": "Metro International Sport Club Lt. 1",
     "address": "alan M.T. Haryono (Samping Java Mall)",
     "city": "Semarang",
@@ -821,6 +930,11 @@
     "name": "PO HOTEL Lt. 7 Mall Paragon",
     "address": "Jl. Pemuda No.118, Sekayu, Semarang Tengah",
     "key": "-LPQobV_BWb3hRva3zhm"
+  },
+  {
+    "name": "Surabaya Convention Center (SCC) Pakuwon Mall",
+    "address": "Surabaya",
+    "key": "-M0sI8ZvcFYYBbmyhzEl"
   },
   {
     "name": "Tunjungan Plaza Lt. 6",
@@ -921,5 +1035,10 @@
       "lng": 103.853349
     },
     "key": "-LPQobVo7LZMk5MrveKR"
+  },
+  {
+    "name": "Novotel Singapore Clarke Quay",
+    "address": "Paprika Room, Level 5, 177A River Valey Road, Singapore",
+    "key": "-M0sI8Zya9_-2Yb6ZYdt"
   }
 ]

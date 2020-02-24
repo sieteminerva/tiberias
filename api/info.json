@@ -1,6 +1,14 @@
 {
   "schedules": {
-    "lastUpdated": 1581622675157,
-    "total": 403
+    "lastUpdated": 1582566255308,
+    "total": 93
+  },
+  "pastors": {
+    "lastUpdated": 1582566255308,
+    "total": 32
+  },
+  "churches": {
+    "lastUpdated": 1582566255308,
+    "total": 127
   }
 }
