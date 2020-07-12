@@ -1,0 +1,3859 @@
+[
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593572400000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Perjamuan Kudus Terlebih Dahulu",
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-MC29Hh08nFzAFSEni2D"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Perjamuan Kudus Terlebih Dahulu",
+    "speaker": {
+      "givenName": "Pdt. DR. YESAYA PARIADJI",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Yesaya Pariadji",
+      "key": "-LPQq_2Klrd6-5XOPvKR"
+    },
+    "key": "-MC29Hh1bQqL0rZYGaYm"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593572400000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Perjamuan Kudus Terlebih Dahulu",
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-MC29Hh476xb6INIO_RT"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Perjamuan Kudus Terlebih Dahulu",
+    "speaker": {
+      "givenName": "Pdt. DARNIATY PARIADJI",
+      "title": "Pdt.",
+      "jobtitle": "Gembala Sidang dan Ketua Sinode",
+      "name": "Darniaty Pariadji",
+      "key": "-LPQq_2RLABbUXfsPtxh"
+    },
+    "key": "-MC29Hh6kGUurq_GDuC0"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-MC29HhAkkKl-npjv5_l",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593586800000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-MC29HhB4B8xAEFIPOWn",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Perjamuan Kudus Terlebih Dahulu",
+    "speaker": {
+      "givenName": "Pdm. ARISTO PARIADJI, M.Si, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Si, M.Th.",
+      "name": "Aristo Pariadji",
+      "key": "-LPQq_2K9IJwgT2UyVkr"
+    },
+    "key": "-MC29HhC9b-Qt4JQDgE5"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593561600000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhEzoxrFakLk_V5",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhFCZER6lnTz0xW",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593570600000,
+    "place": {
+      "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
+      "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
+      "location": {
+        "lat": -6.2411,
+        "lng": 106.969505
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhGOlMh3b0Anqur",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhHPj2dxD8n3Z4-",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhIJu0iU2VLpibI",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593586800000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhKWzoQ7aE9jBoj",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhL_J59rbAZzd3e",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593599400000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhMvSdRCHED42SI",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593603000000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. GIDEON SIMANJUNTAK, S.H., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.H., M.Th.",
+      "name": "Gideon Simanjuntak",
+      "key": "-LPQq_2KTZhHllt1h8Yc"
+    },
+    "key": "-MC29HhNiaiUTOn4cZlC",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593561600000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-MC29HhPay1CSvA8vCtK",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-MC29HhQ0w2t3fzo9XDs",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593572400000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Perjamuan Kudus Terlebih Dahulu",
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-MC29HhUjekesVv_RnEs"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-MC29HhVsgfmp4i-qp0u",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593585000000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-MC29HhVEitfVnvGSHBc",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
+      "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
+      "location": {
+        "lat": -6.2411,
+        "lng": 106.969505
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-MC29HhYy3bKCZQGTzwq",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JEFFREY ADOLF WANNEE, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Jeffrey Adolf Wannee S.th",
+      "key": "-LPQq_2KbM-vEk_ZbHTP"
+    },
+    "key": "-MC29HhZgZCHU0QWG_-4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPgysiWKlHYkwK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-MC29Hh_8moPrtdeS5Ef",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-MC29HhahFP8cekrWQtM",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Tiberias Newton Square",
+      "address": "Newton Square Blok U 19 No. 5-8, Komp Legenda Wisata Cibubur, Nagrak, Bogor",
+      "key": "-M0sI8ZEn_tNUJjyxKxV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-MC29HhaSKGrZJBYz7T2",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593581400000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-MC29HhbT7qW20hlSFSO",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-MC29Hhc4rLiyFzaw-9f",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593603000000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MELVIN B. TUELA, S.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Asisten Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Melvin B. Tuela",
+      "key": "-LPQq_2KMthqX3zsUbAj"
+    },
+    "key": "-MC29HhdFCq-nfx4yNlh",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-MC29Hhf7HueHv6LjuVY",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593570600000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-MC29Hhfka-kYQRVn2IB",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-MC29Hhg56FWUxk4aVdF",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593581400000,
+    "place": {
+      "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
+      "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
+      "location": {
+        "lat": -6.2411,
+        "lng": 106.969505
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-MC29HhhMaV_ZNnCKhdG",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593590400000,
+    "place": {
+      "name": "Park Hotel Cawang",
+      "address": "Jl. DI Panjaitan Kav. 5, Jakarta Timur",
+      "key": "-M0sI8ZGFN3PNxasQTw9"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-MC29HhiGO2X9pDp4RhH",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARKUS MERCIO PATTINAMA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Markus Mercio Pattinama",
+      "key": "-LPQq_2KVsyK0Wv0P9oX"
+    },
+    "key": "-MC29HhkKbv6mVKtlIp8",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
+      "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
+      "location": {
+        "lat": -6.2411,
+        "lng": 106.969505
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-MC29Hhld_CMWg7cCOcr",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593572400000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-MC29HhmcaWu-H4nolza",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593585000000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-MC29HhnWGpqu4s_LVwe",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-MC29HhocU77QG24h48-",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593599400000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-MC29HhpWkIbJi9oQ0HZ",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593608400000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ALEXANDER SIMANJUNTAK, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Alexander Simanjuntak",
+      "key": "-LPQq_2KSZTNWTavZFSz"
+    },
+    "key": "-MC29HhrGdCB3eBKGuq6",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-MC29Hhs4IrgYZq9UFLc",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-MC29Hhs9Xf7UEOGC5zY",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-MC29Hht4HWT9uXBULr-",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593585000000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-MC29Hht9jWj4zLg9hEf",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-MC29HhuAEzfdUUCiYO3",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593599400000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. LUKAS VERDY, B.Bus., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "B.Bus., M.Th.",
+      "name": "Lukas Verdy",
+      "key": "-LPQq_2KLxD0dIeElpVY"
+    },
+    "key": "-MC29Hhu_OWKAK0kQmTJ",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-MC29Hhv00Ef1jHQ0K3L",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593570600000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-MC29HhxsLHYnDZfjmyg",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Marina Ballroom",
+      "address": "Jl. Boulevard Barat Raya no. 1, Kelapa Gading",
+      "key": "-M0sI8Z5bazPkOJ0W623"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-MC29HhyPRU32bzSyInk",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-MC29HhylNioo5Ha_ZK4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593588600000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "category": "Mandarin Service",
+    "speaker": {
+      "givenName": "Pdt. SANDY SISKANDAR, S.Th",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.Th.",
+      "name": "Sandy Siskandar S.th",
+      "key": "-LPQq_2LzfGpjptQerBe"
+    },
+    "key": "-MC29HhzCk_noxh7M1c5"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEDDI LUSLI, M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.M., M.Th.",
+      "name": "Theddi Lusli",
+      "key": "-LPQq_2Lfef9gb_ej01d"
+    },
+    "key": "-MC29HhzSLECmwC-49eD",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Puri Indah Financial Tower Lantai 2",
+      "address": "(seberang Puri Indah Mall) Jl. Puri Lingkar Dalam Blok T8. Jakarta Barat",
+      "location": {
+        "lat": -6.188535,
+        "lng": 106.736554
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEDDI LUSLI, M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.M., M.Th.",
+      "name": "Theddi Lusli",
+      "key": "-LPQq_2Lfef9gb_ej01d"
+    },
+    "key": "-MC29Hi-qDrJtpOVViTZ",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593590400000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. THEDDI LUSLI, M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.M., M.Th.",
+      "name": "Theddi Lusli",
+      "key": "-LPQq_2Lfef9gb_ej01d"
+    },
+    "key": "-MC29Hi0iBEvKvXo9uX4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-MC29Hi1JJQhpk_dC3pe",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Podomoro City - Central Park Gedung Office Tower Lt. 40",
+      "address": "Jl. Letjend S. Parman Kav. 28, Jakarta Barat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1777448,
+        "lng": 106.7910148
+      },
+      "key": "-LPQobUnafi_ncf4x-82"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-MC29Hi1BV2i6mIjOuCe",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Puri Indah Financial Tower Lantai 2",
+      "address": "(seberang Puri Indah Mall) Jl. Puri Lingkar Dalam Blok T8. Jakarta Barat",
+      "location": {
+        "lat": -6.188535,
+        "lng": 106.736554
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. DAVID SUMUAL",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "David Sumual",
+      "key": "-LPQq_2Ld6rNZvnxlUDj"
+    },
+    "key": "-MC29Hi2vad6aWXdkXQJ",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593563400000,
+    "place": {
+      "name": "Marina Ballroom",
+      "address": "Jl. Boulevard Barat Raya no. 1, Kelapa Gading",
+      "key": "-M0sI8Z5bazPkOJ0W623"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-MC29Hi3wQBNaQKsCZPl",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Puri Indah Financial Tower Lantai 2",
+      "address": "(seberang Puri Indah Mall) Jl. Puri Lingkar Dalam Blok T8. Jakarta Barat",
+      "location": {
+        "lat": -6.188535,
+        "lng": 106.736554
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-MC29Hi3dRb0uqWvFZ5P",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Mall Alam Sutera Lt. LG Blok AT/03 Tangerang",
+      "address": "Mall Alam Sutera",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.222168099999999,
+        "lng": 106.6536279
+      },
+      "key": "-LPQobVAqy6aqkuc7I-u"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-MC29Hi4qWJeRWnLEPbq",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593581400000,
+    "place": {
+      "name": "Balai Sarbini - Dome Plaza Semanggi",
+      "address": "Jl. Jend. Sudirman Kav 50, Jakarta Selatan",
+      "key": "-M0sI8Z2-kbROGGrSAqj"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-MC29Hi4unLPebw2oWNs",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Puri Indah Financial Tower Lantai 2",
+      "address": "(seberang Puri Indah Mall) Jl. Puri Lingkar Dalam Blok T8. Jakarta Barat",
+      "location": {
+        "lat": -6.188535,
+        "lng": 106.736554
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV6HrSuu8EPN0i8"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-MC29Hi530uO8su86oKH",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593601200000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARCEL SAERANG, S.E., M.Th.",
+      "title": "Pdt.",
+      "jobtitle": "Staff Gembala Sidang",
+      "suffix": "S.E., M.Th.",
+      "name": "Marcel Saerang",
+      "key": "-LPQq_2L5LhHE43ohnvA"
+    },
+    "key": "-MC29Hi5mUtNUc87WHB3",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata"
+    },
+    "key": "-MC29Hi6xFSklNbbB-u3",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata"
+    },
+    "key": "-MC29Hi6tqsh01XoUsqr",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593585000000,
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. MULYAWAN WIRIANATA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Mulyawan Wirianata"
+    },
+    "key": "-MC29Hi78jUykuJ4_1-s",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-MC29Hi749TGypV6JhTI",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-MC29Hi8PA1n-UewEWdn",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593601200000,
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. Ir. BERNARD WIRADARMA, M.Th.",
+      "title": "Pdt.",
+      "prefix": "Ir.",
+      "suffix": "M.Th.",
+      "name": "Bernard Wiradarma",
+      "key": "-LPQq_2LLpQQMV1DiQsL"
+    },
+    "key": "-MC29Hi8eCr6VjRR8vJv",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait"
+    },
+    "key": "-MC29Hi94zZOlTEsnkLo",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      },
+      "key": "-LPQobV8wCMLTIqL0Co_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait"
+    },
+    "key": "-MC29HiAihBuqI8LnKpN",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait"
+    },
+    "key": "-MC29HiA8fZWnOFtpX8J",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593590400000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait"
+    },
+    "key": "-MC29HiBwfp9iqwUWYIQ",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Raden Saleh 14D",
+      "address": "(Ged. Yayasan Kasih Bersaudara) Jl. Raden Saleh Raya No. 14 D, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.192016,
+        "lng": 106.8413911
+      },
+      "key": "-LPQobVJyMR-tuFHDvFl"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait"
+    },
+    "key": "-MC29HiBj_uyPRkiorRU",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593603000000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVQtI5m7FNC4Y_x"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ELFRIS SIRAIT, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Elfris Sirait"
+    },
+    "key": "-MC29HiCc1qlpAnuxLv_",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Riko Sastrawan",
+      "key": "-LPQq_2LBIW1hBAdONCR"
+    },
+    "key": "-MC29HiClLYkXbnkYcrX",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RIKO SASTRAWAN, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Riko Sastrawan",
+      "key": "-LPQq_2LBIW1hBAdONCR"
+    },
+    "key": "-MC29HiDCz3mPDgI7uby",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-MC29HiEI4HOaogj1mZm",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-MC29HiEldILeyPtBljI",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. SAHALA HUTABARAT",
+      "title": "Pdt.",
+      "name": "Sahala Hutabarat",
+      "key": "-LPQq_2M5g-BqSmwL9m7"
+    },
+    "key": "-MC29HiF7yWZ0N_lmB6h",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Park Hotel Cawang",
+      "address": "Jl. DI Panjaitan Kav. 5, Jakarta Timur",
+      "key": "-M0sI8ZGFN3PNxasQTw9"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Unggun Panjaitan"
+    },
+    "key": "-MC29HiGSto4vn3FINun",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593590400000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. UNGGUN PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Unggun Panjaitan"
+    },
+    "key": "-MC29HiGhITaKtCEl8eO",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Tiberias Bintaro",
+      "address": "Bintaro Jaya Sektor VII Jl. Wahid Hasyim Blok FG 12/35, Depan Bank Niaga, Tangerang",
+      "location": {
+        "lat": -6.272971,
+        "lng": 106.723636
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOfThBZ3ZSA5h1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JANUAR SUKAMTO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Januar Sukamto"
+    },
+    "key": "-MC29HiHF8cYdsbTrl93",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Ged. Hero Citra Garden Lt. 2",
+      "address": "Komp. Citra Garden 2 Kalideres, Jakarta Barat",
+      "location": {
+        "lat": -6.142105,
+        "lng": 106.707676
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV8BIvoBmZBB5-h"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JANUAR SUKAMTO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Januar Sukamto"
+    },
+    "key": "-MC29HiI1k83rBc7QGGx",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JANUAR SUKAMTO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Januar Sukamto"
+    },
+    "key": "-MC29HiIz2O2CSU5iJHC",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. PHILIPS MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Philips Mailangkay"
+    },
+    "key": "-MC29HiJp_sSTTUqH33-",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Park Hotel Cawang",
+      "address": "Jl. DI Panjaitan Kav. 5, Jakarta Timur",
+      "key": "-M0sI8ZGFN3PNxasQTw9"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. PHILIPS MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Philips Mailangkay"
+    },
+    "key": "-MC29HiJXvclL7TdmQJG",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593601200000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. PHILIPS MAILANGKAY, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Philips Mailangkay"
+    },
+    "key": "-MC29HiKI42NFQ7IT-AK",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593588600000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju"
+    },
+    "key": "-MC29HiLTLTf8K3hhapL",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVQtI5m7FNC4Y_x"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. DEAVY TUMUJU, M.Th.",
+      "title": "Ev.",
+      "suffix": "M.Th.",
+      "name": "Deavy Tumuju"
+    },
+    "key": "-MC29HiLEOYAL3Z8Xr7v",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Tiberias Newton Square",
+      "address": "Newton Square Blok U 19 No. 5-8, Komp Legenda Wisata Cibubur, Nagrak, Bogor",
+      "key": "-M0sI8ZEn_tNUJjyxKxV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-MC29HiM3-1bq-NIGxaG",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-MC29HiMdzJcXIRiUlHk",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Grand Duta Merlin Lt. 5, Ballroom",
+      "address": "Jl. Gajah Mada No. 3-5, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.165431,
+        "lng": 106.819668
+      },
+      "key": "-LPQobV5wQ-cWpthea17"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-MC29HiNt-FM1r5j84cX",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-MC29HiNSUGOSdh7mDQG",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593603000000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MOZART PARDEDE, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mozart Pardede",
+      "key": "-LPQq_2NYBPwUJxNpwLQ"
+    },
+    "key": "-MC29HiO46851InBEggh",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593570600000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-MC29HiPsEHo6v7yDt5d",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-MC29HiS9RWtIaR6dZnn",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593603000000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REFORMANDA PASARIBU",
+      "title": "Pdt.",
+      "name": "Reformanda Pasaribu",
+      "key": "-LPQq_2NV0Avz__0au0r"
+    },
+    "key": "-MC29HiTE2emG15F2s0A",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "key": "-MC29HiTcq9XceQLrOVc",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593581400000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "key": "-MC29HiU3AMVThOArB9Y",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Plaza Metro Sunter Lt. 3",
+      "address": "Jl. Danau Sunter Utara, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.137031899999999,
+        "lng": 106.8731003
+      },
+      "key": "-LPQobUl1WqNfdbyr9Za"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. JOHNY WARDI, M.Th.",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "suffix": "M.Th.",
+      "name": "Johny Wardi",
+      "key": "-LPQq_2N9RiAsuFKtccC"
+    },
+    "key": "-MC29HiUMTAOj6AlsoD_",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593590400000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo"
+    },
+    "key": "-MC29HiVyqlaxZHWsovM",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Park Hotel Cawang",
+      "address": "Jl. DI Panjaitan Kav. 5, Jakarta Timur",
+      "key": "-M0sI8ZGFN3PNxasQTw9"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. EKO BUDI UTOMO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Eko Budi Utomo"
+    },
+    "key": "-MC29HiWbgRqUYCdb59V",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Park Hotel Cawang",
+      "address": "Jl. DI Panjaitan Kav. 5, Jakarta Timur",
+      "key": "-M0sI8ZGFN3PNxasQTw9"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-MC29HiWlsMGSdfZZ0S0",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-MC29HiZ7MOsIbRdncSY",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-MC29HiZc4bWZc1JnI09",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-MC29Hi_TBOooCja76Wa",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. JHONS FERNANDO, M.Th.",
+      "title": "Pdt.",
+      "suffix": "M.Th.",
+      "name": "Jhons Fernando",
+      "key": "-LPQq_2NX7yPxsZmMDHQ"
+    },
+    "key": "-MC29HiaknDcdcvMPiDF",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593567000000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-MC29HicspXTbSs_QZn-",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-MC29HidVg-Fr40aIw6m",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593581400000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-MC29HidiGNxI-X9SEKi",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-MC29HidALSnuD3xtgKU",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. MARIO MARCELLO, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Mario Marcello",
+      "key": "-LPQq_2Nu0q9rbm1tIvS"
+    },
+    "key": "-MC29HieOku_Lmr-I3n4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593576000000,
+    "place": {
+      "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
+      "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
+      "location": {
+        "lat": -6.2411,
+        "lng": 106.969505
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-MC29HifMTBlIRivBWmf",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Bekasi Cyber Park Lt.2 (Eks. Hero Plaza)",
+      "address": "Jl. K. H. Noer Ali No. 177, Bekasi",
+      "location": {
+        "lat": -6.24664,
+        "lng": 106.991674
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVDVLxqujG-3mQH"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-MC29Higx9_ugOroOMlz",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-MC29HiggqFytpcOrRR7",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Grand Mal Bekasi",
+      "address": "Jl. Jend. Sudirman (Depan Koramil), Bekasi",
+      "location": {
+        "lat": -6.227849,
+        "lng": 106.983644
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVHsdsrOYy8CeC3"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. BUDIARTO L, S.Kom., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Kom., M.Th.",
+      "name": "Budiarto L",
+      "key": "-LPQq_2O_qUbWZeya1Bm"
+    },
+    "key": "-MC29Hih31oI37d6d7o1",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      },
+      "key": "-LPQobV8wCMLTIqL0Co_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. STEVEN MALUW",
+      "title": "Pdm.",
+      "name": "Steven Maluw"
+    },
+    "key": "-MC29Hih-6IcxdOLpxpp",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593590400000,
+    "place": {
+      "name": "Ruko Boston Square",
+      "address": "Blok RK 1 No. 42, 43, 45, 46 & 47 Kota Wisata, Cibubur",
+      "location": {
+        "lat": -6.352295,
+        "lng": 106.963818
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOB8KFodQ-xT49"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. STEVEN MALUW",
+      "title": "Pdm.",
+      "name": "Steven Maluw"
+    },
+    "key": "-MC29HiipPZBj3j-vA3L",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593604800000,
+    "place": {
+      "name": "Raden Saleh 14D",
+      "address": "(Ged. Yayasan Kasih Bersaudara) Jl. Raden Saleh Raya No. 14 D, Jakarta Pusat",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.192016,
+        "lng": 106.8413911
+      },
+      "key": "-LPQobVJyMR-tuFHDvFl"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. STEVEN MALUW",
+      "title": "Pdm.",
+      "name": "Steven Maluw"
+    },
+    "key": "-MC29HiiIoG4nHOvjSGm",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593561600000,
+    "place": {
+      "name": "Ruko Gallery Niaga Mediterania 2",
+      "address": "Blok L8 R - L8 S Pantai Indah Kapuk, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.116265900000001,
+        "lng": 106.7685261
+      },
+      "key": "-LPQobV8wCMLTIqL0Co_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GERRY TENGKER, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Gerry Tengker"
+    },
+    "key": "-MC29HijE9zJtihv1z7h",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593572400000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GERRY TENGKER, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Gerry Tengker"
+    },
+    "key": "-MC29HijYfnx7GmfjoHA",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GERRY TENGKER, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Gerry Tengker"
+    },
+    "key": "-MC29HikfNO-geKNfJoU",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593606600000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GERRY TENGKER, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Gerry Tengker"
+    },
+    "key": "-MC29HikthRnNW_v4Cwr",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593561600000,
+    "place": {
+      "name": "Park Hotel Cawang",
+      "address": "Jl. DI Panjaitan Kav. 5, Jakarta Timur",
+      "key": "-M0sI8ZGFN3PNxasQTw9"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-MC29Hiln3BgVGxdCdrz",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593570600000,
+    "place": {
+      "name": "Marina Ballroom",
+      "address": "Jl. Boulevard Barat Raya no. 1, Kelapa Gading",
+      "key": "-M0sI8Z5bazPkOJ0W623"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-MC29HilaWdy2JDG377V",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593579600000,
+    "place": {
+      "name": "Gereja Tiberias Kelapa Gading Nias",
+      "address": "Jl. Kelapa Nias Raya Blok HT 60, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.1507954,
+        "lng": 106.903805
+      },
+      "key": "-LPQobUja0_mU8O97pMR"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-MC29HilyOlh7p0F1fza",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593592200000,
+    "place": {
+      "name": "Tiberias SCBD District 8 Prosperity Tower Lt.7",
+      "location": {
+        "lat": -6.227375,
+        "lng": 106.80707
+      },
+      "city": "Jakarta",
+      "key": "-LPQobUikBzdUCzYn5nV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-MC29HimG6qMbssoC8n8",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Tiberias Mega Bekasi Hypermall Lt. 5",
+      "address": "Jl. Jendral Ahmad Yani No. 1 Marga Jaya Bekasi - Jawa Barat",
+      "location": {
+        "lat": -6.2411,
+        "lng": 106.969505
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVB74WBMgPWgZOa"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. JONATHAN LANSING, S.E., M. Th.",
+      "title": "Pdm.",
+      "suffix": "S.E., M. Th.",
+      "name": "Jonathan Lansing",
+      "key": "-LPQq_2P-6czXbtYYSbj"
+    },
+    "key": "-MC29HimaY5WccoYyZa7",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Tiberias Bintaro",
+      "address": "Bintaro Jaya Sektor VII Jl. Wahid Hasyim Blok FG 12/35, Depan Bank Niaga, Tangerang",
+      "location": {
+        "lat": -6.272971,
+        "lng": 106.723636
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOfThBZ3ZSA5h1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna"
+    },
+    "key": "-MC29HinLMKlPnfyEUV4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna"
+    },
+    "key": "-MC29Hine4LqDIiHY_rW",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. ROMMY SATRIA ARYAGUNA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Rommy Satria Aryaguna"
+    },
+    "key": "-MC29HiokQgq5f3P7VD4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Mangga Dua Square Lt. Basement 2",
+      "address": "Jl. Mangga Dua Raya, Jakarta Utara",
+      "location": {
+        "lat": -6.135609,
+        "lng": 106.831035
+      },
+      "city": "Jakarta",
+      "key": "-LPQobV46VvQ5RSrdhsu"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "key": "-MC29HioJYrcH1mI_Tnc",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Dome of Tiberias",
+      "address": "Kondonium Menara Kelapa Gading, Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.168977299999999,
+        "lng": 106.916071
+      },
+      "key": "-LPQobVE4Ic6mmoHofT_"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "key": "-MC29HipEcoVeAxhRj8A",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593599400000,
+    "place": {
+      "name": "Tiberias Center",
+      "address": "Jl. Boulevard Raya Blok PD 1/20-22, Kelapa Gading",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.161424999999999,
+        "lng": 106.9044917
+      },
+      "key": "-LPQobVB1q3FyfYsowdd"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. HENDRI SETIADI, S.E., M.M., M.Th.",
+      "title": "Pdt.",
+      "suffix": "S.E., M.M.,  M.Th.",
+      "name": "Hendri Setiadi S.e., M.m., M.th.",
+      "key": "-LPQq_2Pkrh_-Lzvis92"
+    },
+    "key": "-MC29Hip2jZ1syAGkDw5",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593586800000,
+    "place": {
+      "name": "Tiberias Newton Square",
+      "address": "Newton Square Blok U 19 No. 5-8, Komp Legenda Wisata Cibubur, Nagrak, Bogor",
+      "key": "-M0sI8ZEn_tNUJjyxKxV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. PAUL DENNY KRISTIANTO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Paul Denny Kristianto"
+    },
+    "key": "-MC29HiqXu-rgzbI1D0U",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPgysiWKlHYkwK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. PAUL DENNY KRISTIANTO, S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Th.",
+      "name": "Paul Denny Kristianto"
+    },
+    "key": "-MC29HiqK2fTaioYJ7Jk",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593568800000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. MARKUS TAN, S.E., S.Th.",
+      "title": "Ev.",
+      "suffix": "S.E., S.Th.",
+      "name": "Markus Tan"
+    },
+    "key": "-MC29HiqXxFLBypGKu1G",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593586800000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVQtI5m7FNC4Y_x"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. MARKUS TAN, S.E., S.Th.",
+      "title": "Ev.",
+      "suffix": "S.E., S.Th.",
+      "name": "Markus Tan"
+    },
+    "key": "-MC29Hirmb9LjroBX5Wq",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RINDRA PK, M. Div.",
+      "title": "Pdm.",
+      "suffix": "M. Div.",
+      "name": "Rindra Pk"
+    },
+    "key": "-MC29Hirc2-tOKGDxHhT",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593594000000,
+    "place": {
+      "name": "Tiberias Teraskota Serpong Lt. 2 No. 7",
+      "address": "Jl. Pahlawan Seribu, CBD Lot VIIB Lengkong Gudang BSD City, Serpong Tangerang - 15322",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.295682099999999,
+        "lng": 106.6674544
+      },
+      "key": "-LPQobVESjXfHb5lb6Z-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. RINDRA PK, M. Div.",
+      "title": "Pdm.",
+      "suffix": "M. Div.",
+      "name": "Rindra Pk"
+    },
+    "key": "-MC29His4v4YojZ0_fOd",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVQtI5m7FNC4Y_x"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S"
+    },
+    "key": "-MC29His4S1hYDu_7R0C",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S"
+    },
+    "key": "-MC29HitsHGG6NUkt88e",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593583200000,
+    "place": {
+      "name": "Tiberias Cinere",
+      "address": "Ruko Cinere Blok A No. 8-9, Jl. Cinere Raya",
+      "location": {
+        "lat": -6.323448,
+        "lng": 106.784287
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOyxNNiymc2R9K"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S"
+    },
+    "key": "-MC29HitwbvXy1ajKAsd",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Tiberias Bintaro",
+      "address": "Bintaro Jaya Sektor VII Jl. Wahid Hasyim Blok FG 12/35, Depan Bank Niaga, Tangerang",
+      "location": {
+        "lat": -6.272971,
+        "lng": 106.723636
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVOfThBZ3ZSA5h1"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Ev. ANDI WIRAWAN S, S.Th.",
+      "title": "Ev.",
+      "suffix": "S.Th.",
+      "name": "Andi Wirawan S"
+    },
+    "key": "-MC29HitDPQIuS9mQ2ol",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Ruko Roxy Mas Blok D1 No. 23-25",
+      "address": "Jl. KH. Hasyim Ashari",
+      "location": {
+        "lat": -6.167845,
+        "lng": 106.802792
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVQtI5m7FNC4Y_x"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Samuel Panjaitan"
+    },
+    "key": "-MC29Hiu4igtSvkhQSR4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593590400000,
+    "place": {
+      "name": "Tiberias Cempaka Mas",
+      "address": "Komplek Cempaka Mas blok E No 8-9 Jl. Letjen Suprapto, Jakarta",
+      "city": "Jakarta",
+      "key": "-LPQobV0JpH982Ys9tt0"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. SAMUEL PANJAITAN, M.Th.",
+      "title": "Pdm.",
+      "suffix": "M.Th.",
+      "name": "Samuel Panjaitan"
+    },
+    "key": "-MC29HivGqpEmOVERUN5",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. ARNOLD TINDAS",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Arnold Tindas"
+    },
+    "key": "-MC29HiwTeCnWdiLIyKR",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "BSD Plaza Lt. 1",
+      "address": "BSD City, Serpong, Tangerang",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2794515,
+        "lng": 106.6627203
+      },
+      "key": "-LPQobVI-sZtn1YNk4tQ"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. DR. ARNOLD TINDAS",
+      "title": "Pdt.",
+      "prefix": "DR.",
+      "name": "Arnold Tindas"
+    },
+    "key": "-MC29HiwAWDBQBgvbk3S",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593565200000,
+    "place": {
+      "name": "Bekasi Trade Center",
+      "address": "J. H. Joyomartono Bulak Kapal, Bekasi Timur",
+      "location": {
+        "lat": -6.258466,
+        "lng": 107.021133
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVFHOOOyoe3JyYr"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Reinold Wattimena"
+    },
+    "key": "-MC29HixtyKAINS_Tagv",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593574200000,
+    "place": {
+      "name": "Times Square Cibubur - Ruko Madison Blok C No. 43 A-B",
+      "address": "Jl. Alternatif Cibubur",
+      "location": {
+        "lat": -6.379523,
+        "lng": 106.91967
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPsD9zI6sNHcGp"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Reinold Wattimena"
+    },
+    "key": "-MC29HiyrQAkeGX-sGel",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593586800000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPgysiWKlHYkwK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Reinold Wattimena"
+    },
+    "key": "-MC29Hiyg8jPeEa76YQ4",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Tiberias Newton Square",
+      "address": "Newton Square Blok U 19 No. 5-8, Komp Legenda Wisata Cibubur, Nagrak, Bogor",
+      "key": "-M0sI8ZEn_tNUJjyxKxV"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdt. REINOLD WATTIMENA, S.Th.",
+      "title": "Pdt.",
+      "suffix": "S.Th.",
+      "name": "Reinold Wattimena"
+    },
+    "key": "-MC29HizaJyo3EKYFrmD",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593572400000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPgysiWKlHYkwK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GUNAWAN CHANDRA, S.Kom., S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Kom., S.Th.",
+      "name": "Gunawan Chandra"
+    },
+    "key": "-MC29Hiz1_MdCnsu0Qyk",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593577800000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. GUNAWAN CHANDRA, S.Kom., S.Th.",
+      "title": "Pdm.",
+      "suffix": "S.Kom., S.Th.",
+      "name": "Gunawan Chandra"
+    },
+    "key": "-MC29HizPNOdPK2ddAcn",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593579600000,
+    "place": {
+      "name": "Taman Rekreasi Wiladatika, Ged. Tirta Teja Cibubur",
+      "address": "(Sebelah Kolam Renang Tirta Teja) Jl. Jambore I Cibubur",
+      "location": {
+        "lat": -6.372132,
+        "lng": 106.891657
+      },
+      "city": "Jakarta",
+      "key": "-LPQobVPgysiWKlHYkwK"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. PRADIPTA CHRISTIAN, B.Comm",
+      "title": "Pdm.",
+      "suffix": "B.Comm.",
+      "name": "Pradipta Christian B.comm"
+    },
+    "key": "-MC29Hj-wELpuMilksHV",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593597600000,
+    "place": {
+      "name": "Ruko CBD No. 15-19 Palem Semi, Karawaci (Seberang Giant), Tangerang",
+      "address": "Ruko CBD",
+      "city": "Jakarta",
+      "location": {
+        "lat": -6.2194208,
+        "lng": 106.6145253
+      },
+      "key": "-LPQobVCsb1sJIqnGegv"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. PRADIPTA CHRISTIAN, B.Comm",
+      "title": "Pdm.",
+      "suffix": "B.Comm.",
+      "name": "Pradipta Christian B.comm"
+    },
+    "key": "-MC29Hj0tLaOIspEU1Rj",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  },
+  {
+    "date": 1593536400000,
+    "event": "Ibadah Hari Minggu  12 Juli 2020",
+    "time": 1593604800000,
+    "place": {
+      "name": "Pluit Village (D/H. Mega Mal Pluit) No. 34-35-36",
+      "address": "Jl. Pluit Permai (Hadap Utara), Jakarta Utara",
+      "city": "Jakarta",
+      "location": {
+        "lat": 6.1167476,
+        "lng": 106.7889175
+      },
+      "key": "-LPQobUv6HzEayh1PB6-"
+    },
+    "withPerjamuanKudus": true,
+    "speaker": {
+      "givenName": "Pdm. PRADIPTA CHRISTIAN, B.Comm",
+      "title": "Pdm.",
+      "suffix": "B.Comm.",
+      "name": "Pradipta Christian B.comm"
+    },
+    "key": "-MC29Hj0qXQRFyXb345A",
+    "category": "Ibadah Hari Minggu  12 Juli 2020"
+  }
+]
